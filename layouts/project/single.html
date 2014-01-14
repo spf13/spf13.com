@@ -14,9 +14,11 @@
 {{ template "chrome/meta_aside.html" . }}
 
 {{if isset .Params "project_url" }}
+
+<div id="outer_ribbon">
 <div id="ribbon">
     <a href="{{ index .Params "project_url" }}" rel="me">Fork me on GitHub</a>
-</div>
+</div> </div>
 {{ end }}
 
 {{ template "chrome/footer.html" . }}

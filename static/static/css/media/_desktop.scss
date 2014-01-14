@@ -185,7 +185,7 @@
         right:0;
         /*top: 7.1em;*/
         top: 0;
-        margin-right:0;
+        margin-right:1em;
         position: fixed;
         height: 100%;
         text-align: left;
@@ -213,12 +213,6 @@
         @include colwidth(12);
         line-height: 1.9;
     }
-
-    /*
-     *aside a {
-     *    color: #FFF;
-     *}
-     */
 
     #date {
         margin-top: 1em;
