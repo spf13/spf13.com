@@ -5,8 +5,8 @@
         line-height: 1.6;
     }
 
-    #main > div, footer > div, #meta > div, #content, #comments > div {
-        width:38em;
+    #main > div, footer > div, #meta > div, #meta > section, #content, #comments > div {
+        max-width:38em;
     }
 
     h1 {

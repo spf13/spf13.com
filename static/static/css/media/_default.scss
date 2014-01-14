@@ -205,15 +205,16 @@ article {
 
 body > footer > div {
     border-top: 1px solid $silver;
-    padding-bottom:0;
+    padding-bottom: 1em;
     margin-bottom:0;
+    padding-top: .7em;
 }
 
 body > footer p {
     margin:0;
     padding:0;
     font-size:80%;
-    line-height: 1.3;
+    line-height: 1.5;
 }
 
 #social, .dropdown {
@@ -224,3 +225,16 @@ body > footer p {
     line-height: 2;
 }
 
+#author {
+    width:100% !important;
+    padding-top: 2em;
+}
+
+#next {
+    text-align: right;
+}
+
+#next, #prev {
+    width: 100% !important;
+    padding-top: 2em;
+}

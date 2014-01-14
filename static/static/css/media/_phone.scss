@@ -38,6 +38,11 @@
         vertical-align: top;
     }
 
+    #next, #prev {
+        width: 50% !important;
+        padding-top: 2em;
+    }
+
     .half { max-width: 14em !important; }
     .third { max-width: 10em !important; }
     .twothirds { max-width: 20em !important; }
