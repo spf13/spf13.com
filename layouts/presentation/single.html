@@ -1,11 +1,12 @@
 {{ template "chrome/header.html" . }}
+<body lang="en" itemscope itemtype="http://schema.org/Article">
 {{ template "chrome/subheader.html" . }}
 {{ $baseurl := .Site.BaseUrl }}
 
 <section id="main">
-   <h1 id="title">{{ .Title }}</h1>
+  <h1 itemprop="name" id="title">{{ .Title }}</h1>
   <div>
-        <article id="content">
+        <article itemprop="articleBody" id="content">
            {{ .Content }}
         </article>
   </div>

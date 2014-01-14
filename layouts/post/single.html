@@ -1,17 +1,23 @@
 {{ template "chrome/header.html" . }}
+<body lang="en" itemscope itemtype="http://schema.org/Article">
 {{ template "chrome/subheader.html" . }}
 {{ $baseurl := .Site.BaseUrl }}
 
+
+<!--<article itemscope itemtype="http://schema.org/Article">-->
 <section id="main">
-  <h1 id="title">{{ .Title }}</h1>
+  <h1 itemprop="name" id="title">{{ .Title }}</h1>
   <div>
-        <article id="content">
+        <article itemprop="articleBody" id="content">
            {{ .Content }}
         </article>
   </div>
 </section>
 
 {{ template "chrome/meta_aside.html" . }}
+
+
+<!--</article>-->
 
 {{ template "chrome/disqus.html" . }}
 {{ template "chrome/footer.html" . }}
