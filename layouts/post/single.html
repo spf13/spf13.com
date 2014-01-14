@@ -11,28 +11,7 @@
   </div>
 </section>
 
-<aside id="meta">
-    <div>
-    <section>
-      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-      <h5 id="wc"> {{ .FuzzyWordCount }} Words </h5>
-    </section>
-    <ul id="categories">
-      {{ range .Params.topics }}
-        <li><a href="{{ $baseurl }}/topics/{{ . | urlize }}">{{ . }}</a> </li>
-      {{ end }}
-    </ul>
-    <ul id="tags">
-      {{ range .Params.tags }}
-        <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
-      {{ end }}
-    </ul>
-    </div>
-    <div>
-        {{if .Prev}}<a class="previous" href="{{.Prev.Permalink}}"> {{.Prev.Title}}</a>{{end}}
-        {{if .Next}}<a class="next" href="{{.Next.Permalink}}"> {{.Next.Title}}</a>{{end}}
-    </div>
-</aside>
+{{ template "chrome/meta_aside.html" . }}
 
 {{ template "chrome/disqus.html" . }}
 {{ template "chrome/footer.html" . }}
