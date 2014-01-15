@@ -20,6 +20,11 @@
 	],
 	"Slug": "piv",
     "project_url": "http://github.com/spf13/piv"
+    "project_name": "PIV"
+    "project_description": "Php integration for VIM"
+    "official_url": "http://spf13.com/project/piv"
+    "download_url": "http://github.com/spf13/piv"
+    "release_date": "2013-10-18"
 }
 
 This project contains the most feature complete and up to date PHP

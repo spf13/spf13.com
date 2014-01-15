@@ -20,6 +20,12 @@
 	],
 	"Slug": "hugo",
     "project_url": "http://github.com/spf13/hugo"
+    "project_name": "Hugo"
+    "project_description": "A fast and flexible static site generator written in go"
+    "official_url": "http://hugo.spf13.com"
+    "download_url": "http://github.com/spf13/hugo/releases"
+    "version": "0.9"
+    "release_date": "2013-11-15"
 }
 
 {{% img src="/media/hugo.png" class="hid" caption="Hugo Website" %}}
@@ -53,8 +59,6 @@ The latest release can be found at [hugo releases](https://github.com/spf13/hugo
 We currently build for Windows, Linux, FreeBSD and OS X for x64
 and 386 architectures.
 
-### Installing Hugo (binary)
-
 Installation is very easy. Simply download the appropriate version for your
 platform from [hugo releases](https://github.com/spf13/hugo/releases).
 Once downloaded it can be run from anywhere. You don't need to install
@@ -66,16 +70,16 @@ is the most probable location.
 
 *The Hugo executible has no external dependencies.*
 
-### Installing from source
+## Installing from source
 
-#### Dependencies
+### Dependencies
 
 * Git
 * Go 1.1+
 * Mercurial
 * Bazaar
 
-#### Clone locally (for contributors):
+### Clone locally (for contributors):
 
     git clone https://github.com/spf13/hugo
     cd hugo
@@ -87,23 +91,24 @@ it's helpful to symlink the project to one of the following paths:
  * ln -s /path/to/your/hugo $GOPATH/src/github.com/spf13/hugo
  * ln -s /path/to/your/hugo $GOROOT/src/pkg/github.com/spf13/hugo
 
-#### Get directly from Github:
+### Get directly from Github:
 
 If you only want to build from source, it's even easier.
 
     go get github.com/spf13/hugo
 
-#### Building Hugo
+### Building Hugo
 
     cd /path/to/hugo
     go build -o hugo main.go
     mv hugo /usr/local/bin/
 
-#### Running Hugo
+### Running Hugo
 
     cd /path/to/hugo
     go install github.com/spf13/hugo/hugolibs
     go run main.go
+
 
 **Complete documentation is available at [Hugo Documentation](http://hugo.spf13.com).**
 

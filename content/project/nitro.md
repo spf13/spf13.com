@@ -18,6 +18,11 @@
 	],
 	"Slug": "nitro",
     "project_url": "http://github.com/spf13/nitro"
+    "project_name": "Nitro"
+    "project_description": "A quick and easy performance analyzer library for golang."
+    "official_url": "http://spf13.com/project/nitro"
+    "download_url": "http://github.com/spf13/nitro"
+    "version": "0.2"
 }
 {{% img src="/media/nitro.png" alt="Nitro" class="third right" %}}
 Nitro is a quick and easy performance analyzer library for golang.
