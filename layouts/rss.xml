@@ -4,8 +4,8 @@
     <link>{{ .Permalink }}</link>
     <language>en-us</language>
     <author>Steve Francia</author>
-    <rights>Copyright (c) 2008 - 2013, Steve Francia; all rights reserved.</rights>
-    <updated>{{ .Date }}</updated>
+    <rights>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</rights>
+    <updated>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
     {{ range .Data.Pages }}
     <item>
       <title>{{ .Title }}</title>
