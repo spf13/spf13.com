@@ -3,7 +3,7 @@
 	"disqus_identifier" : "805 http://spf13.com/?p=805",
 	"disqus_title" : "16 lessons from 16 years",
 	"Title": "16 lessons from 16 years",
-	"Description": "",
+	"Description": "16 lessons learned I learned from my first 16 years working in the technology industry.",
 	"Keywords": [
 		"Development",
 		"Leadership",
