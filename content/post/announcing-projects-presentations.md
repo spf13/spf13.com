@@ -22,7 +22,7 @@
 	"Thumbnail": "/images/1360_spf13-logo-sq-t.png-200x200.png"
 }
 
-{{% img src="/media/spf13-logo-splat.png" alt="Steve Francia Logo" class="right third"" %}}
+{{% img src="/media/spf13-logo-splat.png" alt="Steve Francia Logo" class="right third" %}}
 
 I’ve decided to expand the scope of this site a bit to be more than just
 a blog. It makes sense, many of my posts are how tos and often for my
