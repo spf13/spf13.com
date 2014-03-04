@@ -26,7 +26,6 @@
 	"Section": "presentation",
 	"Thumbnail": "/images/1663_mongoSV.png-200x200.png"
 }
-{{% img /images/1663_mongoSV.png-200x200.png "Building your first app with MongoDB" "third left" %}}
 
 10gen had our flagship conference in Silicon Valley. I gave an
 introductory presentation at the first session on building an
@@ -38,12 +37,6 @@ model, query language, map-reduce framework and deployment architecture.
 **[Building your first application w/mongoDB
 MongoSV2011](http://www.slideshare.net/spf13/building-your-first-application-wmongodb-mongosv2011 "Building your first application w/mongoDB MongoSV2011")**
 {{% slideshare 10537536 %}}
-
-{{% img "/uploads/2011/12/DSC7568-1024x681.jpg" "Steve Francia speaking at OSCON 2012" " " "MongoSV 2011" %}}
-{{% img /uploads/2011/12/spf13-mongosv-speaking-copy-1024x749.jpg "Steve Francia speaking at OSCON 2012" " " "MongoSV 2011" %}}
-{{% img /uploads/2011/12/DSC7581-1024x681.jpg "Steve Francia speaking at OSCON 2012" " " "MongoSV 2011" %}}
-{{% img /uploads/2011/12/DSC7591-1024x681.jpg "Steve Francia speaking at OSCON 2012" " " "MongoSV 2011" %}}
-{{% img /uploads/2011/12/DSC7594-1024x681.jpg "Steve Francia speaking at OSCON 2012" " " "MongoSV 2011" %}}
 
 View more [presentations](http://www.slideshare.net/) from [Steve
 Francia](http://www.slideshare.net/spf13)
