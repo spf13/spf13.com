@@ -26,10 +26,10 @@ following the [excellent guide by Dave
 Cheney](http://dave.cheney.net/2013/07/09/an-introduction-to-cross-compilation-with-go-1-1).
 It provides a bash script that automated the process, but wasn’t very
 customizable. I started writing another script to adjust the behavior to
-what I needed when I came across [goxc](https://github.com/laher/goxc).
-Inspired by Dave’s script, goxc is a go application that not only cross
-compiles, but also can compress the different binaries and package them
-with the readme and license. It’s very customizable and easy to use.
+what I needed when I came across [goxc][]. Inspired by Dave’s script,
+[goxc][] is a go application that not only cross compiles, but also
+can compress the different binaries and package them with the readme and
+license. It’s customizable and easy to use.
 
 Here are the necessary steps to be able to cross compile including the
 gotchas that are important. 
@@ -55,7 +55,7 @@ correctly.
 
 I also check that `go version` returns the version I’m expecting.
 
-    ~|⇒ go version
+    go version
     go version go1.2 darwin/amd64
 
 I also check that the build happened properly and the system has all the
@@ -133,6 +133,7 @@ end it will build your application for each arch and os.
 
 If all goes well the output should resemble the following:
 
+<div class='scrollable'><pre><code>
     [goxc:xc] 2014/03/01 11:11:55 Parallelizing xc for 13 platforms, using max 7 of 8 processors
     [goxc:xc] 2014/03/01 11:11:55 mainDirs : [/Users/spf13/Code/hugo]
     [goxc:xc] 2014/03/01 11:11:55 building hugo for platform {linux 386}.
@@ -225,4 +226,20 @@ If all goes well the output should resemble the following:
     [goxc:pkg-build] 2014/03/01 11:12:18 Task pkg-build succeeded
     [goxc:rmbin] 2014/03/01 11:12:18 Task rmbin succeeded
     [goxc:downloads-page] 2014/03/01 11:12:18 Task downloads-page succeeded
+</code></pre></div>
 
+## Addendum
+
+A few people have commented on [reddit](http://www.reddit.com/r/golang/comments/1zjg2r/cross_compiling_with_go/) with additional information.
+
+Some have reported success using [gox][]. I have yet to play with it
+but [Mitchell](http://mitchellh.com) is known for writing excellent
+software so I would expect nothing less here. [Gox][] does less than
+[goxc][], but that’s the point. 
+
+Cgo has issues when cross compiling. If you depend on cgo then you’re
+probably going to be better off building on the native platforms. The go
+tool will disable cgo support by default. To explicitly enable cgo, set CGO_ENABLED=1.
+
+[gox]: https://github.com/mitchellh/gox
+[goxc]: https://github.com/laher/goxc
