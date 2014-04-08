@@ -6,12 +6,12 @@
         </section>
         <ul id="categories">
           {{ range .Params.topics }}
-            <li><a href="{{ $baseurl }}topics/{{ . | urlize }}">{{ . }}</a> </li>
+            <li><a href="{{ $baseurl }}/topics/{{ . | urlize }}">{{ . }}</a> </li>
           {{ end }}
         </ul>
         <ul id="tags">
           {{ range .Params.tags }}
-            <li> <a href="{{ $baseurl }}tags/{{ . | urlize }}">{{ . }}</a> </li>
+            <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
           {{ end }}
         </ul>
     </div>

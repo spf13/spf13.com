@@ -30,6 +30,12 @@ section a, footer a {
     }
 }
 
+.scrollable {
+    overflow: scroll;
+    width: 100%;
+    height: 350px;
+}
+
 article > footer {
     text-align: right;
     line-height: 3em;
@@ -464,6 +470,7 @@ span.subcount {
 pre {
     margin-bottom: 1em;
     background-color: ghostwhite;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding: 1em;
+    line-height: 1.4;
+    font-size: larger;
 }
