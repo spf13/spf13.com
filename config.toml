@@ -1,5 +1,12 @@
 baseurl = "http://spf13.com/"
-title = "spf13 is Steve Francia"
+title = "Hacking Management"
+languageCode = "en-us"
+disqusShortname = "spf13"
+copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+MetaDataFormat = "toml"
+
+[author]
+    name = "Steve Francia"
 
 [indexes]
     tag = "tags"

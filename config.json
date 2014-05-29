@@ -1,5 +1,0 @@
-{
-    "indexes" : { "tag": "tags", "topic": "topics" },
-    "baseurl" : "http://spf13.com/",
-    "title": "spf13 is Steve Francia"
-}
