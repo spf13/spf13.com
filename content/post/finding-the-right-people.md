@@ -1,32 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/finding-the-right-people/",
-	"disqus_identifier" : "65 http://localhost/~sfrancia/wordpress/?p=65",
-	"disqus_title" : "Finding the Right People",
-	"Title": "Finding the Right People",
-	"Description": "",
-	"Keywords": [
-		"career",
-		"hiring",
-		"leadership",
-		"management",
-		"recruiting"
-	],
-	"Tags": [
-		"career",
-		"hiring",
-		"leadership",
-		"management",
-		"recruiting"
-	],
-	"Pubdate": "2010-03-22",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/finding-the-right-people",
-	"Slug": "finding-the-right-people",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/03/2668516894_1ca5eb1eed_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- career
+- hiring
+- leadership
+- management
+- recruiting
+Section: post
+Slug: finding-the-right-people
+Tags:
+- career
+- hiring
+- leadership
+- management
+- recruiting
+Thumbnail: /uploads/2010/03/2668516894_1ca5eb1eed_m.jpg
+Title: Finding the Right People
+Topics:
+- Leadership
+Url: post/finding-the-right-people
+date: 2010-03-22
+disqus_identifier: 65 http://localhost/~sfrancia/wordpress/?p=65
+disqus_title: Finding the Right People
+disqus_url: http://spf13.com/post/finding-the-right-people/
+---
 
 {{% img src="/media/twitter-following.jpg" class="right third" alt="people" %}}
 

@@ -1,31 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/fascinating-interview-with-steve-jobs-and-bill-gates/",
-	"disqus_identifier" : "523 http://localhost/~sfrancia/wordpress/?p=523",
-	"disqus_title" : "Fascinating interview with Steve Jobs and Bill Gates",
-	"Title": "Fascinating interview with Steve Jobs and Bill Gates",
-	"Description": "",
-	"Keywords": [
-		"apple",
-		"Bill Gates",
-		"microsoft",
-		"Steve Jobs"
-	],
-	"Tags": [
-		"apple",
-		"Bill Gates",
-		"microsoft",
-		"Steve Jobs"
-	],
-	"Pubdate": "2009-12-16",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/fascinating-interview-with-steve-jobs-and-bill-gates",
-	"Slug": "fascinating-interview-with-steve-jobs-and-bill-gates",
-	"Section": "post",
-	"Thumbnail": "/images/771_300px-Steve_Jobs_and_Bill_Gates_522695099.jpg-200x200.jpg"
-}
-
+---
+Description: ""
+Keywords:
+- apple
+- Bill Gates
+- microsoft
+- Steve Jobs
+Section: post
+Slug: fascinating-interview-with-steve-jobs-and-bill-gates
+Tags:
+- apple
+- Bill Gates
+- microsoft
+- Steve Jobs
+Thumbnail: /images/771_300px-Steve_Jobs_and_Bill_Gates_522695099.jpg-200x200.jpg
+Title: Fascinating interview with Steve Jobs and Bill Gates
+Topics:
+- Leadership
+Url: post/fascinating-interview-with-steve-jobs-and-bill-gates
+date: 2009-12-16
+disqus_identifier: 523 http://localhost/~sfrancia/wordpress/?p=523
+disqus_title: Fascinating interview with Steve Jobs and Bill Gates
+disqus_url: http://spf13.com/post/fascinating-interview-with-steve-jobs-and-bill-gates/
+---
 
 {{% img src="/media/Steve_Jobs_and_Bill_Gates.jpg" class="third right" %}}
 

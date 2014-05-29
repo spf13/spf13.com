@@ -1,26 +1,23 @@
-{
-	"disqus_url" : "http://spf13.com/post/why-projects-fail/",
-	"disqus_identifier" : "375 http://localhost/~sfrancia/wordpress/?p=375",
-	"disqus_title" : "Why Projects Fail",
-	"Title": "Why Projects Fail",
-	"Description": "",
-	"Keywords": [
-		"management",
-		"Project Management"
-	],
-	"Tags": [
-		"management",
-		"Project Management"
-	],
-	"Pubdate": "2010-07-06",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/why-projects-fail",
-	"Slug": "why-projects-fail",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/07/300px-What_Happens_When_Brakes_Fail.jpg"
-}
+---
+Description: ""
+Keywords:
+- management
+- Project Management
+Section: post
+Slug: why-projects-fail
+Tags:
+- management
+- Project Management
+Thumbnail: /uploads/2010/07/300px-What_Happens_When_Brakes_Fail.jpg
+Title: Why Projects Fail
+Topics:
+- Leadership
+Url: post/why-projects-fail
+date: 2010-07-06
+disqus_identifier: 375 http://localhost/~sfrancia/wordpress/?p=375
+disqus_title: Why Projects Fail
+disqus_url: http://spf13.com/post/why-projects-fail/
+---
 
 {{% img src="/media/What_Happens_When_Brakes_Fail.jpg" class="right third" alt="train crash" %}}
 

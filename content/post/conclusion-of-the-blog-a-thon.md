@@ -1,27 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/conclusion-of-the-blog-a-thon/",
-	"disqus_identifier" : "163 http://localhost/~sfrancia/wordpress/?p=163",
-	"disqus_title" : "Conclusion of the Blog-a-thon",
-	"Title": "Conclusion of the Blog-a-thon",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"Personal",
-		"blog"
-	],
-	"Tags": [
-		"blog"
-	],
-	"Pubdate": "2009-10-23",
-	"Topics": [
-		"Blogging",
-		"Personal"
-	],
-	"Url": "post/conclusion-of-the-blog-a-thon",
-	"Slug": "conclusion-of-the-blog-a-thon",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- Personal
+- blog
+Section: post
+Slug: conclusion-of-the-blog-a-thon
+Tags:
+- blog
+Thumbnail: ""
+Title: Conclusion of the Blog-a-thon
+Topics:
+- Blogging
+- Personal
+Url: post/conclusion-of-the-blog-a-thon
+date: 2009-10-23
+disqus_identifier: 163 http://localhost/~sfrancia/wordpress/?p=163
+disqus_title: Conclusion of the Blog-a-thon
+disqus_url: http://spf13.com/post/conclusion-of-the-blog-a-thon/
+---
+
 Today marks the last post of my blog-a-thon. It has been a learning and
 growing experience. I have blogged more time in the past 4 weeks as I
 did the prior 52. It was challenging and rewarding.

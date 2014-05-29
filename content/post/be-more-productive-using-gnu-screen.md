@@ -1,30 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/be-more-productive-using-gnu-screen/",
-	"disqus_identifier" : "216 http://localhost/~sfrancia/wordpress/?p=216",
-	"disqus_title" : "Be more productive using GNU Screen",
-	"Title": "Be more productive using GNU Screen",
-	"Description": "Tips, Techniques and Tricks for using GNU Screen to increase your productivity.",
-	"Keywords": [
-		"cli",
-		"gnu",
-		"screen",
-		"terminal"
-	],
-	"Tags": [
-		"cli",
-		"gnu",
-		"screen",
-		"terminal"
-	],
-	"Pubdate": "2008-07-03",
-	"Topics": [
-		"Systems"
-	],
-	"Url": "post/be-more-productive-using-gnu-screen",
-	"Slug": "be-more-productive-using-gnu-screen",
-	"Section": "post",
-	"Thumbnail": "/media/300px-GNU_Screen.png"
-}
+---
+Description: Tips, Techniques and Tricks for using GNU Screen to increase your productivity.
+Keywords:
+- cli
+- gnu
+- screen
+- terminal
+Section: post
+Slug: be-more-productive-using-gnu-screen
+Tags:
+- cli
+- gnu
+- screen
+- terminal
+Thumbnail: /media/300px-GNU_Screen.png
+Title: Be more productive using GNU Screen
+Topics:
+- Systems
+Url: post/be-more-productive-using-gnu-screen
+date: 2008-07-03
+disqus_identifier: 216 http://localhost/~sfrancia/wordpress/?p=216
+disqus_title: Be more productive using GNU Screen
+disqus_url: http://spf13.com/post/be-more-productive-using-gnu-screen/
+---
 
 {{% img src="/media/300px-GNU_Screen.png" caption="Image via Wikipedia" title="GNU Screen" class="half right" %}}
 

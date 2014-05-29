@@ -1,29 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-golden-hammer/",
-	"disqus_identifier" : "50 http://localhost/~sfrancia/wordpress/?p=50",
-	"disqus_title" : "The Golden Hammer",
-	"Title": "The Golden Hammer",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Development",
-		"Leadership",
-		"nosql"
-	],
-	"Tags": [
-		"nosql"
-	],
-	"Pubdate": "2010-04-21",
-	"Topics": [
-		"Architecture",
-		"Development",
-		"Leadership"
-	],
-	"Url": "post/the-golden-hammer",
-	"Slug": "the-golden-hammer",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/04/1430449350_a4392bb04a_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Development
+- Leadership
+- nosql
+Section: post
+Slug: the-golden-hammer
+Tags:
+- nosql
+Thumbnail: /uploads/2010/04/1430449350_a4392bb04a_m.jpg
+Title: The Golden Hammer
+Topics:
+- Architecture
+- Development
+- Leadership
+Url: post/the-golden-hammer
+date: 2010-04-21
+disqus_identifier: 50 http://localhost/~sfrancia/wordpress/?p=50
+disqus_title: The Golden Hammer
+disqus_url: http://spf13.com/post/the-golden-hammer/
+---
 
 {{% img src="/media/hammer.jpg" class="hid" attr="kyle may" attrlink="http://www.flickr.com/photos/87793853@N00/1430449350" alt="hammer" %}}
 

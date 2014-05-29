@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/facebook-meets-twitter-friendfeed/",
-	"disqus_identifier" : "238 http://localhost/~sfrancia/wordpress/?p=238",
-	"disqus_title" : "Facebook Meets Twitter &amp; FriendFeed",
-	"Title": "Facebook Meets Twitter & FriendFeed",
-	"Description": "",
-	"Keywords": [
-		"Social Media",
-		"Tech Industry",
-		"facebook",
-		"friendfeed",
-		"twitter"
-	],
-	"Tags": [
-		"facebook",
-		"friendfeed",
-		"twitter"
-	],
-	"Pubdate": "2009-03-27",
-	"Topics": [
-		"Social Media",
-		"Tech Industry"
-	],
-	"Url": "post/facebook-meets-twitter-friendfeed",
-	"Slug": "facebook-meets-twitter-friendfeed",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/4561v1-max-250x250.png"
-}
+---
+Description: ""
+Keywords:
+- Social Media
+- Tech Industry
+- facebook
+- friendfeed
+- twitter
+Section: post
+Slug: facebook-meets-twitter-friendfeed
+Tags:
+- facebook
+- friendfeed
+- twitter
+Thumbnail: /uploads/2010/10/4561v1-max-250x250.png
+Title: Facebook Meets Twitter & FriendFeed
+Topics:
+- Social Media
+- Tech Industry
+Url: post/facebook-meets-twitter-friendfeed
+date: 2009-03-27
+disqus_identifier: 238 http://localhost/~sfrancia/wordpress/?p=238
+disqus_title: Facebook Meets Twitter &amp; FriendFeed
+disqus_url: http://spf13.com/post/facebook-meets-twitter-friendfeed/
+---
 
 {{% img src="/media/facebook-logo.png" class="third right hid" caption="Image via CrunchBase" %}}
 

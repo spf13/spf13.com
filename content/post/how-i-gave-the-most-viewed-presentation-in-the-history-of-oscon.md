@@ -1,58 +1,55 @@
-{
-	"disqus_url" : "http://spf13.com/post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon/",
-	"disqus_identifier" : "1841 http://spf13.com/?p=1841",
-	"disqus_title" : "How I gave the most viewed presentation in the history of OSCON",
-	"Title": "Giving the most viewed presentation on slideshare ever at OSCON",
-	"Description": "Giving a presentation that had more views on slideshare in it's first week than any other OSCON presentation had in 12 years.",
-	"Keywords": [
-		"MongoDB",
-		"Personal",
-		"Scalability",
-		"data",
-		"data management",
-		"giving a presentation",
-		"mongodb",
-		"nosql",
-		"OSCON",
-		"presentation software",
-		"presentations",
-		"Ruby",
-		"slideshare",
-		"structured storage",
-		"the presentation",
-		"twitter",
-		"view",
-		"view presentation"
-	],
-	"Tags": [
-		"data",
-		"data management",
-		"giving a presentation",
-		"mongodb",
-		"nosql",
-		"OSCON",
-		"presentation software",
-		"presentations",
-		"Ruby",
-		"slideshare",
-		"structured storage",
-		"the presentation",
-		"twitter",
-		"view",
-		"view presentation"
-	],
-	"Pubdate": "2012-09-17",
-	"Topics": [
-		"MongoDB",
-		"Personal",
-		"Scalability"
-	],
-	"Url": "post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon",
-	"Slug": "how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon",
-	"Section": "post",
-	"Thumbnail": "/images/1845_oscon_spf13.jpg-200x200.jpg"
-}
-
+---
+Description: Giving a presentation that had more views on slideshare in it's first
+  week than any other OSCON presentation had in 12 years.
+Keywords:
+- MongoDB
+- Personal
+- Scalability
+- data
+- data management
+- giving a presentation
+- mongodb
+- nosql
+- OSCON
+- presentation software
+- presentations
+- Ruby
+- slideshare
+- structured storage
+- the presentation
+- twitter
+- view
+- view presentation
+Section: post
+Slug: how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon
+Tags:
+- data
+- data management
+- giving a presentation
+- mongodb
+- nosql
+- OSCON
+- presentation software
+- presentations
+- Ruby
+- slideshare
+- structured storage
+- the presentation
+- twitter
+- view
+- view presentation
+Thumbnail: /images/1845_oscon_spf13.jpg-200x200.jpg
+Title: Giving the most viewed presentation on slideshare ever at OSCON
+Topics:
+- MongoDB
+- Personal
+- Scalability
+Url: post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon
+date: 2012-09-17
+disqus_identifier: 1841 http://spf13.com/?p=1841
+disqus_title: How I gave the most viewed presentation in the history of OSCON
+disqus_url: http://spf13.com/post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon/
+---
 
 {{% img src="/media/oscon_spf13.jpg" title="Steve Francia at OSCON" %}}
 

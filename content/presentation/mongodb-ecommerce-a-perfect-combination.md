@@ -1,39 +1,37 @@
-{
-	"disqus_url" : "http://spf13.com/post/mongodb-ecommerce-a-perfect-combination/",
-	"disqus_identifier" : "894 http://spf13.com/?p=894",
-	"disqus_title" : "MongoDB &#038; Ecommerce : A Perfect Combination",
-	"Title": "MongoDB & Ecommerce : A Perfect Combination",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"Personal",
-		"Presentations",
-		"ecommerce",
-		"mongodb",
-		"OpenSky",
-		"PHP"
-	],
-	"Tags": [
-		"ecommerce",
-		"mongodb",
-		"OpenSky",
-		"PHP"
-	],
-	"Pubdate": "2010-10-20",
-	"Topics": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"Personal",
-		"Presentations"
-	],
-	"Url": "presentation/mongodb-ecommerce-a-perfect-combination",
-	"Slug": "mongodb-ecommerce-a-perfect-combination",
-	"Section": "presentation",
-	"Thumbnail": "/images/1082_mongodb-sq.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Ecommerce
+- MongoDB
+- Personal
+- Presentations
+- ecommerce
+- mongodb
+- OpenSky
+- PHP
+Section: presentation
+Slug: mongodb-ecommerce-a-perfect-combination
+Tags:
+- ecommerce
+- mongodb
+- OpenSky
+- PHP
+Thumbnail: /images/1082_mongodb-sq.png-200x200.png
+Title: 'MongoDB & Ecommerce : A Perfect Combination'
+Topics:
+- Development
+- Ecommerce
+- MongoDB
+- Personal
+- Presentations
+Url: presentation/mongodb-ecommerce-a-perfect-combination
+date: 2010-10-20
+disqus_identifier: 894 http://spf13.com/?p=894
+disqus_title: 'MongoDB &#038; Ecommerce : A Perfect Combination'
+disqus_url: http://spf13.com/post/mongodb-ecommerce-a-perfect-combination/
+---
+
 Last night I gave a presentation on
 [MongoDB](http://www.mongodb.org/ "MongoDB") & Ecommerce.
 [OpenSky](http://theopenskyproject.com "OpenSky") is the first company

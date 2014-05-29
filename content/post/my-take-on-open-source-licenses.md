@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/my-take-on-open-source-licenses/",
-	"disqus_identifier" : "599 http://spf13.com/?p=599",
-	"disqus_title" : "My take on open source licenses",
-	"Title": "My take on open source licenses",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"Tech Industry",
-		"Open source",
-		"Programming"
-	],
-	"Tags": [
-		"Open source",
-		"Programming"
-	],
-	"Pubdate": "2010-07-21",
-	"Topics": [
-		"Development",
-		"Leadership",
-		"Tech Industry"
-	],
-	"Url": "post/my-take-on-open-source-licenses",
-	"Slug": "my-take-on-open-source-licenses",
-	"Section": "post",
-	"Thumbnail": "/images/760_288px-Opensource.svg_.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- Tech Industry
+- Open source
+- Programming
+Section: post
+Slug: my-take-on-open-source-licenses
+Tags:
+- Open source
+- Programming
+Thumbnail: /images/760_288px-Opensource.svg_.png-200x200.png
+Title: My take on open source licenses
+Topics:
+- Development
+- Leadership
+- Tech Industry
+Url: post/my-take-on-open-source-licenses
+date: 2010-07-21
+disqus_identifier: 599 http://spf13.com/?p=599
+disqus_title: My take on open source licenses
+disqus_url: http://spf13.com/post/my-take-on-open-source-licenses/
+---
 
 {{% img src="/media/opensource.png" class="right third" alt="open source" %}}
 

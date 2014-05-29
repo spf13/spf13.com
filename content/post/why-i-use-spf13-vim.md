@@ -1,36 +1,36 @@
-{
-	"Title": "Why I use spf13-vim",
-	"Description": "a completely cross platform distribution of vim plugins and resources for Vim, GVim and MacVim stays true to it's vim roots while adding modern features including a plugin management system, a curated plugin set with customized configuration, advanced autocomplete, tags, support for dozens of languages and much more.",
-	"Keywords": [
-		"Development",
-		"VIM",
-		".vimrc",
-		"Distribution",
-		"Gvim",
-		"plugins",
-		"spf13-vim",
-		"Vi",
-		"vim",
-		"Vim (text editor)",
-		"Vimscript"
-	],
-	"Tags": [
-		".vimrc",
-		"Distribution",
-		"Gvim",
-		"plugins",
-		"spf13-vim",
-		"Vi",
-		"vim",
-		"Vim (text editor)",
-		"Vimscript"
-	],
-	"Pubdate": "2014-01-17",
-	"Topics": [
-		"Development",
-		"VIM"
-	]
-}
+---
+Description: a completely cross platform distribution of vim plugins and resources
+  for Vim, GVim and MacVim stays true to it's vim roots while adding modern features
+  including a plugin management system, a curated plugin set with customized configuration,
+  advanced autocomplete, tags, support for dozens of languages and much more.
+Keywords:
+- Development
+- VIM
+- .vimrc
+- Distribution
+- Gvim
+- plugins
+- spf13-vim
+- Vi
+- vim
+- Vim (text editor)
+- Vimscript
+Tags:
+- .vimrc
+- Distribution
+- Gvim
+- plugins
+- spf13-vim
+- Vi
+- vim
+- Vim (text editor)
+- Vimscript
+Title: Why I use spf13-vim
+Topics:
+- Development
+- VIM
+date: 2014-01-17
+---
 
 [spf13-vim](http://vim.spf13.com), a completely cross platform
 distribution of vim plugins and resources for Vim, GVim and MacVim stays

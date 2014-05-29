@@ -1,32 +1,29 @@
-{
-	"Title": "Hugo: A fast and flexible static site generator built in GoLang",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"golang",
-		"Blogging",
-        "profiling"
-	],
-	"Tags": [
-		"Development",
-		"golang",
-		"Blogging"
-	],
-	"Pubdate": "2013-07-04",
-	"Topics": [
-		"Development",
-		"Blogging",
-		"GoLang"
-	],
-	"Slug": "hugo",
-    "project_url": "http://github.com/spf13/hugo"
-    "project_name": "Hugo"
-    "project_description": "A fast and flexible static site generator written in go"
-    "official_url": "http://hugo.spf13.com"
-    "download_url": "http://github.com/spf13/hugo/releases"
-    "version": "0.9"
-    "release_date": "2013-11-15"
-}
+---
+Description: ""
+Keywords:
+- Development
+- golang
+- Blogging
+- profiling
+Slug: hugo
+Tags:
+- Development
+- golang
+- Blogging
+Title: 'Hugo: A fast and flexible static site generator built in GoLang'
+Topics:
+- Development
+- Blogging
+- GoLang
+date: 2013-07-04
+download_url: http://github.com/spf13/hugo/releases
+official_url: http://hugo.spf13.com
+project_description: A fast and flexible static site generator written in go
+project_name: Hugo
+project_url: http://github.com/spf13/hugo
+release_date: 2013-11-15
+version: "0.9"
+---
 
 {{% img src="/media/hugo.png" class="hid" caption="Hugo Website" %}}
 

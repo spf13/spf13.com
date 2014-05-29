@@ -1,33 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/human-readable-du-sorted-by-size/",
-	"disqus_identifier" : "82 http://localhost/~sfrancia/wordpress/?p=82",
-	"disqus_title" : "Human readable du sorted by size",
-	"Title": "Human readable du sorted by size",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"bash",
-		"du",
-		"Linux",
-		"profile"
-	],
-	"Tags": [
-		"bash",
-		"du",
-		"Linux",
-		"profile"
-	],
-	"Pubdate": "2010-01-23",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/human-readable-du-sorted-by-size",
-	"Slug": "human-readable-du-sorted-by-size",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/01/300px-Du_unix_output.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- bash
+- du
+- Linux
+- profile
+Section: post
+Slug: human-readable-du-sorted-by-size
+Tags:
+- bash
+- du
+- Linux
+- profile
+Thumbnail: /uploads/2010/01/300px-Du_unix_output.png
+Title: Human readable du sorted by size
+Topics:
+- Development
+- Systems
+Url: post/human-readable-du-sorted-by-size
+date: 2010-01-23
+disqus_identifier: 82 http://localhost/~sfrancia/wordpress/?p=82
+disqus_title: Human readable du sorted by size
+disqus_url: http://spf13.com/post/human-readable-du-sorted-by-size/
+---
 
 {{% img src="/media/du.png" class="right third" alt="example output of du UNIX command" %}}
 

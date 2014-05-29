@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/installing-git-on-a-shared-host/",
-	"disqus_identifier" : "186 http://localhost/~sfrancia/wordpress/?p=186",
-	"disqus_title" : "Installing Git on a Shared Host",
-	"Title": "Installing Git on a Shared Host",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"1and1",
-		"git",
-		"godaddy"
-	],
-	"Tags": [
-		"1and1",
-		"git",
-		"godaddy"
-	],
-	"Pubdate": "2009-11-24",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/installing-git-on-a-shared-host",
-	"Slug": "installing-git-on-a-shared-host",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/11/256px-Git_icon.svg.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- 1and1
+- git
+- godaddy
+Section: post
+Slug: installing-git-on-a-shared-host
+Tags:
+- 1and1
+- git
+- godaddy
+Thumbnail: /uploads/2009/11/256px-Git_icon.svg.png
+Title: Installing Git on a Shared Host
+Topics:
+- Development
+- Systems
+Url: post/installing-git-on-a-shared-host
+date: 2009-11-24
+disqus_identifier: 186 http://localhost/~sfrancia/wordpress/?p=186
+disqus_title: Installing Git on a Shared Host
+disqus_url: http://spf13.com/post/installing-git-on-a-shared-host/
+---
 
 {{% img src="/media/git-logo.png" class="third right" %}}
 

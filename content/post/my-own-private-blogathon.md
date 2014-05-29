@@ -1,27 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/my-own-private-blogathon/",
-	"disqus_identifier" : "668 http://spf13.com/?p=668",
-	"disqus_title" : "My Own Private Blogathon",
-	"Title": "My Own Private Blogathon",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"Personal",
-		"blog"
-	],
-	"Tags": [
-		"blog"
-	],
-	"Pubdate": "2009-09-28",
-	"Topics": [
-		"Blogging",
-		"Personal"
-	],
-	"Url": "post/my-own-private-blogathon",
-	"Slug": "my-own-private-blogathon",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- Personal
+- blog
+Section: post
+Slug: my-own-private-blogathon
+Tags:
+- blog
+Thumbnail: ""
+Title: My Own Private Blogathon
+Topics:
+- Blogging
+- Personal
+Url: post/my-own-private-blogathon
+date: 2009-09-28
+disqus_identifier: 668 http://spf13.com/?p=668
+disqus_title: My Own Private Blogathon
+disqus_url: http://spf13.com/post/my-own-private-blogathon/
+---
+
 Someone once said a goal is a dream until you write it down … in your
 blog and tell the world about it.
 

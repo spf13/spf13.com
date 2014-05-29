@@ -1,52 +1,48 @@
-{
-	"disqus_url" : "http://spf13.com/post/soap-vs-rest/",
-	"disqus_identifier" : "121 http://localhost/~sfrancia/wordpress/?p=121",
-	"disqus_title" : "SOAP vs. REST",
-	"disqus_url" : "http://spf13.com/post/soap-vs-rest",
-	"disqus_identifier" : "121 http://localhost/~sfrancia/wordpress/?p=121",
-	"disqus_title" : "SOAP vs. REST",
-	"Title": "REST vs SOAP, the difference between soap and rest",
-	"Description": "What's SOAP? What's REST? and what the differences are between them with recommendations of when to use REST versus SOAP",
-	"Keywords": [
-		"Architecture",
-		"Development",
-		"Systems",
-		"api",
-		"remote procedure call",
-		"representational state transfer",
-		"rest",
-		"RPC",
-		"soap",
-		"software architecture",
-		"web service",
-		"web services",
-		"web standards",
-		"ws security"
-	],
-	"Tags": [
-		"api",
-		"remote procedure call",
-		"representational state transfer",
-		"rest",
-		"RPC",
-		"soap",
-		"software architecture",
-		"web service",
-		"web services",
-		"web standards",
-		"ws security"
-	],
-	"Pubdate": "2010-01-15",
-	"Topics": [
-		"Architecture",
-		"Development",
-		"Systems"
-	],
-	"Url": "post/soap-vs-rest",
-	"Slug": "soap-vs-rest",
-	"Section": "post",
-	"Thumbnail": "http://spf13.com/wp-content/themes/striking/cache/images/1254_20090415_soap.jpeg-200x200.jpg"
-}
+---
+Description: What's SOAP? What's REST? and what the differences are between them with
+  recommendations of when to use REST versus SOAP
+Keywords:
+- Architecture
+- Development
+- Systems
+- api
+- remote procedure call
+- representational state transfer
+- rest
+- RPC
+- soap
+- software architecture
+- web service
+- web services
+- web standards
+- ws security
+Section: post
+Slug: soap-vs-rest
+Tags:
+- api
+- remote procedure call
+- representational state transfer
+- rest
+- RPC
+- soap
+- software architecture
+- web service
+- web services
+- web standards
+- ws security
+Thumbnail: http://spf13.com/wp-content/themes/striking/cache/images/1254_20090415_soap.jpeg-200x200.jpg
+Title: REST vs SOAP, the difference between soap and rest
+Topics:
+- Architecture
+- Development
+- Systems
+Url: post/soap-vs-rest
+date: 2010-01-15
+disqus_identifier: 121 http://localhost/~sfrancia/wordpress/?p=121
+disqus_title: SOAP vs. REST
+disqus_url: http://spf13.com/post/soap-vs-rest
+---
+
 {{% img src="/media/soap.jpeg" class="third right" %}}
 
 Someone asked me a question today “Why would anyone choose SOAP ([Simple

@@ -1,29 +1,27 @@
-{
-	"Title": "Nitro : A quick and simple profiler for golang",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"golang",
-        "profiling"
-	],
-	"Tags": [
-		"Development",
-		"golang",
-        "profiling"
-	],
-	"Pubdate": "2013-06-19",
-	"Topics": [
-		"Development",
-		"GoLang"
-	],
-	"Slug": "nitro",
-    "project_url": "http://github.com/spf13/nitro"
-    "project_name": "Nitro"
-    "project_description": "A quick and easy performance analyzer library for golang."
-    "official_url": "http://spf13.com/project/nitro"
-    "download_url": "http://github.com/spf13/nitro"
-    "version": "0.2"
-}
+---
+Description: ""
+Keywords:
+- Development
+- golang
+- profiling
+Slug: nitro
+Tags:
+- Development
+- golang
+- profiling
+Title: 'Nitro : A quick and simple profiler for golang'
+Topics:
+- Development
+- GoLang
+date: 2013-06-19
+download_url: http://github.com/spf13/nitro
+official_url: http://spf13.com/project/nitro
+project_description: A quick and easy performance analyzer library for golang.
+project_name: Nitro
+project_url: http://github.com/spf13/nitro
+version: "0.2"
+---
+
 {{% img src="/media/nitro.png" alt="Nitro" class="third right" %}}
 Nitro is a quick and easy performance analyzer library for golang.
 It is useful for comparing A/B against different drafts of functions

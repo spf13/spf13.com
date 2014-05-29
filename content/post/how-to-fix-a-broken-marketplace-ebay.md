@@ -1,29 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/how-to-fix-a-broken-marketplace-ebay/",
-	"disqus_identifier" : "240 http://localhost/~sfrancia/wordpress/?p=240",
-	"disqus_title" : "How to Fix a Broken Marketplace (eBay)",
-	"Title": "How to Fix a Broken Marketplace (eBay)",
-	"Description": "",
-	"Keywords": [
-		"Ecommerce",
-		"Tech Industry",
-		"ebay",
-		"marketplace"
-	],
-	"Tags": [
-		"ebay",
-		"marketplace"
-	],
-	"Pubdate": "2009-04-14",
-	"Topics": [
-		"Ecommerce",
-		"Tech Industry"
-	],
-	"Url": "post/how-to-fix-a-broken-marketplace-ebay",
-	"Slug": "how-to-fix-a-broken-marketplace-ebay",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/3625v1-max-250x250.png"
-}
+---
+Description: ""
+Keywords:
+- Ecommerce
+- Tech Industry
+- ebay
+- marketplace
+Section: post
+Slug: how-to-fix-a-broken-marketplace-ebay
+Tags:
+- ebay
+- marketplace
+Thumbnail: /uploads/2010/10/3625v1-max-250x250.png
+Title: How to Fix a Broken Marketplace (eBay)
+Topics:
+- Ecommerce
+- Tech Industry
+Url: post/how-to-fix-a-broken-marketplace-ebay
+date: 2009-04-14
+disqus_identifier: 240 http://localhost/~sfrancia/wordpress/?p=240
+disqus_title: How to Fix a Broken Marketplace (eBay)
+disqus_url: http://spf13.com/post/how-to-fix-a-broken-marketplace-ebay/
+---
 
 {{% img src="/media/ebay-logo.png" class="third right hid" caption="Image via Crunchbase" %}}
 

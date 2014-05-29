@@ -1,26 +1,23 @@
-{
-	"disqus_url" : "http://spf13.com/post/why-are-you-not-on-twitter/",
-	"disqus_identifier" : "206 http://localhost/~sfrancia/wordpress/?p=206",
-	"disqus_title" : "Why are you not on Twitter",
-	"Title": "Why are you not on Twitter",
-	"Description": "10 reasons why I use Twitter and so should you",
-	"Keywords": [
-		"twitter",
-        "social media"
-	],
-	"Tags": [
-		"twitter",
-        "social media"
-	],
-	"Pubdate": "2008-07-11",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/why-are-you-not-on-twitter",
-	"Slug": "why-are-you-not-on-twitter",
-	"Section": "post",
-	"Thumbnail": "/media/Twitter_Badge_1.png"
-}
+---
+Description: 10 reasons why I use Twitter and so should you
+Keywords:
+- twitter
+- social media
+Section: post
+Slug: why-are-you-not-on-twitter
+Tags:
+- twitter
+- social media
+Thumbnail: /media/Twitter_Badge_1.png
+Title: Why are you not on Twitter
+Topics:
+- Social Media
+Url: post/why-are-you-not-on-twitter
+date: 2008-07-11
+disqus_identifier: 206 http://localhost/~sfrancia/wordpress/?p=206
+disqus_title: Why are you not on Twitter
+disqus_url: http://spf13.com/post/why-are-you-not-on-twitter/
+---
 
 {{% img src="/media/Twitter_Badge_1.png" caption="Image via Wikipedia" class="third hid right" %}}
 

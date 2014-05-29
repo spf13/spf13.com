@@ -1,37 +1,34 @@
-{
-	"disqus_url" : "http://spf13.com/post/ultimate-vim-config/",
-	"disqus_identifier" : "10 http://localhost/~sfrancia/wordpress/?p=10",
-	"disqus_title" : "Ultimate Vim Config",
-	"Title": "Ultimate Vim Config",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"php",
-		"VIM",
-		"Editors",
-		"Open source",
-		"PHP",
-		"Text editor",
-		"Vim (text editor)"
-	],
-	"Tags": [
-		"Editors",
-		"Open source",
-		"PHP",
-		"Text editor",
-		"Vim (text editor)"
-	],
-	"Pubdate": "2010-06-25",
-	"Topics": [
-		"Development",
-		"php",
-		"VIM"
-	],
-	"Url": "post/ultimate-vim-config",
-	"Slug": "ultimate-vim-config",
-	"Section": "post",
-	"Thumbnail": "/images/765_Vim_gloss_128.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- php
+- VIM
+- Editors
+- Open source
+- PHP
+- Text editor
+- Vim (text editor)
+Section: post
+Slug: ultimate-vim-config
+Tags:
+- Editors
+- Open source
+- PHP
+- Text editor
+- Vim (text editor)
+Thumbnail: /images/765_Vim_gloss_128.png-200x200.png
+Title: Ultimate Vim Config
+Topics:
+- Development
+- php
+- VIM
+Url: post/ultimate-vim-config
+date: 2010-06-25
+disqus_identifier: 10 http://localhost/~sfrancia/wordpress/?p=10
+disqus_title: Ultimate Vim Config
+disqus_url: http://spf13.com/post/ultimate-vim-config/
+---
 
 {{% img src="/media/vim_logo.png" class="third right" alt="vim" %}}
 

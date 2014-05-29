@@ -1,58 +1,57 @@
-{
-	"disqus_url" : "http://spf13.com/post/top-4-biggest-myths-surrounding-disaster-recovery/",
-	"disqus_identifier" : "1873 http://spf13.com/?p=1873",
-	"disqus_title" : "Top 4 Biggest Myths Surrounding Disaster Recovery",
-	"Title": "The Biggest Myths Surrounding Disaster Recovery",
-	"Description": "There are many reasons companies fail to create an effective disaster recovery plan. Far too often they fall prey to the common myths of disaster recovery.",
-	"Keywords": [
-		"backup",
-		"business continuity planning",
-		"cloud storage",
-		"common myths",
-		"computing",
-		"data center",
-		"data management",
-		"disaster recovery",
-		"disaster recovery plan",
-		"disaster recovery process",
-		"disaster recovery solutions",
-		"disaster recovery strategy",
-		"emergency management",
-		"information risk management",
-		"real time recovery",
-		"recovery",
-		"recovery plan",
-		"recovery strategies"
-	],
-	"Tags": [
-		"backup",
-		"business continuity planning",
-		"cloud storage",
-		"common myths",
-		"computing",
-		"data center",
-		"data management",
-		"disaster recovery",
-		"disaster recovery plan",
-		"disaster recovery process",
-		"disaster recovery solutions",
-		"disaster recovery strategy",
-		"emergency management",
-		"information risk management",
-		"real time recovery",
-		"recovery",
-		"recovery plan",
-		"recovery strategies"
-	],
-	"Pubdate": "2012-10-04",
-	"Topics": [
-		"Personal"
-	],
-	"Url": "post/top-4-biggest-myths-surrounding-disaster-recovery",
-	"Slug": "top-4-biggest-myths-surrounding-disaster-recovery",
-	"Section": "post",
-	"Thumbnail": "/images/1879_5046906103_f14d189099_b.jpg-200x200.jpg"
-}
+---
+Description: There are many reasons companies fail to create an effective disaster
+  recovery plan. Far too often they fall prey to the common myths of disaster recovery.
+Keywords:
+- backup
+- business continuity planning
+- cloud storage
+- common myths
+- computing
+- data center
+- data management
+- disaster recovery
+- disaster recovery plan
+- disaster recovery process
+- disaster recovery solutions
+- disaster recovery strategy
+- emergency management
+- information risk management
+- real time recovery
+- recovery
+- recovery plan
+- recovery strategies
+Section: post
+Slug: top-4-biggest-myths-surrounding-disaster-recovery
+Tags:
+- backup
+- business continuity planning
+- cloud storage
+- common myths
+- computing
+- data center
+- data management
+- disaster recovery
+- disaster recovery plan
+- disaster recovery process
+- disaster recovery solutions
+- disaster recovery strategy
+- emergency management
+- information risk management
+- real time recovery
+- recovery
+- recovery plan
+- recovery strategies
+Thumbnail: /images/1879_5046906103_f14d189099_b.jpg-200x200.jpg
+Title: The Biggest Myths Surrounding Disaster Recovery
+Topics:
+- Personal
+Url: post/top-4-biggest-myths-surrounding-disaster-recovery
+date: 2012-10-04
+disqus_identifier: 1873 http://spf13.com/?p=1873
+disqus_title: Top 4 Biggest Myths Surrounding Disaster Recovery
+disqus_url: http://spf13.com/post/top-4-biggest-myths-surrounding-disaster-recovery/
+---
+
 {{% img src="/media/5046906103_f14d189099_b.jpg" alt="fire" %}}
 
 There are a variety of reasons businesses either do not have a disaster

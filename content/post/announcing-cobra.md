@@ -1,19 +1,19 @@
-+++
-title = "A modern CLI Commander for go"
-description = "Cobra is a commander providing a simple interface to create powerful modern CLI interfaces similar to git & go tools. In addition to providing an iterface, Cobra simultaneously provides a controller to organize your application code."
-tags = [
-    "hugo",
-    "cobra",
-    "go",
-    "golang",
-    "development",
-]
-date = "2013-11-07"
-topics = [
-    "Development",
-    "golang",
-]
-+++
+---
+date: 2013-11-07
+description: Cobra is a commander providing a simple interface to create powerful
+  modern CLI interfaces similar to git & go tools. In addition to providing an iterface,
+  Cobra simultaneously provides a controller to organize your application code.
+tags:
+- hugo
+- cobra
+- go
+- golang
+- development
+title: A modern CLI Commander for go
+topics:
+- Development
+- golang
+---
 
 While developing [Hugo](http://hugo.spf13.com) I became disappointed
 with the interface limitations flags alone provide. A quick look at

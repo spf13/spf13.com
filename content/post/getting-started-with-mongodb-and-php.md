@@ -1,37 +1,36 @@
-{
-	"disqus_url" : "http://spf13.com/post/getting-started-with-mongodb-and-php/",
-	"disqus_identifier" : "1795 http://spf13.com/?p=1795",
-	"disqus_title" : "Getting Started with MongoDB and PHP",
-	"Title": "Getting Started with MongoDB and PHP",
-	"Description": "The first in a series of posts on MongoDB and PHP that will both explain why you should use MongoDB and teach you how.",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"php",
-		"mongodb",
-		"nosql",
-		"Open source",
-		"Pear",
-		"PHP"
-	],
-	"Tags": [
-		"mongodb",
-		"nosql",
-		"Open source",
-		"Pear",
-		"PHP"
-	],
-	"Pubdate": "2012-05-14",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"php"
-	],
-	"Url": "post/getting-started-with-mongodb-and-php",
-	"Slug": "getting-started-with-mongodb-and-php",
-	"Section": "post",
-	"Thumbnail": "/images/1800_MongoPHP.png-200x200.png"
-}
+---
+Description: The first in a series of posts on MongoDB and PHP that will both explain
+  why you should use MongoDB and teach you how.
+Keywords:
+- Development
+- MongoDB
+- php
+- mongodb
+- nosql
+- Open source
+- Pear
+- PHP
+Section: post
+Slug: getting-started-with-mongodb-and-php
+Tags:
+- mongodb
+- nosql
+- Open source
+- Pear
+- PHP
+Thumbnail: /images/1800_MongoPHP.png-200x200.png
+Title: Getting Started with MongoDB and PHP
+Topics:
+- Development
+- MongoDB
+- php
+Url: post/getting-started-with-mongodb-and-php
+date: 2012-05-14
+disqus_identifier: 1795 http://spf13.com/?p=1795
+disqus_title: Getting Started with MongoDB and PHP
+disqus_url: http://spf13.com/post/getting-started-with-mongodb-and-php/
+---
+
 [![Getting Started with MongoDB and
 PHP](/images/1800_MongoPHP.png-200x200.png)](/uploads/2012/05/MongoPHP.png "Getting Started with MongoDB and PHP")
 

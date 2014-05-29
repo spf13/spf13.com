@@ -1,20 +1,21 @@
-{
-	"disqus_url" : "http://spf13.com/post/dont-look-now-im-on-dzone/",
-	"disqus_identifier" : "1772 http://spf13.com/?p=1772",
-	"disqus_title" : "Don&#8217;t look now, I&#8217;m on DZone",
-	"Title": "Don't look now, I'm on DZone",
-	"Description": "I'm happy to announce that going forward you'll be able to read my articles on DZone as well as spf13.com.",
-	"Keywords": [],
-	"Tags": [],
-	"Pubdate": "2012-04-18",
-	"Topics": [
-		"Personal"
-	],
-	"Url": "post/dont-look-now-im-on-dzone",
-	"Slug": "dont-look-now-im-on-dzone",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: I'm happy to announce that going forward you'll be able to read my articles
+  on DZone as well as spf13.com.
+Keywords: []
+Section: post
+Slug: dont-look-now-im-on-dzone
+Tags: []
+Thumbnail: ""
+Title: Don't look now, I'm on DZone
+Topics:
+- Personal
+Url: post/dont-look-now-im-on-dzone
+date: 2012-04-18
+disqus_identifier: 1772 http://spf13.com/?p=1772
+disqus_title: Don&#8217;t look now, I&#8217;m on DZone
+disqus_url: http://spf13.com/post/dont-look-now-im-on-dzone/
+---
+
 I’m happy to announce that going forward you’ll be able to read my
 articles on DZone as well as spf13.com. DZone has invited me to join
 their MVB program. They describe their program as:

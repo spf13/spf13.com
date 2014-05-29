@@ -1,32 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/",
-	"disqus_identifier" : "155 http://localhost/~sfrancia/wordpress/?p=155",
-	"disqus_title" : "Managing Multiple Firefox Profiles in OS X",
-	"Title": "Managing Multiple Firefox Profiles in OS X",
-	"Description": "Sometimes you need more than one profile in Firefox. This post will show you how to manage multiple profiles in Firefox.",
-	"Keywords": [
-		"firefox",
-		"mac",
-		"OS X",
-		"profile",
-		"script"
-	],
-	"Tags": [
-		"firefox",
-		"mac",
-		"OS X",
-		"profile",
-		"script"
-	],
-	"Pubdate": "2008-08-27",
-	"Topics": [
-		"Personal"
-	],
-	"Url": "post/managing-multiple-firefox-profiles-in-os-x",
-	"Slug": "managing-multiple-firefox-profiles-in-os-x",
-	"Section": "post",
-	"Thumbnail": "/images/858_300px-Firefox_3.5_logo.png-200x200.png"
-}
+---
+Description: Sometimes you need more than one profile in Firefox. This post will show
+  you how to manage multiple profiles in Firefox.
+Keywords:
+- firefox
+- mac
+- OS X
+- profile
+- script
+Section: post
+Slug: managing-multiple-firefox-profiles-in-os-x
+Tags:
+- firefox
+- mac
+- OS X
+- profile
+- script
+Thumbnail: /images/858_300px-Firefox_3.5_logo.png-200x200.png
+Title: Managing Multiple Firefox Profiles in OS X
+Topics:
+- Personal
+Url: post/managing-multiple-firefox-profiles-in-os-x
+date: 2008-08-27
+disqus_identifier: 155 http://localhost/~sfrancia/wordpress/?p=155
+disqus_title: Managing Multiple Firefox Profiles in OS X
+disqus_url: http://spf13.com/post/managing-multiple-firefox-profiles-in-os-x/
+---
 
 {{% img src="/media/Firefox_3.5_logo.png" caption="Image via Wikipedia" class="hid third right" %}}
 

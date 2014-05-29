@@ -1,35 +1,34 @@
-{
-	"disqus_url" : "http://spf13.com/post/portero-raises-6-6-million/",
-	"disqus_identifier" : "235 http://localhost/~sfrancia/wordpress/?p=235",
-	"disqus_title" : "Portero Raises 6.6 Million",
-	"Title": "Portero Raises 6.6 Million",
-	"Description": "In a round of financing led by LFE Capital Portero Inc, the worlds leading online luxury store raises 6.6 million to build out a robust technology platform.",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"Tech Industry",
-		"capital",
-		"luxury",
-		"portero",
-		"vc"
-	],
-	"Tags": [
-		"capital",
-		"luxury",
-		"portero",
-		"vc"
-	],
-	"Pubdate": "2008-12-19",
-	"Topics": [
-		"Leadership",
-		"Personal",
-		"Tech Industry"
-	],
-	"Url": "post/portero-raises-6-6-million",
-	"Slug": "portero-raises-6-6-million",
-	"Section": "post",
-	"Thumbnail": "/media/36525v1-max-250x2501.png"
-}
+---
+Description: In a round of financing led by LFE Capital Portero Inc, the worlds leading
+  online luxury store raises 6.6 million to build out a robust technology platform.
+Keywords:
+- Leadership
+- Personal
+- Tech Industry
+- capital
+- luxury
+- portero
+- vc
+Section: post
+Slug: portero-raises-6-6-million
+Tags:
+- capital
+- luxury
+- portero
+- vc
+Thumbnail: /media/36525v1-max-250x2501.png
+Title: Portero Raises 6.6 Million
+Topics:
+- Leadership
+- Personal
+- Tech Industry
+Url: post/portero-raises-6-6-million
+date: 2008-12-19
+disqus_identifier: 235 http://localhost/~sfrancia/wordpress/?p=235
+disqus_title: Portero Raises 6.6 Million
+disqus_url: http://spf13.com/post/portero-raises-6-6-million/
+---
+
 {{% img src="/media/portero.png" class="third right" %}}
 
 I am happy to announce that [Portero](http://www.portero.com/) has

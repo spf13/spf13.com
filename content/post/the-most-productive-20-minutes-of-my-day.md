@@ -1,29 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-most-productive-20-minutes-of-my-day/",
-	"disqus_identifier" : "1199 http://spf13.com/?p=1199",
-	"disqus_title" : "The most productive 20 minutes of my day",
-	"Title": "The most productive 20 minutes of my day",
-	"Description": "",
-	"Keywords": [
-		"new years resolution",
-		"nyc",
-		"productivity"
-	],
-	"Tags": [
-		"new years resolution",
-		"nyc",
-		"productivity"
-	],
-	"Pubdate": "2011-01-14",
-	"Topics": [
-		"Personal"
-	],
-	"Url": "post/the-most-productive-20-minutes-of-my-day",
-	"Slug": "the-most-productive-20-minutes-of-my-day",
-	"Section": "post",
-	"Thumbnail": "/images/1200_3832960068_1f7a654ee9_b.jpg-200x200.jpg"
-}
-
+---
+Description: ""
+Keywords:
+- new years resolution
+- nyc
+- productivity
+Section: post
+Slug: the-most-productive-20-minutes-of-my-day
+Tags:
+- new years resolution
+- nyc
+- productivity
+Thumbnail: /images/1200_3832960068_1f7a654ee9_b.jpg-200x200.jpg
+Title: The most productive 20 minutes of my day
+Topics:
+- Personal
+Url: post/the-most-productive-20-minutes-of-my-day
+date: 2011-01-14
+disqus_identifier: 1199 http://spf13.com/?p=1199
+disqus_title: The most productive 20 minutes of my day
+disqus_url: http://spf13.com/post/the-most-productive-20-minutes-of-my-day/
+---
 
 {{% img src="/media/3832960068_1f7a654ee9_b.jpg" class="" alt="NYC" %}}
 

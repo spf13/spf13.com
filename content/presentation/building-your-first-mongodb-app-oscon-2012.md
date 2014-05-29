@@ -1,29 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/building-your-first-mongodb-app-oscon-2012/",
-	"disqus_identifier" : "1816 http://spf13.com/?p=1816",
-	"disqus_title" : "Building your first MongoDB app &#8211; OSCON 2012",
-	"Title": "Building your first MongoDB app - OSCON 2012",
-	"Description": "This tutorial given at OSCON 2012  will introduce the features of MongoDB by building a simple location-based application using MongoDB.",
-	"Keywords": [
-		"MongoDB",
-		"Presentations",
-		"mongodb",
-		"Ruby"
-	],
-	"Tags": [
-		"mongodb",
-		"Ruby"
-	],
-	"Pubdate": "2012-07-24",
-	"Topics": [
-		"MongoDB",
-		"Presentations"
-	],
-	"Url": "presentation/building-your-first-mongodb-app-oscon-2012",
-	"Slug": "building-your-first-mongodb-app-oscon-2012",
-	"Section": "presentation",
-	"Thumbnail": "/images/1836_MongoDB-at-oscon-2012.png-200x200.png"
-}
+---
+Description: This tutorial given at OSCON 2012  will introduce the features of MongoDB
+  by building a simple location-based application using MongoDB.
+Keywords:
+- MongoDB
+- Presentations
+- mongodb
+- Ruby
+Section: presentation
+Slug: building-your-first-mongodb-app-oscon-2012
+Tags:
+- mongodb
+- Ruby
+Thumbnail: /images/1836_MongoDB-at-oscon-2012.png-200x200.png
+Title: Building your first MongoDB app - OSCON 2012
+Topics:
+- MongoDB
+- Presentations
+Url: presentation/building-your-first-mongodb-app-oscon-2012
+date: 2012-07-24
+disqus_identifier: 1816 http://spf13.com/?p=1816
+disqus_title: Building your first MongoDB app &#8211; OSCON 2012
+disqus_url: http://spf13.com/post/building-your-first-mongodb-app-oscon-2012/
+---
 
 {{% img src="/media/MongoDB-at-oscon-2012.png" %}}
 

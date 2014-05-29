@@ -1,28 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/migrating-to-feedburner/",
-	"disqus_identifier" : "148 http://localhost/~sfrancia/wordpress/?p=148",
-	"disqus_title" : "Migrating to Feedburner",
-	"Title": "Migrating to Feedburner",
-	"Description": "",
-	"Keywords": [
-		"Drupal",
-		"feed",
-		"feedburner"
-	],
-	"Tags": [
-		"Drupal",
-		"feed",
-		"feedburner"
-	],
-	"Pubdate": "2009-10-12",
-	"Topics": [
-		"Blogging"
-	],
-	"Url": "post/migrating-to-feedburner",
-	"Slug": "migrating-to-feedburner",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/10/3292v1-max-250x250.png"
-}
+---
+Description: ""
+Keywords:
+- Drupal
+- feed
+- feedburner
+Section: post
+Slug: migrating-to-feedburner
+Tags:
+- Drupal
+- feed
+- feedburner
+Thumbnail: /uploads/2009/10/3292v1-max-250x250.png
+Title: Migrating to Feedburner
+Topics:
+- Blogging
+Url: post/migrating-to-feedburner
+date: 2009-10-12
+disqus_identifier: 148 http://localhost/~sfrancia/wordpress/?p=148
+disqus_title: Migrating to Feedburner
+disqus_url: http://spf13.com/post/migrating-to-feedburner/
+---
 
 {{% img src="/media/feedburner-logo.png" class="third right" %}}
 

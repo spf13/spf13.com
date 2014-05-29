@@ -1,31 +1,28 @@
-{
-	"Title": "PIV : PHP Integration for VIM",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"PHP",
-		"vim",
-		"editor"
-	],
-	"Tags": [
-		"Development",
-		"PHP",
-		"vim",
-		"editor"
-	],
-	"Pubdate": "2012-02-13",
-	"Topics": [
-		"Development",
-		"Vim"
-	],
-	"Slug": "piv",
-    "project_url": "http://github.com/spf13/piv"
-    "project_name": "PIV"
-    "project_description": "Php integration for VIM"
-    "official_url": "http://spf13.com/project/piv"
-    "download_url": "http://github.com/spf13/piv"
-    "release_date": "2013-10-18"
-}
+---
+Description: ""
+Keywords:
+- Development
+- PHP
+- vim
+- editor
+Slug: piv
+Tags:
+- Development
+- PHP
+- vim
+- editor
+Title: 'PIV : PHP Integration for VIM'
+Topics:
+- Development
+- Vim
+date: 2012-02-13
+download_url: http://github.com/spf13/piv
+official_url: http://spf13.com/project/piv
+project_description: Php integration for VIM
+project_name: PIV
+project_url: http://github.com/spf13/piv
+release_date: 2013-10-18
+---
 
 This project contains the most feature complete and up to date PHP
 Integration for Vim. It began as a fork of the largely outdated VIP

@@ -1,33 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/using-svk-to-increase-productivity/",
-	"disqus_identifier" : "219 http://localhost/~sfrancia/wordpress/?p=219",
-	"disqus_title" : "Using SVK to Increase Productivity",
-	"Title": "Using SVK to Increase Productivity",
-	"Description": "After subversion but before Git there was SVK. If you are stuck using subversion do yourself a favor and use svk.",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"git",
-		"subversion",
-		"svk",
-		"svn"
-	],
-	"Tags": [
-		"git",
-		"subversion",
-		"svk",
-		"svn"
-	],
-	"Pubdate": "2008-08-23",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/using-svk-to-increase-productivity",
-	"Slug": "using-svk-to-increase-productivity",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: After subversion but before Git there was SVK. If you are stuck using
+  subversion do yourself a favor and use svk.
+Keywords:
+- Development
+- Systems
+- git
+- subversion
+- svk
+- svn
+Section: post
+Slug: using-svk-to-increase-productivity
+Tags:
+- git
+- subversion
+- svk
+- svn
+Thumbnail: ""
+Title: Using SVK to Increase Productivity
+Topics:
+- Development
+- Systems
+Url: post/using-svk-to-increase-productivity
+date: 2008-08-23
+disqus_identifier: 219 http://localhost/~sfrancia/wordpress/?p=219
+disqus_title: Using SVK to Increase Productivity
+disqus_url: http://spf13.com/post/using-svk-to-increase-productivity/
+---
+
 SVK is a client for SVN built using perl. It makes a number of
 improvements over the standard svn client, while retaining much of the
 same feel. It works with the standard Subversion server and works

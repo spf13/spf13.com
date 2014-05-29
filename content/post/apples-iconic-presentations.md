@@ -1,26 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/apples-iconic-presentations/",
-	"disqus_identifier" : "486 http://localhost/~sfrancia/wordpress/?p=486",
-	"disqus_title" : "Apple&#039;s iconic presentations",
-	"Title": "Apple's iconic presentations",
-	"Description": "",
-	"Keywords": [
-		"apple",
-		"Steve Jobs"
-	],
-	"Tags": [
-		"apple",
-		"Steve Jobs"
-	],
-	"Pubdate": "2009-11-12",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/apples-iconic-presentations",
-	"Slug": "apples-iconic-presentations",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/11/10974v3-max-250x250.jpg"
-}
+---
+Description: ""
+Keywords:
+- apple
+- Steve Jobs
+Section: post
+Slug: apples-iconic-presentations
+Tags:
+- apple
+- Steve Jobs
+Thumbnail: /uploads/2009/11/10974v3-max-250x250.jpg
+Title: Apple's iconic presentations
+Topics:
+- Leadership
+Url: post/apples-iconic-presentations
+date: 2009-11-12
+disqus_identifier: 486 http://localhost/~sfrancia/wordpress/?p=486
+disqus_title: Apple&#039;s iconic presentations
+disqus_url: http://spf13.com/post/apples-iconic-presentations/
+---
+
 {{% img src="/media/stevejobs.jpg" class="third right hid" caption="Image via CrunchBase" %}}
 
 Recently a book came out [The Presentation Secrets of Steve Jobs: How to

@@ -1,20 +1,20 @@
-{
-	"disqus_url" : "http://spf13.com/post/engaging-employees/",
-	"disqus_identifier" : "183 http://localhost/~sfrancia/wordpress/?p=183",
-	"disqus_title" : "Engaging Employees",
-	"Title": "Engaging Employees",
-	"Description": "",
-	"Keywords": [],
-	"Tags": [],
-	"Pubdate": "2009-12-02",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/engaging-employees",
-	"Slug": "engaging-employees",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords: []
+Section: post
+Slug: engaging-employees
+Tags: []
+Thumbnail: ""
+Title: Engaging Employees
+Topics:
+- Leadership
+Url: post/engaging-employees
+date: 2009-12-02
+disqus_identifier: 183 http://localhost/~sfrancia/wordpress/?p=183
+disqus_title: Engaging Employees
+disqus_url: http://spf13.com/post/engaging-employees/
+---
+
 There is one trait that if possessed can virtually ensure success, the
 ability to nurture a culture of engaged workers.
 

@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/using-the-right-keys/",
-	"disqus_identifier" : "105 http://spf13.com:81/?p=105",
-	"disqus_title" : "Using the right keys",
-	"Title": "Using the right keys",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"Systems",
-		"Password",
-		"security"
-	],
-	"Tags": [
-		"Password",
-		"security"
-	],
-	"Pubdate": "2010-01-19",
-	"Topics": [
-		"Development",
-		"Leadership",
-		"Systems"
-	],
-	"Url": "post/using-the-right-keys",
-	"Slug": "using-the-right-keys",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/01/380033747_dc9507517e_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- Systems
+- Password
+- security
+Section: post
+Slug: using-the-right-keys
+Tags:
+- Password
+- security
+Thumbnail: /uploads/2010/01/380033747_dc9507517e_m.jpg
+Title: Using the right keys
+Topics:
+- Development
+- Leadership
+- Systems
+Url: post/using-the-right-keys
+date: 2010-01-19
+disqus_identifier: 105 http://spf13.com:81/?p=105
+disqus_title: Using the right keys
+disqus_url: http://spf13.com/post/using-the-right-keys/
+---
+
 {{% img src="/media/door_lock.jpg" class="right third" alt="door lock" attr="HeyThereSpaceman" attrlink="http://www.flickr.com/photos/95257089@N00/380033747" %}}
 
 Today I was visiting a friends office and like many offices in NYC they

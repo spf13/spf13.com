@@ -1,28 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/checking-vendor-references/",
-	"disqus_identifier" : "172 http://localhost/~sfrancia/wordpress/?p=172",
-	"disqus_title" : "Checking Vendor References",
-	"Title": "Checking Vendor References",
-	"Description": "",
-	"Keywords": [
-		"IT",
-		"management",
-		"vendor"
-	],
-	"Tags": [
-		"IT",
-		"management",
-		"vendor"
-	],
-	"Pubdate": "2009-12-11",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/checking-vendor-references",
-	"Slug": "checking-vendor-references",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- IT
+- management
+- vendor
+Section: post
+Slug: checking-vendor-references
+Tags:
+- IT
+- management
+- vendor
+Thumbnail: ""
+Title: Checking Vendor References
+Topics:
+- Leadership
+Url: post/checking-vendor-references
+date: 2009-12-11
+disqus_identifier: 172 http://localhost/~sfrancia/wordpress/?p=172
+disqus_title: Checking Vendor References
+disqus_url: http://spf13.com/post/checking-vendor-references/
+---
+
 One task that should be part of every IT managers is performing
 reference checks on potential vendors. A vendor reference check goes
 beyond the sales pitch to reveal the true nature of a product or

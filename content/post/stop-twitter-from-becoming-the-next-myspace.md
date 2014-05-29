@@ -1,29 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/stop-twitter-from-becoming-the-next-myspace/",
-	"disqus_identifier" : "203 http://localhost/~sfrancia/wordpress/?p=203",
-	"disqus_title" : "Stop Twitter from Becoming the next MySpace",
-	"Title": "Stop Twitter from Becoming the next MySpace",
-	"Description": "",
-	"Keywords": [
-		"Social Media",
-		"Tech Industry",
-		"myspace",
-		"twitter"
-	],
-	"Tags": [
-		"myspace",
-		"twitter"
-	],
-	"Pubdate": "2009-04-03",
-	"Topics": [
-		"Social Media",
-		"Tech Industry"
-	],
-	"Url": "post/stop-twitter-from-becoming-the-next-myspace",
-	"Slug": "stop-twitter-from-becoming-the-next-myspace",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/2755v30-max-450x450.png"
-}
+---
+Description: ""
+Keywords:
+- Social Media
+- Tech Industry
+- myspace
+- twitter
+Section: post
+Slug: stop-twitter-from-becoming-the-next-myspace
+Tags:
+- myspace
+- twitter
+Thumbnail: /uploads/2010/10/2755v30-max-450x450.png
+Title: Stop Twitter from Becoming the next MySpace
+Topics:
+- Social Media
+- Tech Industry
+Url: post/stop-twitter-from-becoming-the-next-myspace
+date: 2009-04-03
+disqus_identifier: 203 http://localhost/~sfrancia/wordpress/?p=203
+disqus_title: Stop Twitter from Becoming the next MySpace
+disqus_url: http://spf13.com/post/stop-twitter-from-becoming-the-next-myspace/
+---
 
 {{% img src="/media/twitter-logo.png" class="third right hid" caption="Image via Crunchbase" %}}
 

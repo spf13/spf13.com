@@ -1,41 +1,40 @@
-{
-	"disqus_url" : "http://spf13.com/post/10gen-driver-days-mongodb-hack-a-thon/",
-	"disqus_identifier" : "1912 http://spf13.com/?p=1912",
-	"disqus_title" : "MongoDB Driver days hackathon round up",
-	"Title": "MongoDB Driver days hackathon round up",
-	"Description": "A round up of projects created during the driver days hack day by the 10gen drivers team focused on the MongoDB user experience.",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"Personal",
-		"10gen",
-		"Driver Team",
-		"github",
-		"Hack",
-		"Hack Day",
-		"mongodb",
-		"Thon"
-	],
-	"Tags": [
-		"10gen",
-		"Driver Team",
-		"Drivers",
-		"github",
-		"Hack",
-		"Hack Day",
-		"mongodb",
-		"Thon"
-	],
-	"Pubdate": "2012-11-16",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"Personal"
-	],
-	"Slug": "10gen-driver-days-mongodb-hack-a-thon",
-	"Section": "post",
-	"Thumbnail": "/images/1916_try-aggro-1.png-200x200.png"
-}
+---
+Description: A round up of projects created during the driver days hack day by the
+  10gen drivers team focused on the MongoDB user experience.
+Keywords:
+- Development
+- MongoDB
+- Personal
+- 10gen
+- Driver Team
+- github
+- Hack
+- Hack Day
+- mongodb
+- Thon
+Section: post
+Slug: 10gen-driver-days-mongodb-hack-a-thon
+Tags:
+- 10gen
+- Driver Team
+- Drivers
+- github
+- Hack
+- Hack Day
+- mongodb
+- Thon
+Thumbnail: /images/1916_try-aggro-1.png-200x200.png
+Title: MongoDB Driver days hackathon round up
+Topics:
+- Development
+- MongoDB
+- Personal
+date: 2012-11-16
+disqus_identifier: 1912 http://spf13.com/?p=1912
+disqus_title: MongoDB Driver days hackathon round up
+disqus_url: http://spf13.com/post/10gen-driver-days-mongodb-hack-a-thon/
+---
+
 Two times a year the drivers team at 10gen gathers together for a face
 to face meeting to spend time together working on issues and setting
 forth our goals for the upcoming six months. In September 2012 we all

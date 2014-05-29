@@ -1,35 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/unix-jobs-management/",
-	"disqus_identifier" : "76 http://localhost/~sfrancia/wordpress/?p=76",
-	"disqus_title" : "Unix Jobs Management",
-	"Title": "Unix Jobs Management",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Systems",
-		"Linux",
-		"screen",
-		"SysAdmin",
-		"Systems",
-		"UNIX"
-	],
-	"Tags": [
-		"Linux",
-		"screen",
-		"SysAdmin",
-		"Systems",
-		"UNIX"
-	],
-	"Pubdate": "2010-02-02",
-	"Topics": [
-		"Architecture",
-		"Systems"
-	],
-	"Url": "post/unix-jobs-management",
-	"Slug": "unix-jobs-management",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/02/300px-GNU_Screen.png"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Systems
+- Linux
+- screen
+- SysAdmin
+- Systems
+- UNIX
+Section: post
+Slug: unix-jobs-management
+Tags:
+- Linux
+- screen
+- SysAdmin
+- Systems
+- UNIX
+Thumbnail: /uploads/2010/02/300px-GNU_Screen.png
+Title: Unix Jobs Management
+Topics:
+- Architecture
+- Systems
+Url: post/unix-jobs-management
+date: 2010-02-02
+disqus_identifier: 76 http://localhost/~sfrancia/wordpress/?p=76
+disqus_title: Unix Jobs Management
+disqus_url: http://spf13.com/post/unix-jobs-management/
+---
 
 {{% img src="/media/300px-GNU_Screen.png" class="right third" alt="GNU Screen" %}}
 

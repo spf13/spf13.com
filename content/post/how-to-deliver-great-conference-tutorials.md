@@ -1,30 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/how-to-deliver-great-conference-tutorials/",
-	"disqus_identifier" : "1831 http://spf13.com/?p=1831",
-	"disqus_title" : "How to deliver a great conference tutorial",
-	"Title": "How to deliver a great conference tutorial",
-	"Description": "4 secrets I used to give the most popular presentation in the history of OSCON.",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"OSCON",
-        "Tutorial"
-	],
-	"Tags": [
-		"MongoDB",
-		"OSCON",
-        "Tutorial"
-	],
-	"Pubdate": "2012-09-05",
-	"Topics": [
-		"Development",
-		"MongoDB"
-	],
-	"Url": "post/how-to-deliver-great-conference-tutorials",
-	"Slug": "how-to-deliver-great-conference-tutorials",
-	"Section": "post",
-	"Thumbnail": "/images/1834_7585085614_5cdc8e9e44_c.jpeg-200x200.jpg"
-}
+---
+Description: 4 secrets I used to give the most popular presentation in the history
+  of OSCON.
+Keywords:
+- Development
+- MongoDB
+- OSCON
+- Tutorial
+Section: post
+Slug: how-to-deliver-great-conference-tutorials
+Tags:
+- MongoDB
+- OSCON
+- Tutorial
+Thumbnail: /images/1834_7585085614_5cdc8e9e44_c.jpeg-200x200.jpg
+Title: How to deliver a great conference tutorial
+Topics:
+- Development
+- MongoDB
+Url: post/how-to-deliver-great-conference-tutorials
+date: 2012-09-05
+disqus_identifier: 1831 http://spf13.com/?p=1831
+disqus_title: How to deliver a great conference tutorial
+disqus_url: http://spf13.com/post/how-to-deliver-great-conference-tutorials/
+---
 
 {{% img src=/media/7585085614_5cdc8e9e44_c.jpeg caption="Steve Francia speaking at OSCON 2012" class="half right" title="OSCON 2012" %}}
 

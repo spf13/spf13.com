@@ -1,26 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/a-better-follow-friday/",
-	"disqus_identifier" : "181 http://localhost/~sfrancia/wordpress/?p=181",
-	"disqus_title" : "A Better Follow Friday",
-	"Title": "A Better Follow Friday",
-	"Description": "",
-	"Keywords": [
-		"follow friday",
-		"twitter"
-	],
-	"Tags": [
-		"follow friday",
-		"twitter"
-	],
-	"Pubdate": "2009-12-07",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/a-better-follow-friday",
-	"Slug": "a-better-follow-friday",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/12/2668516894_1ca5eb1eed_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- follow friday
+- twitter
+Section: post
+Slug: a-better-follow-friday
+Tags:
+- follow friday
+- twitter
+Thumbnail: /uploads/2009/12/2668516894_1ca5eb1eed_m.jpg
+Title: A Better Follow Friday
+Topics:
+- Social Media
+Url: post/a-better-follow-friday
+date: 2009-12-07
+disqus_identifier: 181 http://localhost/~sfrancia/wordpress/?p=181
+disqus_title: A Better Follow Friday
+disqus_url: http://spf13.com/post/a-better-follow-friday/
+---
+
 {{% img src="/media/twitter-following.jpg" class="third right" %}}
 
 Follow Friday is a common practice

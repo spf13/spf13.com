@@ -1,33 +1,30 @@
-{
-	"Title": "Go Go Hugo blog",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"Personal",
-        "responsive",
-        "css3",
-        "html5",
-		"blog"
-    ],
-	"Tags": [
-		"Blogging",
-        "responsive",
-        "css3",
-        "html5",
-        "hugo",
-        "golang",
-		"Personal",
-		"blog"
-    ],
-	"Pubdate": "2013-06-17",
-	"Topics": [
-		"Blogging",
-        "GoLang",
-		"Personal"
-	],
-	"Slug": "go-go-hugo-blog",
-	"Section": "post"
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- Personal
+- responsive
+- css3
+- html5
+- blog
+Section: post
+Slug: go-go-hugo-blog
+Tags:
+- Blogging
+- responsive
+- css3
+- html5
+- hugo
+- golang
+- Personal
+- blog
+Title: Go Go Hugo blog
+Topics:
+- Blogging
+- GoLang
+- Personal
+date: 2013-06-17
+---
 
 {{% img src="/media/spf13-responsive.jpg" alt="spf13 responsive website" %}}
 

@@ -1,28 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/managing-your-social-media-presence/",
-	"disqus_identifier" : "133 http://localhost/~sfrancia/wordpress/?p=133",
-	"disqus_title" : "Managing Your Social Media Presence",
-	"Title": "Managing Your Social Media Presence",
-	"Description": "",
-	"Keywords": [
-		"facebook",
-		"social media",
-		"twitter"
-	],
-	"Tags": [
-		"facebook",
-		"social media",
-		"twitter"
-	],
-	"Pubdate": "2009-10-14",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/managing-your-social-media-presence",
-	"Slug": "managing-your-social-media-presence",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/10/16625v3-max-450x450.png"
-}
+---
+Description: ""
+Keywords:
+- facebook
+- social media
+- twitter
+Section: post
+Slug: managing-your-social-media-presence
+Tags:
+- facebook
+- social media
+- twitter
+Thumbnail: /uploads/2009/10/16625v3-max-450x450.png
+Title: Managing Your Social Media Presence
+Topics:
+- Social Media
+Url: post/managing-your-social-media-presence
+date: 2009-10-14
+disqus_identifier: 133 http://localhost/~sfrancia/wordpress/?p=133
+disqus_title: Managing Your Social Media Presence
+disqus_url: http://spf13.com/post/managing-your-social-media-presence/
+---
 
 {{% img src="/media/pingfm.png" class="third right" %}}
 

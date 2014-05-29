@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/secure-automated-key-based-ssh/",
-	"disqus_identifier" : "165 http://localhost/~sfrancia/wordpress/?p=165",
-	"disqus_title" : "Secure Automated, Key Based SSH",
-	"Title": "Secure Automated, Key Based SSH",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"keychain",
-		"rsa",
-		"ssh",
-		"Ssh-agent"
-	],
-	"Tags": [
-		"keychain",
-		"rsa",
-		"ssh",
-		"Ssh-agent"
-	],
-	"Pubdate": "2009-12-19",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/secure-automated-key-based-ssh",
-	"Slug": "secure-automated-key-based-ssh",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/12/300px-Crypto_key.svg.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- keychain
+- rsa
+- ssh
+- Ssh-agent
+Section: post
+Slug: secure-automated-key-based-ssh
+Tags:
+- keychain
+- rsa
+- ssh
+- Ssh-agent
+Thumbnail: /uploads/2009/12/300px-Crypto_key.svg.png
+Title: Secure Automated, Key Based SSH
+Topics:
+- Development
+- Systems
+Url: post/secure-automated-key-based-ssh
+date: 2009-12-19
+disqus_identifier: 165 http://localhost/~sfrancia/wordpress/?p=165
+disqus_title: Secure Automated, Key Based SSH
+disqus_url: http://spf13.com/post/secure-automated-key-based-ssh/
+---
+
 {{% img src="/media/key.png" class="third right" %}}
 
 SSH is great and secure… Unless you need to automate it. Then it sucks

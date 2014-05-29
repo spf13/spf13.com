@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/creating-a-symfony2-console-command/",
-	"disqus_identifier" : "1391 http://spf13.com/?p=1391",
-	"disqus_title" : "Creating a Symfony2 Console Command",
-	"Title": "Creating a Symfony2 Console Command",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"php",
-		"Command-line interface",
-		"PHP",
-		"symfony",
-		"Symfony2"
-	],
-	"Tags": [
-		"Command-line interface",
-		"PHP",
-		"symfony",
-		"Symfony2"
-	],
-	"Pubdate": "2011-06-20",
-	"Topics": [
-		"Development",
-		"php"
-	],
-	"Url": "post/creating-a-symfony2-console-command",
-	"Slug": "creating-a-symfony2-console-command",
-	"Section": "post",
-	"Thumbnail": "/images/1379_symfony_black_03.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- php
+- Command-line interface
+- PHP
+- symfony
+- Symfony2
+Section: post
+Slug: creating-a-symfony2-console-command
+Tags:
+- Command-line interface
+- PHP
+- symfony
+- Symfony2
+Thumbnail: /images/1379_symfony_black_03.png-200x200.png
+Title: Creating a Symfony2 Console Command
+Topics:
+- Development
+- php
+Url: post/creating-a-symfony2-console-command
+date: 2011-06-20
+disqus_identifier: 1391 http://spf13.com/?p=1391
+disqus_title: Creating a Symfony2 Console Command
+disqus_url: http://spf13.com/post/creating-a-symfony2-console-command/
+---
+
 {{% img src="/media/symfony_ss.png" alt="symfony" %}}
 
 One of the weaknesses of PHP as a languages has always been it’s ability

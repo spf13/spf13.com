@@ -1,32 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/vim-plugins-snipmate/",
-	"disqus_identifier" : "119 http://localhost/~sfrancia/wordpress/?p=119",
-	"disqus_title" : "Vim Plugins: snipMate",
-	"Title": "Vim Plugins: snipMate",
-	"Description": "",
-	"Keywords": [
-		"plugins",
-		"snipmate",
-		"Vi",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Tags": [
-		"plugins",
-		"snipmate",
-		"Vi",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Pubdate": "2009-12-12",
-	"Topics": [
-		"VIM"
-	],
-	"Url": "post/vim-plugins-snipmate",
-	"Slug": "vim-plugins-snipmate",
-	"Section": "post",
-	"Thumbnail": "/images/1013_Vim_gloss_128.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- plugins
+- snipmate
+- Vi
+- vim
+- Vim (text editor)
+Section: post
+Slug: vim-plugins-snipmate
+Tags:
+- plugins
+- snipmate
+- Vi
+- vim
+- Vim (text editor)
+Thumbnail: /images/1013_Vim_gloss_128.png-200x200.png
+Title: 'Vim Plugins: snipMate'
+Topics:
+- VIM
+Url: post/vim-plugins-snipmate
+date: 2009-12-12
+disqus_identifier: 119 http://localhost/~sfrancia/wordpress/?p=119
+disqus_title: 'Vim Plugins: snipMate'
+disqus_url: http://spf13.com/post/vim-plugins-snipmate/
+---
 
 {{% img src="/media/vim_logo.png" class="third right" %}}
 

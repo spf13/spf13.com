@@ -1,30 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/release-early-release-often-to-minimize-risk/",
-	"disqus_identifier" : "1363 http://spf13.com/?p=1363",
-	"disqus_title" : "Release early, release often to minimize risk",
-	"Title": "Release early, release often to minimize risk",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"Uncategorized",
-		"development",
-		"software"
-	],
-	"Tags": [
-		"development",
-		"software"
-	],
-	"Pubdate": "2011-05-05",
-	"Topics": [
-		"Development",
-		"Leadership"
-	],
-	"Url": "post/release-early-release-often-to-minimize-risk",
-	"Slug": "release-early-release-often-to-minimize-risk",
-	"Section": "post",
-	"Thumbnail": "/images/1367_Gantt-chart-textless.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- Uncategorized
+- development
+- software
+Section: post
+Slug: release-early-release-often-to-minimize-risk
+Tags:
+- development
+- software
+Thumbnail: /images/1367_Gantt-chart-textless.png-200x200.png
+Title: Release early, release often to minimize risk
+Topics:
+- Development
+- Leadership
+Url: post/release-early-release-often-to-minimize-risk
+date: 2011-05-05
+disqus_identifier: 1363 http://spf13.com/?p=1363
+disqus_title: Release early, release often to minimize risk
+disqus_url: http://spf13.com/post/release-early-release-often-to-minimize-risk/
+---
 
 {{% img src="/media/Gantt-chart-textless.png" class="third right" alt="gantt chart" %}}
 

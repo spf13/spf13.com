@@ -1,17 +1,15 @@
-+++
-title = "Cross Compiling with Go"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "development",
-]
-date = "2014-02-28"
-topics = [
-    "Development",
-    "golang",
-]
-+++
+---
+date: 2014-02-28
+description: ""
+tags:
+- go
+- golang
+- development
+title: Cross Compiling with Go
+topics:
+- Development
+- golang
+---
 
 One of the great features of golang is that you can compile executables
 for many different platforms and architectures from a single machine. It’s

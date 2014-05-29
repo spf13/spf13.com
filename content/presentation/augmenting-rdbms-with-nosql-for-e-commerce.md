@@ -1,39 +1,36 @@
-{
-	"disqus_url" : "http://spf13.com/post/augmenting-rdbms-with-nosql-for-e-commerce/",
-	"disqus_identifier" : "1307 http://spf13.com/?p=1307",
-	"disqus_title" : "Augmenting RDBMS with NoSQL for e-commerce",
-	"Title": "Augmenting RDBMS with NoSQL for e-commerce",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"php",
-		"Presentations",
-		"ecommerce",
-		"mongodb",
-		"PHP"
-	],
-	"Tags": [
-		"ecommerce",
-		"mongodb",
-		"PHP"
-	],
-	"Pubdate": "2011-04-10",
-	"Topics": [
-		"Architecture",
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"php",
-		"Presentations"
-	],
-	"Url": "presentation/augmenting-rdbms-with-nosql-for-e-commerce",
-	"Slug": "augmenting-rdbms-with-nosql-for-e-commerce",
-	"Section": "presentation",
-	"Thumbnail": "/images/1347_postgresconNYC_sq.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Development
+- Ecommerce
+- MongoDB
+- php
+- Presentations
+- ecommerce
+- mongodb
+- PHP
+Section: presentation
+Slug: augmenting-rdbms-with-nosql-for-e-commerce
+Tags:
+- ecommerce
+- mongodb
+- PHP
+Thumbnail: /images/1347_postgresconNYC_sq.png-200x200.png
+Title: Augmenting RDBMS with NoSQL for e-commerce
+Topics:
+- Architecture
+- Development
+- Ecommerce
+- MongoDB
+- php
+- Presentations
+Url: presentation/augmenting-rdbms-with-nosql-for-e-commerce
+date: 2011-04-10
+disqus_identifier: 1307 http://spf13.com/?p=1307
+disqus_title: Augmenting RDBMS with NoSQL for e-commerce
+disqus_url: http://spf13.com/post/augmenting-rdbms-with-nosql-for-e-commerce/
+---
 
 {{% img src="/media/postgresconNYC_ss.png" alt="postgres con" %}}
 

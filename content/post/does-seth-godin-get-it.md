@@ -1,26 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/does-seth-godin-get-it/",
-	"disqus_identifier" : "128 http://localhost/~sfrancia/wordpress/?p=128",
-	"disqus_title" : "Does Seth Godin Get It?",
-	"Title": "Does Seth Godin Get It?",
-	"Description": "",
-	"Keywords": [
-		"social media",
-		"twitter"
-	],
-	"Tags": [
-		"social media",
-		"twitter"
-	],
-	"Pubdate": "2009-11-24",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/does-seth-godin-get-it",
-	"Slug": "does-seth-godin-get-it",
-	"Section": "post",
-	"Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Seth_Godin.jpg/300px-Seth_Godin.jpg"
-}
+---
+Description: ""
+Keywords:
+- social media
+- twitter
+Section: post
+Slug: does-seth-godin-get-it
+Tags:
+- social media
+- twitter
+Thumbnail: http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Seth_Godin.jpg/300px-Seth_Godin.jpg
+Title: Does Seth Godin Get It?
+Topics:
+- Social Media
+Url: post/does-seth-godin-get-it
+date: 2009-11-24
+disqus_identifier: 128 http://localhost/~sfrancia/wordpress/?p=128
+disqus_title: Does Seth Godin Get It?
+disqus_url: http://spf13.com/post/does-seth-godin-get-it/
+---
+
 Earlier this week [Seth Godin](http://www.sethgodin.com/ "Seth Godin")
 announced his first presence on twitter with the post [Delivering blogs
 via

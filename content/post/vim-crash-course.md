@@ -1,30 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/vim-crash-course/",
-	"disqus_identifier" : "41 http://localhost/~sfrancia/wordpress/?p=41",
-	"disqus_title" : "VIM Crash Course",
-	"Title": "VIM Crash Course",
-	"Description": "",
-	"Keywords": [
-		"Editors",
-		"Programming",
-		"Vi",
-		"Vim (text editor)"
-	],
-	"Tags": [
-		"Editors",
-		"Programming",
-		"Vi",
-		"Vim (text editor)"
-	],
-	"Pubdate": "2010-03-03",
-	"Topics": [
-		"VIM"
-	],
-	"Url": "post/vim-crash-course",
-	"Slug": "vim-crash-course",
-	"Section": "post",
-	"Thumbnail": "/images/1013_Vim_gloss_128.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Editors
+- Programming
+- Vi
+- Vim (text editor)
+Section: post
+Slug: vim-crash-course
+Tags:
+- Editors
+- Programming
+- Vi
+- Vim (text editor)
+Thumbnail: /images/1013_Vim_gloss_128.png-200x200.png
+Title: VIM Crash Course
+Topics:
+- VIM
+Url: post/vim-crash-course
+date: 2010-03-03
+disqus_identifier: 41 http://localhost/~sfrancia/wordpress/?p=41
+disqus_title: VIM Crash Course
+disqus_url: http://spf13.com/post/vim-crash-course/
+---
 
 {{% img src="/media/vim_logo.png" class="third right" %}}
 

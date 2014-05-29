@@ -1,33 +1,35 @@
-{
-	"disqus_url" : "http://spf13.com/post/symfony2/",
-	"disqus_identifier" : "1235 http://spf13.com/?p=1235",
-	"disqus_title" : "On Symfony2",
-	"Title": "On Symfony2",
-	"Description": "Symfony2 is the latest brainchild of Fabien Potencier. Essentially he took the excellent advancements brought by PHP 5.3 and combined all the learnings he took away from building Symfony2 as well as established design patterns and best practices often from the Java world and created a modern web framework. Fully utilizing things like namespaces, closures and late static binding Symfony2 is an extremely full featured, modular, and crazy fast framework.",
-	"Keywords": [
-		"Development",
-		"php",
-		"development",
-		"Framework",
-		"PHP",
-		"Symfony2"
-	],
-	"Tags": [
-		"development",
-		"Framework",
-		"PHP",
-		"Symfony2"
-	],
-	"Pubdate": "2011-02-01",
-	"Topics": [
-		"Development",
-		"php"
-	],
-	"Url": "post/symfony2",
-	"Slug": "symfony2",
-	"Section": "post",
-	"Thumbnail": "/images/1243_symfony-logo.jpg-200x200.jpg"
-}
+---
+Description: Symfony2 is the latest brainchild of Fabien Potencier. Essentially he
+  took the excellent advancements brought by PHP 5.3 and combined all the learnings
+  he took away from building Symfony2 as well as established design patterns and best
+  practices often from the Java world and created a modern web framework. Fully utilizing
+  things like namespaces, closures and late static binding Symfony2 is an extremely
+  full featured, modular, and crazy fast framework.
+Keywords:
+- Development
+- php
+- development
+- Framework
+- PHP
+- Symfony2
+Section: post
+Slug: symfony2
+Tags:
+- development
+- Framework
+- PHP
+- Symfony2
+Thumbnail: /images/1243_symfony-logo.jpg-200x200.jpg
+Title: On Symfony2
+Topics:
+- Development
+- php
+Url: post/symfony2
+date: 2011-02-01
+disqus_identifier: 1235 http://spf13.com/?p=1235
+disqus_title: On Symfony2
+disqus_url: http://spf13.com/post/symfony2/
+---
 
 {{% img src="/media/symfony_ss.png" alt="symfony" %}}
 

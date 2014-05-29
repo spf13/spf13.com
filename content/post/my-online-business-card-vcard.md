@@ -1,29 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/my-online-business-card-vcard/",
-	"disqus_identifier" : "116 http://localhost/~sfrancia/wordpress/?p=116",
-	"disqus_title" : "My Online Business Card (Vcard)",
-	"Title": "My Online Business Card (Vcard)",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Personal",
-		"jquery",
-		"vcard"
-	],
-	"Tags": [
-		"jquery",
-		"vcard"
-	],
-	"Pubdate": "2010-01-12",
-	"Topics": [
-		"Development",
-		"Personal"
-	],
-	"Url": "post/my-online-business-card-vcard",
-	"Slug": "my-online-business-card-vcard",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/01/4270027690_5ac5b77bea.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Personal
+- jquery
+- vcard
+Section: post
+Slug: my-online-business-card-vcard
+Tags:
+- jquery
+- vcard
+Thumbnail: /uploads/2010/01/4270027690_5ac5b77bea.jpg
+Title: My Online Business Card (Vcard)
+Topics:
+- Development
+- Personal
+Url: post/my-online-business-card-vcard
+date: 2010-01-12
+disqus_identifier: 116 http://localhost/~sfrancia/wordpress/?p=116
+disqus_title: My Online Business Card (Vcard)
+disqus_url: http://spf13.com/post/my-online-business-card-vcard/
+---
 
 {{% img src="/media/stevefrancia.com.jpg" class="full" %}}
 

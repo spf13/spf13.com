@@ -1,36 +1,33 @@
-{
-	"disqus_url" : "http://spf13.com/post/next-gen-php-frameworks/",
-	"disqus_identifier" : "59 http://localhost/~sfrancia/wordpress/?p=59",
-	"disqus_title" : "Next Gen PHP Frameworks",
-	"Title": "Next Gen PHP Frameworks",
-	"Description": "",
-	"Keywords": [
-		"cake",
-		"frameworks",
-		"lithium",
-		"PHP",
-		"symfony",
-		"Symfony2",
-		"zoop"
-	],
-	"Tags": [
-		"cake",
-		"frameworks",
-		"lithium",
-		"PHP",
-		"symfony",
-		"Symfony2",
-		"zoop"
-	],
-	"Pubdate": "2010-04-02",
-	"Topics": [
-		"php"
-	],
-	"Url": "post/next-gen-php-frameworks",
-	"Slug": "next-gen-php-frameworks",
-	"Section": "post",
-	"Thumbnail": "http://upload.wikimedia.org/wikipedia/en/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png"
-}
+---
+Description: ""
+Keywords:
+- cake
+- frameworks
+- lithium
+- PHP
+- symfony
+- Symfony2
+- zoop
+Section: post
+Slug: next-gen-php-frameworks
+Tags:
+- cake
+- frameworks
+- lithium
+- PHP
+- symfony
+- Symfony2
+- zoop
+Thumbnail: http://upload.wikimedia.org/wikipedia/en/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png
+Title: Next Gen PHP Frameworks
+Topics:
+- php
+Url: post/next-gen-php-frameworks
+date: 2010-04-02
+disqus_identifier: 59 http://localhost/~sfrancia/wordpress/?p=59
+disqus_title: Next Gen PHP Frameworks
+disqus_url: http://spf13.com/post/next-gen-php-frameworks/
+---
 
 With the release of PHP 5.3, PHP released the most significant
 capabilities in years. Specifically the addition of Late Static

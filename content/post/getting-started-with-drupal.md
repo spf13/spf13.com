@@ -1,24 +1,22 @@
-{
-	"disqus_url" : "http://spf13.com/post/getting-started-with-drupal/",
-	"disqus_identifier" : "140 http://localhost/~sfrancia/wordpress/?p=140",
-	"disqus_title" : "Getting Started With Drupal",
-	"Title": "Getting Started With Drupal",
-	"Description": "",
-	"Keywords": [
-		"Drupal"
-	],
-	"Tags": [
-		"Drupal"
-	],
-	"Pubdate": "2009-12-14",
-	"Topics": [
-		"Blogging"
-	],
-	"Url": "post/getting-started-with-drupal",
-	"Slug": "getting-started-with-drupal",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/12/300px-Drupal_5_Screenshot.png"
-}
+---
+Description: ""
+Keywords:
+- Drupal
+Section: post
+Slug: getting-started-with-drupal
+Tags:
+- Drupal
+Thumbnail: /uploads/2009/12/300px-Drupal_5_Screenshot.png
+Title: Getting Started With Drupal
+Topics:
+- Blogging
+Url: post/getting-started-with-drupal
+date: 2009-12-14
+disqus_identifier: 140 http://localhost/~sfrancia/wordpress/?p=140
+disqus_title: Getting Started With Drupal
+disqus_url: http://spf13.com/post/getting-started-with-drupal/
+---
+
 {{% img src="/media/Drupal_5_Screenshot.png" class="third right" %}}
 
 [Drupal](http://www.drupal.org "Drupal") is a very powerful [content

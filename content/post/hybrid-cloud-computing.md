@@ -1,26 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/hybrid-cloud-computing/",
-	"disqus_identifier" : "1534 http://spf13.com/?p=1534",
-	"disqus_title" : "Hybrid Cloud Computing",
-	"Title": "Hybrid Cloud Computing",
-	"Description": "",
-	"Keywords": [
-		"Ecommerce",
-		"Scalability",
-		"Tech Industry"
-	],
-	"Tags": [],
-	"Pubdate": "2011-09-30",
-	"Topics": [
-		"Ecommerce",
-		"Scalability",
-		"Tech Industry"
-	],
-	"Url": "post/hybrid-cloud-computing",
-	"Slug": "hybrid-cloud-computing",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Ecommerce
+- Scalability
+- Tech Industry
+Section: post
+Slug: hybrid-cloud-computing
+Tags: []
+Thumbnail: ""
+Title: Hybrid Cloud Computing
+Topics:
+- Ecommerce
+- Scalability
+- Tech Industry
+Url: post/hybrid-cloud-computing
+date: 2011-09-30
+disqus_identifier: 1534 http://spf13.com/?p=1534
+disqus_title: Hybrid Cloud Computing
+disqus_url: http://spf13.com/post/hybrid-cloud-computing/
+---
+
 Traditionally ecommerce companies have had no place in the cloud. The
 lack of established standards, multi-tenancy nature and need to be PCI
 compliant have been three large barriers to entry for any organization

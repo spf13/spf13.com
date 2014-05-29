@@ -1,26 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/implementing-a-corporate-wiki/",
-	"disqus_identifier" : "211 http://localhost/~sfrancia/wordpress/?p=211",
-	"disqus_title" : "Implementing a Corporate Wiki",
-	"Title": "Implementing a Corporate Wiki",
-	"Description": "Steps to choose and implement a corporate wiki from access policies to adoption",
-	"Keywords": [
-		"IT",
-		"wiki"
-	],
-	"Tags": [
-		"IT",
-		"wiki"
-	],
-	"Pubdate": "2008-07-25",
-	"Topics": [
-		"Systems"
-	],
-	"Url": "post/implementing-a-corporate-wiki",
-	"Slug": "implementing-a-corporate-wiki",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: Steps to choose and implement a corporate wiki from access policies to
+  adoption
+Keywords:
+- IT
+- wiki
+Section: post
+Slug: implementing-a-corporate-wiki
+Tags:
+- IT
+- wiki
+Thumbnail: ""
+Title: Implementing a Corporate Wiki
+Topics:
+- Systems
+Url: post/implementing-a-corporate-wiki
+date: 2008-07-25
+disqus_identifier: 211 http://localhost/~sfrancia/wordpress/?p=211
+disqus_title: Implementing a Corporate Wiki
+disqus_url: http://spf13.com/post/implementing-a-corporate-wiki/
+---
+
 It seems all of a sudden, the two buzz words in the corporate IT world
 are wiki and blog. Corporate wikis are emerging as cheap, intelligent,
 flexible systems for shared-document collaboration and content

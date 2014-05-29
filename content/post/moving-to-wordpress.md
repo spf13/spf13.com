@@ -1,32 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/moving-to-wordpress/",
-	"disqus_identifier" : "898 http://localhost/~sfrancia/wordpress/?p=3",
-	"disqus_title" : "Moving to WordPress",
-	"Title": "Moving to WordPress",
-	"Description": "",
-	"Keywords": [
-		"blogging",
-		"Drupal",
-		"PHP",
-		"WordPress",
-		"WordPress 3.0"
-	],
-	"Tags": [
-		"blogging",
-		"Drupal",
-		"PHP",
-		"WordPress",
-		"WordPress 3.0"
-	],
-	"Pubdate": "2010-06-23",
-	"Topics": [
-		"Blogging"
-	],
-	"Url": "post/moving-to-wordpress",
-	"Slug": "moving-to-wordpress",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/06/300px-WordPress_logo.svg.png"
-}
+---
+Description: ""
+Keywords:
+- blogging
+- Drupal
+- PHP
+- WordPress
+- WordPress 3.0
+Section: post
+Slug: moving-to-wordpress
+Tags:
+- blogging
+- Drupal
+- PHP
+- WordPress
+- WordPress 3.0
+Thumbnail: /uploads/2010/06/300px-WordPress_logo.svg.png
+Title: Moving to WordPress
+Topics:
+- Blogging
+Url: post/moving-to-wordpress
+date: 2010-06-23
+disqus_identifier: 898 http://localhost/~sfrancia/wordpress/?p=3
+disqus_title: Moving to WordPress
+disqus_url: http://spf13.com/post/moving-to-wordpress/
+---
 
 {{% img src="/media/wordpress-logo.png" class="right third hid" alt="wordpress logo" %}}
 

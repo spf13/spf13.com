@@ -1,33 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/watch-what-you-say/",
-	"disqus_identifier" : "70 http://localhost/~sfrancia/wordpress/?p=70",
-	"disqus_title" : "Watch what you say",
-	"Title": "Watch what you say",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Social Media",
-		"career",
-		"facebook",
-		"social media",
-		"twitter"
-	],
-	"Tags": [
-		"career",
-		"facebook",
-		"social media",
-		"twitter"
-	],
-	"Pubdate": "2010-07-11",
-	"Topics": [
-		"Leadership",
-		"Social Media"
-	],
-	"Url": "post/watch-what-you-say",
-	"Slug": "watch-what-you-say",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/07/3297040703_620e3900e7_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Social Media
+- career
+- facebook
+- social media
+- twitter
+Section: post
+Slug: watch-what-you-say
+Tags:
+- career
+- facebook
+- social media
+- twitter
+Thumbnail: /uploads/2010/07/3297040703_620e3900e7_m.jpg
+Title: Watch what you say
+Topics:
+- Leadership
+- Social Media
+Url: post/watch-what-you-say
+date: 2010-07-11
+disqus_identifier: 70 http://localhost/~sfrancia/wordpress/?p=70
+disqus_title: Watch what you say
+disqus_url: http://spf13.com/post/watch-what-you-say/
+---
 
 {{% img src="/media/shhh.jpg" class="right third hid" attr="Gustty" attrlink="http://www.flickr.com/photos/81619620@N00/3297040703" caption="shh.." %}}
 

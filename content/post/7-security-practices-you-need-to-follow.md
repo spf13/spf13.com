@@ -1,29 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/7-security-practices-you-need-to-follow/",
-	"disqus_identifier" : "124 http://localhost/~sfrancia/wordpress/?p=124",
-	"disqus_title" : "7 security practices you need to follow",
-	"Title": "7 security practices you need to follow",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"Systems",
-		"security"
-	],
-	"Tags": [
-		"security"
-	],
-	"Pubdate": "2009-12-22",
-	"Topics": [
-		"Development",
-		"Leadership",
-		"Systems"
-	],
-	"Url": "post/7-security-practices-you-need-to-follow",
-	"Slug": "7-security-practices-you-need-to-follow",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/12/300px-HK_Souvenir_Bank_of_East_Asia_MPF_USB_Flash_Drive_a.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- Systems
+- security
+Section: post
+Slug: 7-security-practices-you-need-to-follow
+Tags:
+- security
+Thumbnail: /uploads/2009/12/300px-HK_Souvenir_Bank_of_East_Asia_MPF_USB_Flash_Drive_a.jpg
+Title: 7 security practices you need to follow
+Topics:
+- Development
+- Leadership
+- Systems
+Url: post/7-security-practices-you-need-to-follow
+date: 2009-12-22
+disqus_identifier: 124 http://localhost/~sfrancia/wordpress/?p=124
+disqus_title: 7 security practices you need to follow
+disqus_url: http://spf13.com/post/7-security-practices-you-need-to-follow/
+---
+
 {{% img src="/media/usbkey.jpg" class="half right" %}}
 
 Some of this may seem like a broken record, yet every single time you

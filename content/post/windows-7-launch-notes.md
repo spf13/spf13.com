@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/windows-7-launch-notes/",
-	"disqus_identifier" : "160 http://localhost/~sfrancia/wordpress/?p=160",
-	"disqus_title" : "Windows 7 launch notes",
-	"Title": "Windows 7 launch notes",
-	"Description": "",
-	"Keywords": [
-		"Systems",
-		"Tech Industry",
-		"microsoft",
-		"win 7",
-		"windows"
-	],
-	"Tags": [
-		"microsoft",
-		"win 7",
-		"windows"
-	],
-	"Pubdate": "2009-10-20",
-	"Topics": [
-		"Systems",
-		"Tech Industry"
-	],
-	"Url": "post/windows-7-launch-notes",
-	"Slug": "windows-7-launch-notes",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/10/21545v2-max-250x250.png"
-}
+---
+Description: ""
+Keywords:
+- Systems
+- Tech Industry
+- microsoft
+- win 7
+- windows
+Section: post
+Slug: windows-7-launch-notes
+Tags:
+- microsoft
+- win 7
+- windows
+Thumbnail: /uploads/2009/10/21545v2-max-250x250.png
+Title: Windows 7 launch notes
+Topics:
+- Systems
+- Tech Industry
+Url: post/windows-7-launch-notes
+date: 2009-10-20
+disqus_identifier: 160 http://localhost/~sfrancia/wordpress/?p=160
+disqus_title: Windows 7 launch notes
+disqus_url: http://spf13.com/post/windows-7-launch-notes/
+---
+
 {{% img src="/media/windows-logo.png" class="third right" %}}
 
 I was fortunate to be able to attend

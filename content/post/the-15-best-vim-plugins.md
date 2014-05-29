@@ -1,28 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-15-best-vim-plugins/",
-	"disqus_identifier" : "137 http://localhost/~sfrancia/wordpress/?p=137",
-	"disqus_title" : "The 15 Best Vim Plugins",
-	"Title": "The 15 Best Vim Plugins",
-	"Description": "The 15 most useful plugins for VIM. This post is a bit dated but kept intact to reflect the best plugins at the time",
-	"Keywords": [
-		"plugins",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Tags": [
-		"plugins",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Pubdate": "2008-07-30",
-	"Topics": [
-		"VIM"
-	],
-	"Url": "post/the-15-best-vim-plugins",
-	"Slug": "the-15-best-vim-plugins",
-	"Section": "post",
-	"Thumbnail": "/media/vim_logo.png"
-}
+---
+Description: The 15 most useful plugins for VIM. This post is a bit dated but kept
+  intact to reflect the best plugins at the time
+Keywords:
+- plugins
+- vim
+- Vim (text editor)
+Section: post
+Slug: the-15-best-vim-plugins
+Tags:
+- plugins
+- vim
+- Vim (text editor)
+Thumbnail: /media/vim_logo.png
+Title: The 15 Best Vim Plugins
+Topics:
+- VIM
+Url: post/the-15-best-vim-plugins
+date: 2008-07-30
+disqus_identifier: 137 http://localhost/~sfrancia/wordpress/?p=137
+disqus_title: The 15 Best Vim Plugins
+disqus_url: http://spf13.com/post/the-15-best-vim-plugins/
+---
+
 {{% img src="/media/vim_logo.png" class="third right" alt="vim" %}}
 
 One of the things that makes vim great is that it can be extended

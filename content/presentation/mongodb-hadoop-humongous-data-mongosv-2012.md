@@ -1,41 +1,40 @@
-{
-	"disqus_url" : "http://spf13.com/post/mongodb-hadoop-humongous-data-mongosv-2012/",
-	"disqus_identifier" : "1934 http://spf13.com/?p=1934",
-	"disqus_title" : "MongoDB, Hadoop and humongous data at MongoSV 2012",
-	"Title": "MongoDB, Hadoop and humongous data at MongoSV 2012",
-	"Description": "Presentation given at MongoSV 2012 on processing big data with MongoDB using Hadoop integration & the MongoDB aggregation framework.",
-	"Keywords": [
-		"MongoDB",
-		"Presentations",
-		"Apache Hadoop",
-		"big data",
-		"Data Processing",
-		"Data Tools",
-		"Distributed Data Processing",
-		"hadoop",
-		"mapreduce",
-		"mongodb"
-	],
-	"Tags": [
-		"Apache Hadoop",
-		"big data",
-		"Data Processing",
-		"Data Tools",
-		"Distributed Data Processing",
-		"hadoop",
-		"mapreduce",
-		"mongodb"
-	],
-	"Pubdate": "2012-12-06",
-	"Topics": [
-		"MongoDB",
-		"Presentations"
-	],
-	"Url": "presentation/mongodb-hadoop-humongous-data-mongosv-2012",
-	"Slug": "mongodb-hadoop-humongous-data-mongosv-2012",
-	"Section": "presentation",
-	"Thumbnail": ""
-}
+---
+Description: Presentation given at MongoSV 2012 on processing big data with MongoDB
+  using Hadoop integration & the MongoDB aggregation framework.
+Keywords:
+- MongoDB
+- Presentations
+- Apache Hadoop
+- big data
+- Data Processing
+- Data Tools
+- Distributed Data Processing
+- hadoop
+- mapreduce
+- mongodb
+Section: presentation
+Slug: mongodb-hadoop-humongous-data-mongosv-2012
+Tags:
+- Apache Hadoop
+- big data
+- Data Processing
+- Data Tools
+- Distributed Data Processing
+- hadoop
+- mapreduce
+- mongodb
+Thumbnail: ""
+Title: MongoDB, Hadoop and humongous data at MongoSV 2012
+Topics:
+- MongoDB
+- Presentations
+Url: presentation/mongodb-hadoop-humongous-data-mongosv-2012
+date: 2012-12-06
+disqus_identifier: 1934 http://spf13.com/?p=1934
+disqus_title: MongoDB, Hadoop and humongous data at MongoSV 2012
+disqus_url: http://spf13.com/post/mongodb-hadoop-humongous-data-mongosv-2012/
+---
+
 This presentation given at MongoSV 2012 focuses on data processing when
 using [MongoDB](http://www.mongodb.org/ "MongoDB") as your primary
 database including integration with

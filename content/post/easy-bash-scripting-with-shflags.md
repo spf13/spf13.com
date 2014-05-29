@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/easy-bash-scripting-with-shflags/",
-	"disqus_identifier" : "1480 http://spf13.com/?p=1480",
-	"disqus_title" : "Easy bash scripting with shflags",
-	"Title": "Easy bash scripting with shflags",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"bash",
-		"Shell",
-		"Shell script"
-	],
-	"Tags": [
-		"bash",
-		"Shell",
-		"Shell script"
-	],
-	"Pubdate": "2011-07-08",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/easy-bash-scripting-with-shflags",
-	"Slug": "easy-bash-scripting-with-shflags",
-	"Section": "post",
-	"Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Command_line.png/300px-Command_line.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- bash
+- Shell
+- Shell script
+Section: post
+Slug: easy-bash-scripting-with-shflags
+Tags:
+- bash
+- Shell
+- Shell script
+Thumbnail: http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Command_line.png/300px-Command_line.png
+Title: Easy bash scripting with shflags
+Topics:
+- Development
+- Systems
+Url: post/easy-bash-scripting-with-shflags
+date: 2011-07-08
+disqus_identifier: 1480 http://spf13.com/?p=1480
+disqus_title: Easy bash scripting with shflags
+disqus_url: http://spf13.com/post/easy-bash-scripting-with-shflags/
+---
 
 One of the most frustrating things about bash scripts is how challenging
 it is to create unix style executables. You know, the ones where you can

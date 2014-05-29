@@ -1,24 +1,21 @@
-{
-	"disqus_url" : "http://spf13.com/post/new-facebook-in-depth-review/",
-	"disqus_identifier" : "209 http://localhost/~sfrancia/wordpress/?p=209",
-	"disqus_title" : "New Facebook in Depth Review",
-	"Title": "New Facebook in Depth Review",
-	"Description": "",
-	"Keywords": [
-		"facebook"
-	],
-	"Tags": [
-		"facebook"
-	],
-	"Pubdate": "2009-07-15",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/new-facebook-in-depth-review",
-	"Slug": "new-facebook-in-depth-review",
-	"Section": "post",
-	"Thumbnail": "/media/266px-Facebook.svg.png"
-}
+---
+Description: ""
+Keywords:
+- facebook
+Section: post
+Slug: new-facebook-in-depth-review
+Tags:
+- facebook
+Thumbnail: /media/266px-Facebook.svg.png
+Title: New Facebook in Depth Review
+Topics:
+- Social Media
+Url: post/new-facebook-in-depth-review
+date: 2009-07-15
+disqus_identifier: 209 http://localhost/~sfrancia/wordpress/?p=209
+disqus_title: New Facebook in Depth Review
+disqus_url: http://spf13.com/post/new-facebook-in-depth-review/
+---
 
 {{% img src="/media/facebook-logo.png" class="third right hid" caption="Image via CrunchBase" %}}
 

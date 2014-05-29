@@ -1,20 +1,19 @@
-{
-	"disqus_url" : "http://spf13.com/post/windows-power-user-tools/",
-	"disqus_identifier" : "1668 http://spf13.com/?p=1668",
-	"disqus_title" : "Windows Power User Tools",
-	"Title": "Windows Power User Tools",
-	"Description": "",
-	"Keywords": [],
-	"Tags": [],
-	"Pubdate": "2011-12-28",
-	"Topics": [
-		"Personal"
-	],
-	"Url": "post/windows-power-user-tools",
-	"Slug": "windows-power-user-tools",
-	"Section": "post",
-	"Thumbnail": "/images/1680_power_windows.jpg-200x200.jpg"
-}
+---
+Description: ""
+Keywords: []
+Section: post
+Slug: windows-power-user-tools
+Tags: []
+Thumbnail: /images/1680_power_windows.jpg-200x200.jpg
+Title: Windows Power User Tools
+Topics:
+- Personal
+Url: post/windows-power-user-tools
+date: 2011-12-28
+disqus_identifier: 1668 http://spf13.com/?p=1668
+disqus_title: Windows Power User Tools
+disqus_url: http://spf13.com/post/windows-power-user-tools/
+---
 
 {{% img src="/media/power_windows.jpg" alt="windows" %}}
 

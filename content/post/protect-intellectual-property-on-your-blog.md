@@ -1,35 +1,33 @@
-{
-	"disqus_url" : "http://spf13.com/post/protect-intellectual-property-on-your-blog/",
-	"disqus_identifier" : "1864 http://spf13.com/?p=1864",
-	"disqus_title" : "Protect Intellectual Property on Your Blog",
-	"Title": "Protecting Intellectual Property on Your Blog",
-	"Description": "6 steps to protect your intellectual property as posted on your blog, forum or website.",
-	"Keywords": [
-		"Blogging",
-		"Personal",
-		"Tech Industry",
-		"blog",
-		"blogging",
-		"intellectual property",
-		"intellectual property protection"
-	],
-	"Tags": [
-		"blog",
-		"blogging",
-		"intellectual property",
-		"intellectual property protection"
-	],
-	"Pubdate": "2012-09-24",
-	"Topics": [
-		"Blogging",
-		"Personal",
-		"Tech Industry"
-	],
-	"Url": "post/protect-intellectual-property-on-your-blog",
-	"Slug": "protect-intellectual-property-on-your-blog",
-	"Section": "post",
-	"Thumbnail": "/images/1866_3084905055_694483b898_b.jpeg-200x200.jpg"
-}
+---
+Description: 6 steps to protect your intellectual property as posted on your blog,
+  forum or website.
+Keywords:
+- Blogging
+- Personal
+- Tech Industry
+- blog
+- blogging
+- intellectual property
+- intellectual property protection
+Section: post
+Slug: protect-intellectual-property-on-your-blog
+Tags:
+- blog
+- blogging
+- intellectual property
+- intellectual property protection
+Thumbnail: /images/1866_3084905055_694483b898_b.jpeg-200x200.jpg
+Title: Protecting Intellectual Property on Your Blog
+Topics:
+- Blogging
+- Personal
+- Tech Industry
+Url: post/protect-intellectual-property-on-your-blog
+date: 2012-09-24
+disqus_identifier: 1864 http://spf13.com/?p=1864
+disqus_title: Protect Intellectual Property on Your Blog
+disqus_url: http://spf13.com/post/protect-intellectual-property-on-your-blog/
+---
 
 {{% img src="/media/3084905055_694483b898_b.jpeg" class="right third" alt="security" %}}
 

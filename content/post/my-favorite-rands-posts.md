@@ -1,29 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/my-favorite-rands-posts/",
-	"disqus_identifier" : "834 http://spf13.com/?p=834",
-	"disqus_title" : "My Favorite Rands Posts",
-	"Title": "My Favorite Rands Posts",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"career",
-		"management"
-	],
-	"Tags": [
-		"career",
-		"management"
-	],
-	"Pubdate": "2011-04-28",
-	"Topics": [
-		"Development",
-		"Leadership"
-	],
-	"Url": "post/my-favorite-rands-posts",
-	"Slug": "my-favorite-rands-posts",
-	"Section": "post",
-	"Thumbnail": "/images/1204_rands.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- career
+- management
+Section: post
+Slug: my-favorite-rands-posts
+Tags:
+- career
+- management
+Thumbnail: /images/1204_rands.png-200x200.png
+Title: My Favorite Rands Posts
+Topics:
+- Development
+- Leadership
+Url: post/my-favorite-rands-posts
+date: 2011-04-28
+disqus_identifier: 834 http://spf13.com/?p=834
+disqus_title: My Favorite Rands Posts
+disqus_url: http://spf13.com/post/my-favorite-rands-posts/
+---
+
 {{% img src="/media/rands.png" alt="rands in repose" class="right half" %}}
 
 If you don’t know Rands (real name [Michael

@@ -1,35 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-browser-as-a-application-platform/",
-	"disqus_identifier" : "1408 http://spf13.com/?p=1408",
-	"disqus_title" : "The Browser as an application platform",
-	"Title": "The Browser as an application platform",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Tech Industry",
-		"Computing platform",
-		"HTML",
-		"Java",
-		"Linux",
-		"Web browser"
-	],
-	"Tags": [
-		"Computing platform",
-		"HTML",
-		"Java",
-		"Linux",
-		"Web browser"
-	],
-	"Pubdate": "2011-06-07",
-	"Topics": [
-		"Development",
-		"Tech Industry"
-	],
-	"Url": "post/the-browser-as-a-application-platform",
-	"Slug": "the-browser-as-a-application-platform",
-	"Section": "post",
-	"Thumbnail": "/images/1411_500px-Chromium_Logo.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Tech Industry
+- Computing platform
+- HTML
+- Java
+- Linux
+- Web browser
+Section: post
+Slug: the-browser-as-a-application-platform
+Tags:
+- Computing platform
+- HTML
+- Java
+- Linux
+- Web browser
+Thumbnail: /images/1411_500px-Chromium_Logo.png-200x200.png
+Title: The Browser as an application platform
+Topics:
+- Development
+- Tech Industry
+Url: post/the-browser-as-a-application-platform
+date: 2011-06-07
+disqus_identifier: 1408 http://spf13.com/?p=1408
+disqus_title: The Browser as an application platform
+disqus_url: http://spf13.com/post/the-browser-as-a-application-platform/
+---
 
 {{% img src="/media/Chromium_Logo.png" class="third right" alt="chromium logo" %}}
 

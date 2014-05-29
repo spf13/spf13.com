@@ -1,33 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/where-have-all-the-good-databases-gone/",
-	"disqus_identifier" : "1471 http://spf13.com/?p=1471",
-	"disqus_title" : "Where have all the good databases gone?",
-	"Title": "Where have all the good databases gone?",
-	"Description": "",
-	"Keywords": [
-		"MongoDB",
-		"Scalability",
-		"Systems",
-		"Database",
-		"mongodb",
-		"nosql"
-	],
-	"Tags": [
-		"Database",
-		"mongodb",
-		"nosql"
-	],
-	"Pubdate": "2011-07-13",
-	"Topics": [
-		"MongoDB",
-		"Scalability",
-		"Systems"
-	],
-	"Url": "post/where-have-all-the-good-databases-gone",
-	"Slug": "where-have-all-the-good-databases-gone",
-	"Section": "post",
-	"Thumbnail": "/images/1082_mongodb-sq.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- MongoDB
+- Scalability
+- Systems
+- Database
+- mongodb
+- nosql
+Section: post
+Slug: where-have-all-the-good-databases-gone
+Tags:
+- Database
+- mongodb
+- nosql
+Thumbnail: /images/1082_mongodb-sq.png-200x200.png
+Title: Where have all the good databases gone?
+Topics:
+- MongoDB
+- Scalability
+- Systems
+Url: post/where-have-all-the-good-databases-gone
+date: 2011-07-13
+disqus_identifier: 1471 http://spf13.com/?p=1471
+disqus_title: Where have all the good databases gone?
+disqus_url: http://spf13.com/post/where-have-all-the-good-databases-gone/
+---
 
 {{% img src="/media/mongodb-sq.png" class="third right" alt="mongodb" %}}
 

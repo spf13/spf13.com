@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/vim-plugins-nerd-commenter/",
-	"disqus_identifier" : "193 http://localhost/~sfrancia/wordpress/?p=193",
-	"disqus_title" : "Vim Plugins: NERD Commenter",
-	"Title": "Vim Plugins: NERD Commenter",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"VIM",
-		"plugins",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Tags": [
-		"plugins",
-		"vim",
-		"Vim (text editor)"
-	],
-	"Pubdate": "2009-11-09",
-	"Topics": [
-		"Development",
-		"VIM"
-	],
-	"Url": "post/vim-plugins-nerd-commenter",
-	"Slug": "vim-plugins-nerd-commenter",
-	"Section": "post",
-	"Thumbnail": "/images/1013_Vim_gloss_128.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- VIM
+- plugins
+- vim
+- Vim (text editor)
+Section: post
+Slug: vim-plugins-nerd-commenter
+Tags:
+- plugins
+- vim
+- Vim (text editor)
+Thumbnail: /images/1013_Vim_gloss_128.png-200x200.png
+Title: 'Vim Plugins: NERD Commenter'
+Topics:
+- Development
+- VIM
+Url: post/vim-plugins-nerd-commenter
+date: 2009-11-09
+disqus_identifier: 193 http://localhost/~sfrancia/wordpress/?p=193
+disqus_title: 'Vim Plugins: NERD Commenter'
+disqus_url: http://spf13.com/post/vim-plugins-nerd-commenter/
+---
+
 {{% img src="/media/vim_logo.png" class="third right" %}}
 
 The NERD Commenter is an indispensable tool when programming in

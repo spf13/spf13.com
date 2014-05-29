@@ -1,43 +1,42 @@
-{
-	"disqus_url" : "http://spf13.com/post/spf13-vim-3-0-release-and-new-website/",
-	"disqus_identifier" : "1756 http://spf13.com/?p=1756",
-	"disqus_title" : "spf13-vim 3.0 release and new website",
-	"Title": "spf13-vim 3.0 release and new website",
-	"Description": "spf13-vim is a cross platform distribution of vim plugins and resources for Vim, GVim and MacVim.",
-	"Keywords": [
-		"Development",
-		"VIM",
-		".vimrc",
-		"Distribution",
-		"Gvim",
-		"plugins",
-		"spf13-vim",
-		"Vi",
-		"vim",
-		"Vim (text editor)",
-		"Vimscript"
-	],
-	"Tags": [
-		".vimrc",
-		"Distribution",
-		"Gvim",
-		"plugins",
-		"spf13-vim",
-		"Vi",
-		"vim",
-		"Vim (text editor)",
-		"Vimscript"
-	],
-	"Pubdate": "2012-04-06",
-	"Topics": [
-		"Development",
-		"VIM"
-	],
-	"Url": "post/spf13-vim-3-0-release-and-new-website",
-	"Slug": "spf13-vim-3-0-release-and-new-website",
-	"Section": "post",
-	"Thumbnail": "/uploads/2012/04/Screen-Shot-2012-04-03-at-5.42.32-PM-1024x631.png"
-}
+---
+Description: spf13-vim is a cross platform distribution of vim plugins and resources
+  for Vim, GVim and MacVim.
+Keywords:
+- Development
+- VIM
+- .vimrc
+- Distribution
+- Gvim
+- plugins
+- spf13-vim
+- Vi
+- vim
+- Vim (text editor)
+- Vimscript
+Section: post
+Slug: spf13-vim-3-0-release-and-new-website
+Tags:
+- .vimrc
+- Distribution
+- Gvim
+- plugins
+- spf13-vim
+- Vi
+- vim
+- Vim (text editor)
+- Vimscript
+Thumbnail: /uploads/2012/04/Screen-Shot-2012-04-03-at-5.42.32-PM-1024x631.png
+Title: spf13-vim 3.0 release and new website
+Topics:
+- Development
+- VIM
+Url: post/spf13-vim-3-0-release-and-new-website
+date: 2012-04-06
+disqus_identifier: 1756 http://spf13.com/?p=1756
+disqus_title: spf13-vim 3.0 release and new website
+disqus_url: http://spf13.com/post/spf13-vim-3-0-release-and-new-website/
+---
+
 This post is a bit behind the actual releases, but should be announced
 here nevertheless. Announcing the 3rd major release of spf13-vim.
 spf13-vim is a distribution of vim plugins and resources for Vim, GVim

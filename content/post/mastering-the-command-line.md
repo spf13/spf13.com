@@ -1,33 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/mastering-the-command-line/",
-	"disqus_identifier" : "177 http://localhost/~sfrancia/wordpress/?p=177",
-	"disqus_title" : "Mastering the Command Line",
-	"Title": "Mastering the Command Line",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"bash",
-		"cli",
-		"command line",
-		"emacs"
-	],
-	"Tags": [
-		"bash",
-		"cli",
-		"command line",
-		"emacs"
-	],
-	"Pubdate": "2009-11-05",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/mastering-the-command-line",
-	"Slug": "mastering-the-command-line",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/11/300px-Keyboard-left_keys.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- bash
+- cli
+- command line
+- emacs
+Section: post
+Slug: mastering-the-command-line
+Tags:
+- bash
+- cli
+- command line
+- emacs
+Thumbnail: /uploads/2009/11/300px-Keyboard-left_keys.jpg
+Title: Mastering the Command Line
+Topics:
+- Development
+- Systems
+Url: post/mastering-the-command-line
+date: 2009-11-05
+disqus_identifier: 177 http://localhost/~sfrancia/wordpress/?p=177
+disqus_title: Mastering the Command Line
+disqus_url: http://spf13.com/post/mastering-the-command-line/
+---
 
 {{% img src="/media/Keyboard-left_keys.jpg" class="third right" %}}
 

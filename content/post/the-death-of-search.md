@@ -1,34 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-death-of-search/",
-	"disqus_identifier" : "158 http://localhost/~sfrancia/wordpress/?p=158",
-	"disqus_title" : "The Death of Search",
-	"Title": "The Death of Search",
-	"Description": "",
-	"Keywords": [
-		"google",
-		"search",
-		"semantic web",
-		"social media",
-		"social web",
-		"web"
-	],
-	"Tags": [
-		"google",
-		"search",
-		"semantic web",
-		"social media",
-		"social web",
-		"web"
-	],
-	"Pubdate": "2009-10-09",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/the-death-of-search",
-	"Slug": "the-death-of-search",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- google
+- search
+- semantic web
+- social media
+- social web
+- web
+Section: post
+Slug: the-death-of-search
+Tags:
+- google
+- search
+- semantic web
+- social media
+- social web
+- web
+Thumbnail: ""
+Title: The Death of Search
+Topics:
+- Social Media
+Url: post/the-death-of-search
+date: 2009-10-09
+disqus_identifier: 158 http://localhost/~sfrancia/wordpress/?p=158
+disqus_title: The Death of Search
+disqus_url: http://spf13.com/post/the-death-of-search/
+---
+
 Social media will be the next innovation in the most unlikely of places,
 search ( leveraging the community to scale infinitely ). It’s not that
 people will all together stop searching, but the approach that they take

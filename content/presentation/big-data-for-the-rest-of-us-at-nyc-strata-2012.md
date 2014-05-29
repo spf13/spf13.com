@@ -1,65 +1,64 @@
-{
-	"disqus_url" : "http://spf13.com/post/big-data-for-the-rest-of-us-at-nyc-strata-2012/",
-	"disqus_identifier" : "1884 http://spf13.com/?p=1884",
-	"disqus_title" : "Big Data for the rest of us at NYC Strata 2012",
-	"Title": "Not Just Hadoop: NoSQL in the Enterprise at Strata NYC 2012",
-	"Description": "open source NoSQL solution MongoDB and data processor Hadoop have made  big data accessible.  Previously big data meant proprietary software and big hardware.",
-	"Keywords": [
-		"Architecture",
-		"MongoDB",
-		"Presentations",
-		"Scalability",
-		"Systems",
-		"Tech Industry",
-		"Apache Hadoop",
-		"Architecture",
-		"big data",
-		"data",
-		"Data analysis",
-		"Data Processor",
-		"Data Storage",
-		"hadoop",
-		"Information technology",
-		"mongodb",
-		"nosql",
-		"nyc",
-		"Orbitz",
-		"Strata",
-		"Strata Nyc",
-		"structured storage"
-	],
-	"Tags": [
-		"Apache Hadoop",
-		"Architecture",
-		"big data",
-		"data",
-		"Data analysis",
-		"Data Processor",
-		"Data Storage",
-		"hadoop",
-		"Information technology",
-		"mongodb",
-		"nosql",
-		"nyc",
-		"Orbitz",
-		"Strata",
-		"Strata Nyc",
-		"structured storage"
-	],
-	"Pubdate": "2012-10-29",
-	"Topics": [
-		"Architecture",
-		"MongoDB",
-		"Presentations",
-		"Scalability",
-		"Systems",
-		"Tech Industry"
-	],
-	"Url": "presentation/big-data-for-the-rest-of-us-at-nyc-strata-2012",
-	"Slug": "big-data-for-the-rest-of-us-at-nyc-strata-2012",
-	"Section": "presentation",
-	"Thumbnail": "/images/1892_Screen-Shot-2012-10-29-at-6.12.38-PM.png-200x200.png"
-}
+---
+Description: open source NoSQL solution MongoDB and data processor Hadoop have made  big
+  data accessible.  Previously big data meant proprietary software and big hardware.
+Keywords:
+- Architecture
+- MongoDB
+- Presentations
+- Scalability
+- Systems
+- Tech Industry
+- Apache Hadoop
+- Architecture
+- big data
+- data
+- Data analysis
+- Data Processor
+- Data Storage
+- hadoop
+- Information technology
+- mongodb
+- nosql
+- nyc
+- Orbitz
+- Strata
+- Strata Nyc
+- structured storage
+Section: presentation
+Slug: big-data-for-the-rest-of-us-at-nyc-strata-2012
+Tags:
+- Apache Hadoop
+- Architecture
+- big data
+- data
+- Data analysis
+- Data Processor
+- Data Storage
+- hadoop
+- Information technology
+- mongodb
+- nosql
+- nyc
+- Orbitz
+- Strata
+- Strata Nyc
+- structured storage
+Thumbnail: /images/1892_Screen-Shot-2012-10-29-at-6.12.38-PM.png-200x200.png
+Title: 'Not Just Hadoop: NoSQL in the Enterprise at Strata NYC 2012'
+Topics:
+- Architecture
+- MongoDB
+- Presentations
+- Scalability
+- Systems
+- Tech Industry
+Url: presentation/big-data-for-the-rest-of-us-at-nyc-strata-2012
+date: 2012-10-29
+disqus_identifier: 1884 http://spf13.com/?p=1884
+disqus_title: Big Data for the rest of us at NYC Strata 2012
+disqus_url: http://spf13.com/post/big-data-for-the-rest-of-us-at-nyc-strata-2012/
+---
+
 At the NYC Strata & Hadoop World conference I presented on ‘Not Just
 Hadoop: NoSQL in the Enterprise’. [Robert
 Lancaster](http://twitter.com/rob1lancaster) from

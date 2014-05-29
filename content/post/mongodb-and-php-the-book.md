@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/mongodb-and-php-the-book/",
-	"disqus_identifier" : "1728 http://spf13.com/?p=1728",
-	"disqus_title" : "MongoDB and PHP, The Book",
-	"Title": "MongoDB and PHP, The Book",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"Personal",
-		"php",
-		"book"
-	],
-	"Tags": [
-		"book"
-	],
-	"Pubdate": "2012-02-13",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"Personal",
-		"php"
-	],
-	"Url": "post/mongodb-and-php-the-book",
-	"Slug": "mongodb-and-php-the-book",
-	"Section": "post",
-	"Thumbnail": "/images/1730_lrg.jpg-200x200.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- MongoDB
+- Personal
+- php
+- book
+Section: post
+Slug: mongodb-and-php-the-book
+Tags:
+- book
+Thumbnail: /images/1730_lrg.jpg-200x200.jpg
+Title: MongoDB and PHP, The Book
+Topics:
+- Development
+- MongoDB
+- Personal
+- php
+Url: post/mongodb-and-php-the-book
+date: 2012-02-13
+disqus_identifier: 1728 http://spf13.com/?p=1728
+disqus_title: MongoDB and PHP, The Book
+disqus_url: http://spf13.com/post/mongodb-and-php-the-book/
+---
+
 {{% img src="/media/MongoDBandPHP-Book.jpg" alt="MongoDB and PHP" class="half right" %}}
 
 I wrote a book. It is published by O’Reilly, and available now on Amazon, O’Reilly Media and

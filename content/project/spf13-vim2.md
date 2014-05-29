@@ -1,38 +1,35 @@
-{
-	"Title": "spf13-vim : Steve Francia's Vim Distribution",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"PHP",
-		"Ruby",
-		"git",
-		"python",
-		"golang",
-		"bash",
-		"perl",
-		"vim",
-		"editor"
-	],
-	"Tags": [
-		"Development",
-		"PHP",
-		"Ruby",
-		"git",
-		"python",
-		"golang",
-		"bash",
-		"perl",
-		"vim",
-		"editor"
-	],
-	"Pubdate": "2012-04-10",
-	"Topics": [
-		"Development",
-		"Vim"
-	],
-    "Draft": true,
-    "Slug": "spf13-vim2"
-}
+---
+Description: ""
+Draft: true
+Keywords:
+- Development
+- PHP
+- Ruby
+- git
+- python
+- golang
+- bash
+- perl
+- vim
+- editor
+Slug: spf13-vim2
+Tags:
+- Development
+- PHP
+- Ruby
+- git
+- python
+- golang
+- bash
+- perl
+- vim
+- editor
+Title: 'spf13-vim : Steve Francia''s Vim Distribution'
+Topics:
+- Development
+- Vim
+date: 2012-04-10
+---
 
 This is a distribution of vim plugins and tools intended to be run on
 top of VIM. It is a good starting point for anyone intending to use VIM

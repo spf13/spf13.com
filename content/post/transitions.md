@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/transitions/",
-	"disqus_identifier" : "67 http://localhost/~sfrancia/wordpress/?p=67",
-	"disqus_title" : "Transitions",
-	"Title": "Transitions",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"career",
-		"leadership",
-		"OpenSky"
-	],
-	"Tags": [
-		"career",
-		"leadership",
-		"OpenSky"
-	],
-	"Pubdate": "2010-03-08",
-	"Topics": [
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/transitions",
-	"Slug": "transitions",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/03/4417367185_89a2aef524_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Personal
+- career
+- leadership
+- OpenSky
+Section: post
+Slug: transitions
+Tags:
+- career
+- leadership
+- OpenSky
+Thumbnail: /uploads/2010/03/4417367185_89a2aef524_m.jpg
+Title: Transitions
+Topics:
+- Leadership
+- Personal
+Url: post/transitions
+date: 2010-03-08
+disqus_identifier: 67 http://localhost/~sfrancia/wordpress/?p=67
+disqus_title: Transitions
+disqus_url: http://spf13.com/post/transitions/
+---
 
 {{% img src="/media/opensky-logo.jpg" class="right third" alt="OpenSky Logo" %}}
 

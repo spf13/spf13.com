@@ -1,29 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/lds-sort-tech-conference-2011/",
-	"disqus_identifier" : "1554 http://spf13.com/?p=1554",
-	"disqus_title" : "LDS SORT Tech Conference 2011",
-	"Title": "LDS SORT Tech Conference 2011",
-	"Description": "",
-	"Keywords": [
-		"MongoDB",
-		"Personal",
-		"mongodb",
-		"nosql"
-	],
-	"Tags": [
-		"mongodb",
-		"nosql"
-	],
-	"Pubdate": "2011-10-21",
-	"Topics": [
-		"MongoDB",
-		"Personal"
-	],
-	"Url": "post/lds-sort-tech-conference-2011",
-	"Slug": "lds-sort-tech-conference-2011",
-	"Section": "post",
-	"Thumbnail": "/uploads/2011/10/DSC48901-150x99.jpg"
-}
+---
+Description: ""
+Keywords:
+- MongoDB
+- Personal
+- mongodb
+- nosql
+Section: post
+Slug: lds-sort-tech-conference-2011
+Tags:
+- mongodb
+- nosql
+Thumbnail: /uploads/2011/10/DSC48901-150x99.jpg
+Title: LDS SORT Tech Conference 2011
+Topics:
+- MongoDB
+- Personal
+Url: post/lds-sort-tech-conference-2011
+date: 2011-10-21
+disqus_identifier: 1554 http://spf13.com/?p=1554
+disqus_title: LDS SORT Tech Conference 2011
+disqus_url: http://spf13.com/post/lds-sort-tech-conference-2011/
+---
 
 {{% img src="/media/sort-win.png" class="third right" alt="sort conference" %}}
 

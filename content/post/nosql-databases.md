@@ -1,37 +1,34 @@
-{
-	"disqus_url" : "http://spf13.com/post/nosql-databases/",
-	"disqus_identifier" : "53 http://localhost/~sfrancia/wordpress/?p=53",
-	"disqus_title" : "NoSQL Databases",
-	"Title": "NoSQL Databases",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Scalability",
-		"cassandra",
-		"databases",
-		"mongodb",
-		"nosql",
-		"presentations",
-		"resources"
-	],
-	"Tags": [
-		"cassandra",
-		"databases",
-		"mongodb",
-		"nosql",
-		"presentations",
-		"resources"
-	],
-	"Pubdate": "2010-04-08",
-	"Topics": [
-		"Development",
-		"Scalability"
-	],
-	"Url": "post/nosql-databases",
-	"Slug": "nosql-databases",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/04/4036996146_ab2b15fc86_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Scalability
+- cassandra
+- databases
+- mongodb
+- nosql
+- presentations
+- resources
+Section: post
+Slug: nosql-databases
+Tags:
+- cassandra
+- databases
+- mongodb
+- nosql
+- presentations
+- resources
+Thumbnail: /uploads/2010/04/4036996146_ab2b15fc86_m.jpg
+Title: NoSQL Databases
+Topics:
+- Development
+- Scalability
+Url: post/nosql-databases
+date: 2010-04-08
+disqus_identifier: 53 http://localhost/~sfrancia/wordpress/?p=53
+disqus_title: NoSQL Databases
+disqus_url: http://spf13.com/post/nosql-databases/
+---
 
 {{% img src="/media/noSQL_people.jpg" class="right third" attr="langalex" attrlink="http://www.flickr.com/photos/40888529@N00/4036996146" alt="nosql people" %}}
 

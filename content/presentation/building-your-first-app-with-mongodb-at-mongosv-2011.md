@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/building-your-first-app-with-mongodb-at-mongosv-2011/",
-	"disqus_identifier" : "1642 http://spf13.com/?p=1642",
-	"disqus_title" : "Building your First app with MongoDB at MongoSV 2011",
-	"Title": "Building your First app with MongoDB at MongoSV 2011",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"Presentations",
-		"javascript",
-		"mongodb"
-	],
-	"Tags": [
-		"javascript",
-		"mongodb"
-	],
-	"Pubdate": "2011-12-10",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"Presentations"
-	],
-	"Url": "presentation/building-your-first-app-with-mongodb-at-mongosv-2011",
-	"Slug": "building-your-first-app-with-mongodb-at-mongosv-2011",
-	"Section": "presentation",
-	"Thumbnail": "/images/1663_mongoSV.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- MongoDB
+- Presentations
+- javascript
+- mongodb
+Section: presentation
+Slug: building-your-first-app-with-mongodb-at-mongosv-2011
+Tags:
+- javascript
+- mongodb
+Thumbnail: /images/1663_mongoSV.png-200x200.png
+Title: Building your First app with MongoDB at MongoSV 2011
+Topics:
+- Development
+- MongoDB
+- Presentations
+Url: presentation/building-your-first-app-with-mongodb-at-mongosv-2011
+date: 2011-12-10
+disqus_identifier: 1642 http://spf13.com/?p=1642
+disqus_title: Building your First app with MongoDB at MongoSV 2011
+disqus_url: http://spf13.com/post/building-your-first-app-with-mongodb-at-mongosv-2011/
+---
 
 10gen had our flagship conference in Silicon Valley. I gave an
 introductory presentation at the first session on building an

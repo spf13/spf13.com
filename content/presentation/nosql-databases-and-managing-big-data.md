@@ -1,43 +1,41 @@
-{
-	"disqus_url" : "http://spf13.com/post/nosql-databases-and-managing-big-data/",
-	"disqus_identifier" : "1786 http://spf13.com/?p=1786",
-	"disqus_title" : "NoSQL databases and Managing Big Data",
-	"Title": "NoSQL databases and Managing Big Data",
-	"Description": "A review of the various NoSQL databases including MongoDB, cassandra, redis and how they handle big data.",
-	"Keywords": [
-		"Architecture",
-		"Development",
-		"MongoDB",
-		"Presentations",
-		"Scalability",
-		"Apache Cassandra",
-		"big data",
-		"databases",
-		"mongodb",
-		"nosql",
-		"Redis"
-	],
-	"Tags": [
-		"Apache Cassandra",
-		"big data",
-		"databases",
-		"mongodb",
-		"nosql",
-		"Redis"
-	],
-	"Pubdate": "2012-05-08",
-	"Topics": [
-		"Architecture",
-		"Development",
-		"MongoDB",
-		"Presentations",
-		"Scalability"
-	],
-	"Url": "presentation/nosql-databases-and-managing-big-data",
-	"Slug": "nosql-databases-and-managing-big-data",
-	"Section": "presentation",
-	"Thumbnail": "/images/1787_NoSQL-and-Managing-Big-Data.png-200x200.png"
-}
+---
+Description: A review of the various NoSQL databases including MongoDB, cassandra,
+  redis and how they handle big data.
+Keywords:
+- Architecture
+- Development
+- MongoDB
+- Presentations
+- Scalability
+- Apache Cassandra
+- big data
+- databases
+- mongodb
+- nosql
+- Redis
+Section: presentation
+Slug: nosql-databases-and-managing-big-data
+Tags:
+- Apache Cassandra
+- big data
+- databases
+- mongodb
+- nosql
+- Redis
+Thumbnail: /images/1787_NoSQL-and-Managing-Big-Data.png-200x200.png
+Title: NoSQL databases and Managing Big Data
+Topics:
+- Architecture
+- Development
+- MongoDB
+- Presentations
+- Scalability
+Url: presentation/nosql-databases-and-managing-big-data
+date: 2012-05-08
+disqus_identifier: 1786 http://spf13.com/?p=1786
+disqus_title: NoSQL databases and Managing Big Data
+disqus_url: http://spf13.com/post/nosql-databases-and-managing-big-data/
+---
 
 I had the unique opportunity to present at the annual technology forum
 [Insight Venture Partners](http://www.insightpartners.com/) holds for

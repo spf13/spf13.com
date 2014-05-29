@@ -1,28 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/pandoras-ipo-a-sign-of-the-times/",
-	"disqus_identifier" : "1430 http://spf13.com/?p=1430",
-	"disqus_title" : "Pandora&#8217;s IPO &#8230; a sign of the times",
-	"Title": "Pandora's IPO ... a sign of the times",
-	"Description": "",
-	"Keywords": [
-		"Bubble",
-		"IPO",
-		"Pandora"
-	],
-	"Tags": [
-		"Bubble",
-		"IPO",
-		"Pandora"
-	],
-	"Pubdate": "2011-06-16",
-	"Topics": [
-		"Tech Industry"
-	],
-	"Url": "post/pandoras-ipo-a-sign-of-the-times",
-	"Slug": "pandoras-ipo-a-sign-of-the-times",
-	"Section": "post",
-	"Thumbnail": "/images/1435_pandoraradiohack.jpg-200x200.jpg"
-}
+---
+Description: ""
+Keywords:
+- Bubble
+- IPO
+- Pandora
+Section: post
+Slug: pandoras-ipo-a-sign-of-the-times
+Tags:
+- Bubble
+- IPO
+- Pandora
+Thumbnail: /images/1435_pandoraradiohack.jpg-200x200.jpg
+Title: Pandora's IPO ... a sign of the times
+Topics:
+- Tech Industry
+Url: post/pandoras-ipo-a-sign-of-the-times
+date: 2011-06-16
+disqus_identifier: 1430 http://spf13.com/?p=1430
+disqus_title: Pandora&#8217;s IPO &#8230; a sign of the times
+disqus_url: http://spf13.com/post/pandoras-ipo-a-sign-of-the-times/
+---
 
 {{% img src="/media/pandoraradiohack.jpg" alt="pandora" class="third right" %}}
 

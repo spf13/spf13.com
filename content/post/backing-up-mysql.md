@@ -1,28 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/backing-up-mysql/",
-	"disqus_identifier" : "232 http://localhost/~sfrancia/wordpress/?p=232",
-	"disqus_title" : "Backing up MySQL",
-	"Title": "Backing up MySQL",
-	"Description": "How to fully automate the backup of a MySQL database system.",
-	"Keywords": [
-		"archive",
-		"backup",
-		"mysql"
-	],
-	"Tags": [
-		"archive",
-		"backup",
-		"mysql"
-	],
-	"Pubdate": "2008-12-12",
-	"Topics": [
-		"Systems"
-	],
-	"Url": "post/backing-up-mysql",
-	"Slug": "backing-up-mysql",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/300px-MySQL.svg_.png"
-}
+---
+Description: How to fully automate the backup of a MySQL database system.
+Keywords:
+- archive
+- backup
+- mysql
+Section: post
+Slug: backing-up-mysql
+Tags:
+- archive
+- backup
+- mysql
+Thumbnail: /uploads/2010/10/300px-MySQL.svg_.png
+Title: Backing up MySQL
+Topics:
+- Systems
+Url: post/backing-up-mysql
+date: 2008-12-12
+disqus_identifier: 232 http://localhost/~sfrancia/wordpress/?p=232
+disqus_title: Backing up MySQL
+disqus_url: http://spf13.com/post/backing-up-mysql/
+---
 
 {{% img src="/media/MySQL.png" class="third right hid" caption="Image via Wikipedia" %}}
 

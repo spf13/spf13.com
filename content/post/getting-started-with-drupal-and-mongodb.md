@@ -1,47 +1,45 @@
-{
-	"disqus_url" : "http://spf13.com/post/getting-started-with-drupal-and-mongodb/",
-	"disqus_identifier" : "1744 http://spf13.com/?p=1744",
-	"disqus_title" : "Getting started with Drupal and MongoDB",
-	"Title": "Getting started with Drupal and MongoDB",
-	"Description": "Drupal is the standard in content management systems. MongoDB enables high performance Drupal. Get started with a MongoDB backed Drupal.",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"php",
-		"Blog Software",
-		"Content Management",
-		"Content Management Systems",
-		"Drupal",
-		"Drupal Core",
-		"Dynamic Content",
-		"Enable",
-		"mongodb",
-		"nosql",
-		"PHP"
-	],
-	"Tags": [
-		"Blog Software",
-		"Content Management",
-		"Content Management Systems",
-		"Drupal",
-		"Drupal Core",
-		"Dynamic Content",
-		"Enable",
-		"mongodb",
-		"nosql",
-		"PHP"
-	],
-	"Pubdate": "2012-03-14",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"php"
-	],
-	"Url": "post/getting-started-with-drupal-and-mongodb",
-	"Slug": "getting-started-with-drupal-and-mongodb",
-	"Section": "post",
-	"Thumbnail": "/images/1746_Drupal-Admin.png-200x200.png"
-}
+---
+Description: Drupal is the standard in content management systems. MongoDB enables
+  high performance Drupal. Get started with a MongoDB backed Drupal.
+Keywords:
+- Development
+- MongoDB
+- php
+- Blog Software
+- Content Management
+- Content Management Systems
+- Drupal
+- Drupal Core
+- Dynamic Content
+- Enable
+- mongodb
+- nosql
+- PHP
+Section: post
+Slug: getting-started-with-drupal-and-mongodb
+Tags:
+- Blog Software
+- Content Management
+- Content Management Systems
+- Drupal
+- Drupal Core
+- Dynamic Content
+- Enable
+- mongodb
+- nosql
+- PHP
+Thumbnail: /images/1746_Drupal-Admin.png-200x200.png
+Title: Getting started with Drupal and MongoDB
+Topics:
+- Development
+- MongoDB
+- php
+Url: post/getting-started-with-drupal-and-mongodb
+date: 2012-03-14
+disqus_identifier: 1744 http://spf13.com/?p=1744
+disqus_title: Getting started with Drupal and MongoDB
+disqus_url: http://spf13.com/post/getting-started-with-drupal-and-mongodb/
+---
 
 {{% img src="/media/Drupal-Admin.png" class="right half" alt="Drupal" %}}
 

@@ -1,39 +1,36 @@
-{
-	"Title": "spf13-vim : Steve Francia's Vim Distribution",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"PHP",
-		"Ruby",
-		"git",
-		"python",
-		"golang",
-		"bash",
-		"perl",
-		"vim",
-		"editor"
-	],
-	"Tags": [
-		"Development",
-		"PHP",
-		"Ruby",
-		"git",
-		"python",
-		"golang",
-		"bash",
-		"perl",
-		"vim",
-		"editor"
-	],
-	"Pubdate": "2012-04-10",
-	"Topics": [
-		"Development",
-		"Vim"
-	],
-    "Type": "link",
-    "Link": "http://vim.spf13.com",
-	"Slug": "spf13-vim"
-}
+---
+Description: ""
+Keywords:
+- Development
+- PHP
+- Ruby
+- git
+- python
+- golang
+- bash
+- perl
+- vim
+- editor
+Link: http://vim.spf13.com
+Slug: spf13-vim
+Tags:
+- Development
+- PHP
+- Ruby
+- git
+- python
+- golang
+- bash
+- perl
+- vim
+- editor
+Title: 'spf13-vim : Steve Francia''s Vim Distribution'
+Topics:
+- Development
+- Vim
+Type: link
+date: 2012-04-10
+---
 
 spf13-vim is a distribution of vim plugins and resources for Vim, Gvim and [MacVim].
 

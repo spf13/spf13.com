@@ -1,29 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/how-i-blog/",
-	"disqus_identifier" : "144 http://localhost/~sfrancia/wordpress/?p=144",
-	"disqus_title" : "How I Blog",
-	"Title": "How I Blog",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"Personal",
-		"blog",
-		"blogging"
-	],
-	"Tags": [
-		"blog",
-		"blogging"
-	],
-	"Pubdate": "2009-10-07",
-	"Topics": [
-		"Blogging",
-		"Personal"
-	],
-	"Url": "post/how-i-blog",
-	"Slug": "how-i-blog",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- Personal
+- blog
+- blogging
+Section: post
+Slug: how-i-blog
+Tags:
+- blog
+- blogging
+Thumbnail: ""
+Title: How I Blog
+Topics:
+- Blogging
+- Personal
+Url: post/how-i-blog
+date: 2009-10-07
+disqus_identifier: 144 http://localhost/~sfrancia/wordpress/?p=144
+disqus_title: How I Blog
+disqus_url: http://spf13.com/post/how-i-blog/
+---
+
 Not surprisingly, given my semi random content, I arrive at my posts a
 few different ways.
 

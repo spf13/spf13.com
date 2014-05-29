@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/setting-up-subversion-with-multiple-access-methods/",
-	"disqus_identifier" : "244 http://localhost/~sfrancia/wordpress/?p=244",
-	"disqus_title" : "Setting up Subversion with multiple access methods",
-	"Title": "Setting up Subversion with multiple access methods",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Systems",
-		"cli",
-		"ssh",
-		"subversion",
-		"svn"
-	],
-	"Tags": [
-		"cli",
-		"ssh",
-		"subversion",
-		"svn"
-	],
-	"Pubdate": "2009-05-05",
-	"Topics": [
-		"Development",
-		"Systems"
-	],
-	"Url": "post/setting-up-subversion-with-multiple-access-methods",
-	"Slug": "setting-up-subversion-with-multiple-access-methods",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Development
+- Systems
+- cli
+- ssh
+- subversion
+- svn
+Section: post
+Slug: setting-up-subversion-with-multiple-access-methods
+Tags:
+- cli
+- ssh
+- subversion
+- svn
+Thumbnail: ""
+Title: Setting up Subversion with multiple access methods
+Topics:
+- Development
+- Systems
+Url: post/setting-up-subversion-with-multiple-access-methods
+date: 2009-05-05
+disqus_identifier: 244 http://localhost/~sfrancia/wordpress/?p=244
+disqus_title: Setting up Subversion with multiple access methods
+disqus_url: http://spf13.com/post/setting-up-subversion-with-multiple-access-methods/
+---
+
 One thing that
 makes [subversion](http://subversion.tigris.org/ "Subversion")
 such a powerful revision system is it’s ability to permit multiple

@@ -1,32 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/backup-your-files/",
-	"disqus_identifier" : "264 http://localhost/~sfrancia/wordpress/?p=264",
-	"disqus_title" : "Backup Your Files",
-	"Title": "Backup Your Files",
-	"Description": "This article will show you how to automatically backup your files often and automatically.",
-	"Keywords": [
-		"backup",
-		"cli",
-		"Linux",
-		"mysql",
-		"Shell script"
-	],
-	"Tags": [
-		"backup",
-		"cli",
-		"Linux",
-		"mysql",
-		"Shell script"
-	],
-	"Pubdate": "2008-12-29",
-	"Topics": [
-		"Systems"
-	],
-	"Url": "post/backup-your-files",
-	"Slug": "backup-your-files",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: This article will show you how to automatically backup your files often
+  and automatically.
+Keywords:
+- backup
+- cli
+- Linux
+- mysql
+- Shell script
+Section: post
+Slug: backup-your-files
+Tags:
+- backup
+- cli
+- Linux
+- mysql
+- Shell script
+Thumbnail: ""
+Title: Backup Your Files
+Topics:
+- Systems
+Url: post/backup-your-files
+date: 2008-12-29
+disqus_identifier: 264 http://localhost/~sfrancia/wordpress/?p=264
+disqus_title: Backup Your Files
+disqus_url: http://spf13.com/post/backup-your-files/
+---
+
 One of the worst experiences you can have as a computer operator is to
 realize you (or something else) just did something and wiped out your
 files. The purpose of this article is to show you how to automatically

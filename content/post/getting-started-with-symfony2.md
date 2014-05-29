@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/getting-started-with-symfony2/",
-	"disqus_identifier" : "1268 http://spf13.com/?p=1268",
-	"disqus_title" : "Getting Started with Symfony2",
-	"Title": "Getting Started with Symfony2",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"php",
-		"development",
-		"PHP",
-		"Symfony2"
-	],
-	"Tags": [
-		"development",
-		"PHP",
-		"Symfony2"
-	],
-	"Pubdate": "2011-03-07",
-	"Topics": [
-		"Development",
-		"php"
-	],
-	"Url": "post/getting-started-with-symfony2",
-	"Slug": "getting-started-with-symfony2",
-	"Section": "post",
-	"Thumbnail": "/images/1272_Symfony.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- php
+- development
+- PHP
+- Symfony2
+Section: post
+Slug: getting-started-with-symfony2
+Tags:
+- development
+- PHP
+- Symfony2
+Thumbnail: /images/1272_Symfony.png-200x200.png
+Title: Getting Started with Symfony2
+Topics:
+- Development
+- php
+Url: post/getting-started-with-symfony2
+date: 2011-03-07
+disqus_identifier: 1268 http://spf13.com/?p=1268
+disqus_title: Getting Started with Symfony2
+disqus_url: http://spf13.com/post/getting-started-with-symfony2/
+---
+
 {{% img src="/media/symfony_ss.png" alt="symfony" %}}
 
 In a follow up to my popular post [on

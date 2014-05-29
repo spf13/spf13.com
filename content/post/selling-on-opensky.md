@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/selling-on-opensky/",
-	"disqus_identifier" : "774 http://spf13.com/?p=774",
-	"disqus_title" : "Selling on OpenSky",
-	"Title": "Selling on OpenSky",
-	"Description": "",
-	"Keywords": [
-		"Ecommerce",
-		"Personal",
-		"OpenSky",
-		"Shop",
-		"shopping"
-	],
-	"Tags": [
-		"OpenSky",
-		"Shop",
-		"shopping"
-	],
-	"Pubdate": "2010-08-26",
-	"Topics": [
-		"Ecommerce",
-		"Personal"
-	],
-	"Url": "post/selling-on-opensky",
-	"Slug": "selling-on-opensky",
-	"Section": "post",
-	"Thumbnail": "/images/785_os-logo-200.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Ecommerce
+- Personal
+- OpenSky
+- Shop
+- shopping
+Section: post
+Slug: selling-on-opensky
+Tags:
+- OpenSky
+- Shop
+- shopping
+Thumbnail: /images/785_os-logo-200.png-200x200.png
+Title: Selling on OpenSky
+Topics:
+- Ecommerce
+- Personal
+Url: post/selling-on-opensky
+date: 2010-08-26
+disqus_identifier: 774 http://spf13.com/?p=774
+disqus_title: Selling on OpenSky
+disqus_url: http://spf13.com/post/selling-on-opensky/
+---
 
 {{% img src="/media/opensky_new-logo.png" class="right third" alt="OpenSky" %}}
 

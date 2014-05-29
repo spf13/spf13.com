@@ -1,26 +1,25 @@
-{
-	"disqus_url" : "http://spf13.com/post/social-media-recognition/",
-	"disqus_identifier" : "249 http://localhost/~sfrancia/wordpress/?p=249",
-	"disqus_title" : "Social Media Recognition",
-	"Title": "Social Media Recognition",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"Social Media"
-	],
-	"Tags": [],
-	"Pubdate": "2009-07-17",
-	"Topics": [
-		"Leadership",
-		"Personal",
-		"Social Media"
-	],
-	"Url": "post/social-media-recognition",
-	"Slug": "social-media-recognition",
-	"Section": "post",
-	"Thumbnail": "/media/3730060061_ee4e0d8880_o.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Personal
+- Social Media
+Section: post
+Slug: social-media-recognition
+Tags: []
+Thumbnail: /media/3730060061_ee4e0d8880_o.jpg
+Title: Social Media Recognition
+Topics:
+- Leadership
+- Personal
+- Social Media
+Url: post/social-media-recognition
+date: 2009-07-17
+disqus_identifier: 249 http://localhost/~sfrancia/wordpress/?p=249
+disqus_title: Social Media Recognition
+disqus_url: http://spf13.com/post/social-media-recognition/
+---
+
 Recently I’ve been fortunate to be recognized in a few publications.
 I extend a warm welcome to all my new friends and followers. I look
 forward to engaging with you.

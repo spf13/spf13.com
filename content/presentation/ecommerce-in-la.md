@@ -1,28 +1,26 @@
-{
-	"disqus_url" : "http://spf13.com/post/ecommerce-in-la/",
-	"disqus_identifier" : "1614 http://spf13.com/?p=1614",
-	"disqus_title" : "E-commerce in LA",
-	"Title": "E-commerce in LA",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"Presentations"
-	],
-	"Tags": [],
-	"Pubdate": "2011-12-08",
-	"Topics": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"Presentations"
-	],
-	"Url": "presentation/ecommerce-in-la",
-	"Slug": "ecommerce-in-la",
-	"Section": "presentation",
-	"Thumbnail": "/images/1652_I-leaf-LA4.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Ecommerce
+- MongoDB
+- Presentations
+Section: presentation
+Slug: ecommerce-in-la
+Tags: []
+Thumbnail: /images/1652_I-leaf-LA4.png-200x200.png
+Title: E-commerce in LA
+Topics:
+- Development
+- Ecommerce
+- MongoDB
+- Presentations
+Url: presentation/ecommerce-in-la
+date: 2011-12-08
+disqus_identifier: 1614 http://spf13.com/?p=1614
+disqus_title: E-commerce in LA
+disqus_url: http://spf13.com/post/ecommerce-in-la/
+---
 
 {{% img src="/media/I-Leaf-LA4.png" alt="I leaf LA" class="third right" %}}
 

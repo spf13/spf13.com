@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/featured-in-cio-magazine/",
-	"disqus_identifier" : "258 http://localhost/~sfrancia/wordpress/?p=258",
-	"disqus_title" : "Featured in CIO Magazine!",
-	"Title": "Featured in CIO Magazine!",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"Leadership",
-		"Personal",
-		"blog",
-		"cio"
-	],
-	"Tags": [
-		"blog",
-		"cio"
-	],
-	"Pubdate": "2009-09-10",
-	"Topics": [
-		"Blogging",
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/featured-in-cio-magazine",
-	"Slug": "featured-in-cio-magazine",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/09/3908028153_b63c2d2190_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- Leadership
+- Personal
+- blog
+- cio
+Section: post
+Slug: featured-in-cio-magazine
+Tags:
+- blog
+- cio
+Thumbnail: /uploads/2009/09/3908028153_b63c2d2190_m.jpg
+Title: Featured in CIO Magazine!
+Topics:
+- Blogging
+- Leadership
+- Personal
+Url: post/featured-in-cio-magazine
+date: 2009-09-10
+disqus_identifier: 258 http://localhost/~sfrancia/wordpress/?p=258
+disqus_title: Featured in CIO Magazine!
+disqus_url: http://spf13.com/post/featured-in-cio-magazine/
+---
 
 {{% img src="/media/CIOmag.jpg" class="third right hid" caption="Steve Francia in CIO Magazine" %}}
 

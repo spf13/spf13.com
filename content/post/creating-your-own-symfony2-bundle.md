@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/creating-your-own-symfony2-bundle/",
-	"disqus_identifier" : "1377 http://spf13.com/?p=1377",
-	"disqus_title" : "Creating your own Symfony2 Bundle",
-	"Title": "Creating your own Symfony2 Bundle",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"php",
-		"PHP",
-		"Programming",
-		"symfony",
-		"Symfony2"
-	],
-	"Tags": [
-		"PHP",
-		"Programming",
-		"symfony",
-		"Symfony2"
-	],
-	"Pubdate": "2011-05-24",
-	"Topics": [
-		"Development",
-		"php"
-	],
-	"Url": "post/creating-your-own-symfony2-bundle",
-	"Slug": "creating-your-own-symfony2-bundle",
-	"Section": "post",
-	"Thumbnail": "/images/1379_symfony_black_03.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- php
+- PHP
+- Programming
+- symfony
+- Symfony2
+Section: post
+Slug: creating-your-own-symfony2-bundle
+Tags:
+- PHP
+- Programming
+- symfony
+- Symfony2
+Thumbnail: /images/1379_symfony_black_03.png-200x200.png
+Title: Creating your own Symfony2 Bundle
+Topics:
+- Development
+- php
+Url: post/creating-your-own-symfony2-bundle
+date: 2011-05-24
+disqus_identifier: 1377 http://spf13.com/?p=1377
+disqus_title: Creating your own Symfony2 Bundle
+disqus_url: http://spf13.com/post/creating-your-own-symfony2-bundle/
+---
+
 {{% img src="/media/symfony_ss.png" alt="symfony" %}}
 
 [Symfony2](http://symfony.com/) is a great web framework.

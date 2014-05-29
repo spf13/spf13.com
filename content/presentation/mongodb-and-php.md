@@ -1,24 +1,21 @@
-{
-	"Title": "MongoDB and PHP Webinar",
-	"Description": "",
-	"Keywords": [
-		"MongoDB",
-		"php",
-		"Presentations"
-	],
-	"Tags": [
-		"mongodb",
-        "development",
-		"PHP"
-	],
-	"Pubdate": "2013-07-12",
-	"Topics": [
-		"MongoDB",
-		"php",
-        "development",
-		"Presentations"
-	]
-}
+---
+Description: ""
+Keywords:
+- MongoDB
+- php
+- Presentations
+Tags:
+- mongodb
+- development
+- PHP
+Title: MongoDB and PHP Webinar
+Topics:
+- MongoDB
+- php
+- development
+- Presentations
+date: 2013-07-12
+---
 
 This is a 90 minute MongoDB tutorial on using MongoDB in PHP which I gave as a
 webcast for O'Reilly last year.. The tutorial covers everything from Installing

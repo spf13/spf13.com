@@ -1,24 +1,21 @@
-{
-	"disqus_url" : "http://spf13.com/post/using-nginx-as-a-load-balancer/",
-	"disqus_identifier" : "262 http://localhost/~sfrancia/wordpress/?p=262",
-	"disqus_title" : "Using Nginx as a Load Balancer",
-	"Title": "Using Nginx as a Load Balancer",
-	"Description": "",
-	"Keywords": [
-		"nginx"
-	],
-	"Tags": [
-		"nginx"
-	],
-	"Pubdate": "2009-09-24",
-	"Topics": [
-		"Systems"
-	],
-	"Url": "post/using-nginx-as-a-load-balancer",
-	"Slug": "using-nginx-as-a-load-balancer",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- nginx
+Section: post
+Slug: using-nginx-as-a-load-balancer
+Tags:
+- nginx
+Thumbnail: ""
+Title: Using Nginx as a Load Balancer
+Topics:
+- Systems
+Url: post/using-nginx-as-a-load-balancer
+date: 2009-09-24
+disqus_identifier: 262 http://localhost/~sfrancia/wordpress/?p=262
+disqus_title: Using Nginx as a Load Balancer
+disqus_url: http://spf13.com/post/using-nginx-as-a-load-balancer/
+---
 
 Nginx is a relatively new web server that has a light footprint
 and relatively easy configuration. The following configuration

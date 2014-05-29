@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/perfect-vimrc-vim-config-file/",
-	"disqus_identifier" : "1225 http://spf13.com/?p=1225",
-	"disqus_title" : "The perfect .vimrc vim config file",
-	"Title": "The perfect .vimrc vim config file",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"VIM",
-		".vimrc",
-		"Editors",
-		"vim"
-	],
-	"Tags": [
-		".vimrc",
-		"Editors",
-		"vim"
-	],
-	"Pubdate": "2011-01-27",
-	"Topics": [
-		"Development",
-		"VIM"
-	],
-	"Url": "post/perfect-vimrc-vim-config-file",
-	"Slug": "perfect-vimrc-vim-config-file",
-	"Section": "post",
-	"Thumbnail": "/images/1013_Vim_gloss_128.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- VIM
+- .vimrc
+- Editors
+- vim
+Section: post
+Slug: perfect-vimrc-vim-config-file
+Tags:
+- .vimrc
+- Editors
+- vim
+Thumbnail: /images/1013_Vim_gloss_128.png-200x200.png
+Title: The perfect .vimrc vim config file
+Topics:
+- Development
+- VIM
+Url: post/perfect-vimrc-vim-config-file
+date: 2011-01-27
+disqus_identifier: 1225 http://spf13.com/?p=1225
+disqus_title: The perfect .vimrc vim config file
+disqus_url: http://spf13.com/post/perfect-vimrc-vim-config-file/
+---
+
 {{% img src="/media/vim_logo.png" class="third right" alt="vim" %}}
 
 I have spent the last few years tweaking and refining my VIM

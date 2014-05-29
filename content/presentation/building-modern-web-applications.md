@@ -1,29 +1,26 @@
-{
-	"Title": "Building Modern Web Applications",
-	"Description": "",
-	"Keywords": [
-		"MongoDB",
-		"php",
-		"ruby",
-        "javascript",
-		"presentation",
-        "slideshow",
-        "development",
-        "html5"
-	],
-	"Tags": [
-		"mongodb",
-		"ruby",
-		"php",
-        "javascript",
-        "development"
-	],
-	"Pubdate": "2013-08-05",
-	"Topics": [
-		"MongoDB",
-        "development"
-	]
-}
+---
+Description: ""
+Keywords:
+- MongoDB
+- php
+- ruby
+- javascript
+- presentation
+- slideshow
+- development
+- html5
+Tags:
+- mongodb
+- ruby
+- php
+- javascript
+- development
+Title: Building Modern Web Applications
+Topics:
+- MongoDB
+- development
+date: 2013-08-05
+---
 
 I gave this presentation to a packed house at DevCon5 in NYC July 24th.  DevCon5
 is a web developers conference and this year it focused on HTML5.  This was one

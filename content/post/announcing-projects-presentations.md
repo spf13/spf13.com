@@ -1,26 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/announcing-projects-presentations/",
-	"disqus_identifier" : "1354 http://spf13.com/?p=1354",
-	"disqus_title" : "Announcing Projects &#038; Presentations",
-	"Title": "Announcing Projects & Presentations",
-	"Description": "",
-	"Keywords": [
-		"Personal",
-		"php",
-		"VIM"
-	],
-	"Tags": [],
-	"Pubdate": "2011-04-22",
-	"Topics": [
-		"Personal",
-		"php",
-		"VIM"
-	],
-	"Url": "post/announcing-projects-presentations",
-	"Slug": "announcing-projects-presentations",
-	"Section": "post",
-	"Thumbnail": "/images/1360_spf13-logo-sq-t.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Personal
+- php
+- VIM
+Section: post
+Slug: announcing-projects-presentations
+Tags: []
+Thumbnail: /images/1360_spf13-logo-sq-t.png-200x200.png
+Title: Announcing Projects & Presentations
+Topics:
+- Personal
+- php
+- VIM
+Url: post/announcing-projects-presentations
+date: 2011-04-22
+disqus_identifier: 1354 http://spf13.com/?p=1354
+disqus_title: Announcing Projects &#038; Presentations
+disqus_url: http://spf13.com/post/announcing-projects-presentations/
+---
 
 {{% img src="/media/spf13-logo-splat.png" alt="Steve Francia Logo" class="right third" %}}
 

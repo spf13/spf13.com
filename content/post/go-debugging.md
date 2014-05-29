@@ -1,22 +1,19 @@
-+++
-title = "Debugging Golang"
-description = "how to debug software when developing in go"
-tags = [
-    "hugo",
-    "cobra",
-    "go",
-    "golang",
-    "development",
-    "debugging",
-]
-date = "2013-09-23"
-topics = [
-    "Development",
-    "golang",
-]
-draft = true
-+++
-
+---
+date: 2013-09-23
+description: how to debug software when developing in go
+draft: true
+tags:
+- hugo
+- cobra
+- go
+- golang
+- development
+- debugging
+title: Debugging Golang
+topics:
+- Development
+- golang
+---
 
 I wrote [cobra](http://cobra.spf13.com), a commander for golang
 applications which I wrote because [Hugo](http://hugo.spf13.com) required

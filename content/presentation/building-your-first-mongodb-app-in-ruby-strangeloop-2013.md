@@ -1,21 +1,20 @@
-{
-	"Title": "Build your first MongoDB App in Ruby @ StrangeLoop 2013",
-	"Description": "An updated tutorial given at strageloop 2013 introduces the features of MongoDB by building a simple location-based application using MongoDB.",
-	"Keywords": [
-		"MongoDB",
-		"Presentations",
-		"Ruby"
-	],
-	"Tags": [
-		"mongodb",
-		"Ruby"
-	],
-	"Pubdate": "2013-09-23",
-	"Topics": [
-		"MongoDB",
-		"Presentations"
-	]
-}
+---
+Description: An updated tutorial given at strageloop 2013 introduces the features
+  of MongoDB by building a simple location-based application using MongoDB.
+Keywords:
+- MongoDB
+- Presentations
+- Ruby
+Tags:
+- mongodb
+- Ruby
+Title: Build your first MongoDB App in Ruby @ StrangeLoop 2013
+Topics:
+- MongoDB
+- Presentations
+date: 2013-09-23
+---
+
 An updated version of the [very popular workshop I gave at OSCON last year](presentation/building-your-first-mongodb-app-oscon-2012/).
 
 This presentation was given at Strangeloop 2013 as a 3 hour interactive workshop.

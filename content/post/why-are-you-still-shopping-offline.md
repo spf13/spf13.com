@@ -1,24 +1,22 @@
-{
-	"disqus_url" : "http://spf13.com/post/why-are-you-still-shopping-offline/",
-	"disqus_identifier" : "222 http://localhost/~sfrancia/wordpress/?p=222",
-	"disqus_title" : "Why are you still shopping offline?",
-	"Title": "Why are you still shopping offline?",
-	"Description": "Has the day finally come where a person can do most of their shopping right from their livingroom?",
-	"Keywords": [
-		"shopping"
-	],
-	"Tags": [
-		"shopping"
-	],
-	"Pubdate": "2008-09-08",
-	"Topics": [
-		"Ecommerce"
-	],
-	"Url": "post/why-are-you-still-shopping-offline",
-	"Slug": "why-are-you-still-shopping-offline",
-	"Section": "post",
-	"Thumbnail": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Waiting_in_line_at_a_food_store.JPG/300px-Waiting_in_line_at_a_food_store.JPG"
-}
+---
+Description: Has the day finally come where a person can do most of their shopping
+  right from their livingroom?
+Keywords:
+- shopping
+Section: post
+Slug: why-are-you-still-shopping-offline
+Tags:
+- shopping
+Thumbnail: http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Waiting_in_line_at_a_food_store.JPG/300px-Waiting_in_line_at_a_food_store.JPG
+Title: Why are you still shopping offline?
+Topics:
+- Ecommerce
+Url: post/why-are-you-still-shopping-offline
+date: 2008-09-08
+disqus_identifier: 222 http://localhost/~sfrancia/wordpress/?p=222
+disqus_title: Why are you still shopping offline?
+disqus_url: http://spf13.com/post/why-are-you-still-shopping-offline/
+---
 
 Today I visited one of the largest national office supply outlets. I had
 a specific purpose in mind. I needed to pickup 2 wireless routers and 1

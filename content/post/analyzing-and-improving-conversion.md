@@ -1,30 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/analyzing-and-improving-conversion/",
-	"disqus_identifier" : "131 http://localhost/~sfrancia/wordpress/?p=131",
-	"disqus_title" : "Analyzing and Improving Conversion",
-	"Title": "Analyzing and Improving Conversion",
-	"Description": "",
-	"Keywords": [
-		"analytics",
-		"conversion",
-		"ecommerce",
-		"marketing"
-	],
-	"Tags": [
-		"analytics",
-		"conversion",
-		"ecommerce",
-		"marketing"
-	],
-	"Pubdate": "2009-10-02",
-	"Topics": [
-		"Ecommerce"
-	],
-	"Url": "post/analyzing-and-improving-conversion",
-	"Slug": "analyzing-and-improving-conversion",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/10/2418911012_4e1d2a0373_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- analytics
+- conversion
+- ecommerce
+- marketing
+Section: post
+Slug: analyzing-and-improving-conversion
+Tags:
+- analytics
+- conversion
+- ecommerce
+- marketing
+Thumbnail: /uploads/2009/10/2418911012_4e1d2a0373_m.jpg
+Title: Analyzing and Improving Conversion
+Topics:
+- Ecommerce
+Url: post/analyzing-and-improving-conversion
+date: 2009-10-02
+disqus_identifier: 131 http://localhost/~sfrancia/wordpress/?p=131
+disqus_title: Analyzing and Improving Conversion
+disqus_url: http://spf13.com/post/analyzing-and-improving-conversion/
+---
+
 {{% img src="/media/google-analytics.jpg" class="third right" caption="Image by LollyKnit via Flickr" link="http://www.flickr.com/photos/96466040@N00/2418911012" %}}
 
 Conversion is one of those core metrics that every business depends on

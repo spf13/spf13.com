@@ -1,24 +1,22 @@
-{
-	"disqus_url" : "http://spf13.com/post/a-new-page-for-google/",
-	"disqus_identifier" : "1206 http://spf13.com/?p=1206",
-	"disqus_title" : "A new page for Google",
-	"Title": "A new page for Google",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Tech Industry"
-	],
-	"Tags": [],
-	"Pubdate": "2011-01-21",
-	"Topics": [
-		"Leadership",
-		"Tech Industry"
-	],
-	"Url": "post/a-new-page-for-google",
-	"Slug": "a-new-page-for-google",
-	"Section": "post",
-	"Thumbnail": "/images/1207_sergey-brin-and-larry-page.jpg-200x200.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Tech Industry
+Section: post
+Slug: a-new-page-for-google
+Tags: []
+Thumbnail: /images/1207_sergey-brin-and-larry-page.jpg-200x200.jpg
+Title: A new page for Google
+Topics:
+- Leadership
+- Tech Industry
+Url: post/a-new-page-for-google
+date: 2011-01-21
+disqus_identifier: 1206 http://spf13.com/?p=1206
+disqus_title: A new page for Google
+disqus_url: http://spf13.com/post/a-new-page-for-google/
+---
 
 {{% img src="/media/sergey-brin-and-larry-page.jpg" alt="Google Management" class="right half" %}}
 

@@ -1,31 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/the-importance-of-focus/",
-	"disqus_identifier" : "175 http://localhost/~sfrancia/wordpress/?p=175",
-	"disqus_title" : "The Importance of Focus",
-	"Title": "The Importance of Focus",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"focus",
-		"leadership",
-		"success"
-	],
-	"Tags": [
-		"focus",
-		"leadership",
-		"success"
-	],
-	"Pubdate": "2009-12-16",
-	"Topics": [
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/the-importance-of-focus",
-	"Slug": "the-importance-of-focus",
-	"Section": "post",
-	"Thumbnail": "http://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bill_Cosby.jpg/300px-Bill_Cosby.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Personal
+- focus
+- leadership
+- success
+Section: post
+Slug: the-importance-of-focus
+Tags:
+- focus
+- leadership
+- success
+Thumbnail: http://upload.wikimedia.org/wikipedia/en/thumb/4/43/Bill_Cosby.jpg/300px-Bill_Cosby.jpg
+Title: The Importance of Focus
+Topics:
+- Leadership
+- Personal
+Url: post/the-importance-of-focus
+date: 2009-12-16
+disqus_identifier: 175 http://localhost/~sfrancia/wordpress/?p=175
+disqus_title: The Importance of Focus
+disqus_url: http://spf13.com/post/the-importance-of-focus/
+---
 
 Imagine
 if [Apple](http://www.apple.com "Apple"), [Disney](http://disney.go.com "The Walt Disney Company"), [Microsoft](http://www.microsoft.com "Microsoft"),

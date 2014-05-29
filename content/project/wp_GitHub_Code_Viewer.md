@@ -1,24 +1,21 @@
-{
-	"Title": "GitHub Code Viewer 2 for WordPress",
-	"Description": "",
-	"Keywords": [
-		"wordpress",
-		"blogging",
-		"github",
-		"development",
-		"coding"
-	],
-	"Tags": [
-		"wordpress",
-		"blog",
-		"github"
-	],
-	"Pubdate": "2012-02-13",
-	"Topics": [
-		"Development"
-	],
-	"Slug": "github code viewer"
-}
+---
+Description: ""
+Keywords:
+- wordpress
+- blogging
+- github
+- development
+- coding
+Slug: github code viewer
+Tags:
+- wordpress
+- blog
+- github
+Title: GitHub Code Viewer 2 for WordPress
+Topics:
+- Development
+date: 2012-02-13
+---
 
 GitHub Code Viewer 2 automatically  pulls a file from github and places into any post using a shortcode [github_cv url='$url']
 Caches locally (in db), so there isn't a performance hit.

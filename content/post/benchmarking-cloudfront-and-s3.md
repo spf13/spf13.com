@@ -1,35 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/benchmarking-cloudfront-and-s3/",
-	"disqus_identifier" : "90 http://localhost/~sfrancia/wordpress/?p=90",
-	"disqus_title" : "Benchmarking Cloudfront (and S3)",
-	"Title": "Benchmarking Cloudfront (and S3)",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Scalability",
-		"Systems",
-		"amazon",
-		"aws",
-		"cloudfront",
-		"s3"
-	],
-	"Tags": [
-		"amazon",
-		"aws",
-		"cloudfront",
-		"s3"
-	],
-	"Pubdate": "2010-01-19",
-	"Topics": [
-		"Architecture",
-		"Scalability",
-		"Systems"
-	],
-	"Url": "post/benchmarking-cloudfront-and-s3",
-	"Slug": "benchmarking-cloudfront-and-s3",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/01/3898v1-max-250x250.jpg"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Scalability
+- Systems
+- amazon
+- aws
+- cloudfront
+- s3
+Section: post
+Slug: benchmarking-cloudfront-and-s3
+Tags:
+- amazon
+- aws
+- cloudfront
+- s3
+Thumbnail: /uploads/2010/01/3898v1-max-250x250.jpg
+Title: Benchmarking Cloudfront (and S3)
+Topics:
+- Architecture
+- Scalability
+- Systems
+Url: post/benchmarking-cloudfront-and-s3
+date: 2010-01-19
+disqus_identifier: 90 http://localhost/~sfrancia/wordpress/?p=90
+disqus_title: Benchmarking Cloudfront (and S3)
+disqus_url: http://spf13.com/post/benchmarking-cloudfront-and-s3/
+---
 
 {{% img src="/media/amazon-logo.jpg" class="right third" %}}
 

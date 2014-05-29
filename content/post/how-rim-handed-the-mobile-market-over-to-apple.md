@@ -1,35 +1,34 @@
-{
-	"disqus_url" : "http://spf13.com/post/how-rim-handed-the-mobile-market-over-to-apple/",
-	"disqus_identifier" : "228 http://localhost/~sfrancia/wordpress/?p=228",
-	"disqus_title" : "How RIM handed the mobile market over to Apple",
-	"Title": "How RIM handed the mobile market over to Apple",
-	"Description": "Just because you are the market leader doesn't mean you will stay the market leader. A lesson on competition given by Apple to RIM.",
-	"Keywords": [
-		"Development",
-		"Tech Industry",
-		"apple",
-		"blackberry",
-		"iPhone",
-		"IT",
-		"RIM"
-	],
-	"Tags": [
-		"apple",
-		"blackberry",
-		"iPhone",
-		"IT",
-		"RIM"
-	],
-	"Pubdate": "2008-11-14",
-	"Topics": [
-		"Development",
-		"Tech Industry"
-	],
-	"Url": "post/how-rim-handed-the-mobile-market-over-to-apple",
-	"Slug": "how-rim-handed-the-mobile-market-over-to-apple",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/20169v2-max-250x250.jpg"
-}
+---
+Description: Just because you are the market leader doesn't mean you will stay the
+  market leader. A lesson on competition given by Apple to RIM.
+Keywords:
+- Development
+- Tech Industry
+- apple
+- blackberry
+- iPhone
+- IT
+- RIM
+Section: post
+Slug: how-rim-handed-the-mobile-market-over-to-apple
+Tags:
+- apple
+- blackberry
+- iPhone
+- IT
+- RIM
+Thumbnail: /uploads/2010/10/20169v2-max-250x250.jpg
+Title: How RIM handed the mobile market over to Apple
+Topics:
+- Development
+- Tech Industry
+Url: post/how-rim-handed-the-mobile-market-over-to-apple
+date: 2008-11-14
+disqus_identifier: 228 http://localhost/~sfrancia/wordpress/?p=228
+disqus_title: How RIM handed the mobile market over to Apple
+disqus_url: http://spf13.com/post/how-rim-handed-the-mobile-market-over-to-apple/
+---
+
 {{% img src="/media/iphone3.jpg" class="right hid" caption="Image representing iPhone 3G as depicted in Crunchbase" %}}
 
 ***Hint: It has nothing to do with touch screens.***

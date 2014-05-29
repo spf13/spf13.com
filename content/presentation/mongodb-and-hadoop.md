@@ -1,41 +1,40 @@
-{
-	"disqus_url" : "http://spf13.com/post/mongodb-and-hadoop/",
-	"disqus_identifier" : "1736 http://spf13.com/?p=1736",
-	"disqus_title" : "MongoDB and Hadoop",
-	"Title": "MongoDB and Hadoop",
-	"Description": "Learn how to integrate MongoDB with Hadoop for large-scale distributed data processing.",
-	"Keywords": [
-		"Development",
-		"MongoDB",
-		"Presentations",
-		"Apache Hadoop",
-		"Data Processing",
-		"Distributed Data Processing",
-		"hadoop",
-		"Large Scale Distributed",
-		"mapreduce",
-		"mongodb"
-	],
-	"Tags": [
-		"Apache Hadoop",
-		"Data Processing",
-		"Distributed Data Processing",
-		"hadoop",
-		"Large Scale Distributed",
-		"mapreduce",
-		"mongodb"
-	],
-	"Pubdate": "2012-03-01",
-	"Topics": [
-		"Development",
-		"MongoDB",
-		"Presentations"
-	],
-	"Url": "presentation/mongodb-and-hadoop",
-	"Slug": "mongodb-and-hadoop",
-	"Section": "presentation",
-	"Thumbnail": "/images/1737_MongoDB-and-Hadoop.png-200x200.png"
-}
+---
+Description: Learn how to integrate MongoDB with Hadoop for large-scale distributed
+  data processing.
+Keywords:
+- Development
+- MongoDB
+- Presentations
+- Apache Hadoop
+- Data Processing
+- Distributed Data Processing
+- hadoop
+- Large Scale Distributed
+- mapreduce
+- mongodb
+Section: presentation
+Slug: mongodb-and-hadoop
+Tags:
+- Apache Hadoop
+- Data Processing
+- Distributed Data Processing
+- hadoop
+- Large Scale Distributed
+- mapreduce
+- mongodb
+Thumbnail: /images/1737_MongoDB-and-Hadoop.png-200x200.png
+Title: MongoDB and Hadoop
+Topics:
+- Development
+- MongoDB
+- Presentations
+Url: presentation/mongodb-and-hadoop
+date: 2012-03-01
+disqus_identifier: 1736 http://spf13.com/?p=1736
+disqus_title: MongoDB and Hadoop
+disqus_url: http://spf13.com/post/mongodb-and-hadoop/
+---
+
 Learn how to integrate MongoDB with Hadoop for large-scale distributed
 data processing. Using tools like MapReduce, Pig and Streaming you will
 learn how to do analytics and ETL on large datasets with the ability to
@@ -55,4 +54,4 @@ hadoop](http://www.slideshare.net/spf13/mongodb-and-hadoop "MongoDB and hadoop")
 View more [presentations](http://www.slideshare.net/) from [Steve
 Francia](http://www.slideshare.net/spf13)
 
-{{%img src="/media/Strata2012.jpg" title="Steve Francia presenting at Strata 2012" %}}
+{{% img src="/media/Strata2012.jpg" title="Steve Francia presenting at Strata 2012" %}}

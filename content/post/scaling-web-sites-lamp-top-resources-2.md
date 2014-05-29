@@ -1,47 +1,45 @@
-{
-	"disqus_url" : "http://spf13.com/post/scaling-web-sites-lamp-top-resources-2/",
-	"disqus_identifier" : "335 http://localhost/~sfrancia/wordpress/?p=335",
-	"disqus_title" : "Scaling Web Sites (LAMP) : Top Resources",
-	"Title": "Scaling Web Sites (LAMP) : Top Resources",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Scalability",
-		"Systems",
-		"apache",
-		"facebook",
-		"Flickr",
-		"Linux",
-		"mysql",
-		"PHP",
-		"Ruby",
-		"scaling",
-		"SysAdmin",
-		"twitter"
-	],
-	"Tags": [
-		"apache",
-		"facebook",
-		"Flickr",
-		"Linux",
-		"mysql",
-		"PHP",
-		"Ruby",
-		"scaling",
-		"SysAdmin",
-		"twitter"
-	],
-	"Pubdate": "2009-04-15",
-	"Topics": [
-		"Architecture",
-		"Scalability",
-		"Systems"
-	],
-	"Url": "post/scaling-web-sites-lamp-top-resources-2",
-	"Slug": "scaling-web-sites-lamp-top-resources-2",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/04/300px-Failwhale2.png"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Scalability
+- Systems
+- apache
+- facebook
+- Flickr
+- Linux
+- mysql
+- PHP
+- Ruby
+- scaling
+- SysAdmin
+- twitter
+Section: post
+Slug: scaling-web-sites-lamp-top-resources-2
+Tags:
+- apache
+- facebook
+- Flickr
+- Linux
+- mysql
+- PHP
+- Ruby
+- scaling
+- SysAdmin
+- twitter
+Thumbnail: /uploads/2009/04/300px-Failwhale2.png
+Title: 'Scaling Web Sites (LAMP) : Top Resources'
+Topics:
+- Architecture
+- Scalability
+- Systems
+Url: post/scaling-web-sites-lamp-top-resources-2
+date: 2009-04-15
+disqus_identifier: 335 http://localhost/~sfrancia/wordpress/?p=335
+disqus_title: 'Scaling Web Sites (LAMP) : Top Resources'
+disqus_url: http://spf13.com/post/scaling-web-sites-lamp-top-resources-2/
+---
+
 {{% img src="/media/failwhale.png" class="third right hid" caption="Image via Wikipedia" %}}
 
 Luckily it’s 2009 and there have been a bunch of successful websites

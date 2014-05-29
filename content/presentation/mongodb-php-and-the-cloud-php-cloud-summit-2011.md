@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/mongodb-php-and-the-cloud-php-cloud-summit-2011/",
-	"disqus_identifier" : "1581 http://spf13.com/?p=1581",
-	"disqus_title" : "MongoDB, PHP and the Cloud &#8211; PHP Cloud Summit 2011",
-	"Title": "MongoDB, PHP and the Cloud - PHP Cloud Summit 2011",
-	"Description": "",
-	"Keywords": [
-		"MongoDB",
-		"php",
-		"Presentations",
-		"Cloud computing",
-		"mongodb",
-		"PHP"
-	],
-	"Tags": [
-		"Cloud computing",
-		"mongodb",
-		"PHP"
-	],
-	"Pubdate": "2011-11-30",
-	"Topics": [
-		"MongoDB",
-		"php",
-		"Presentations"
-	],
-	"Url": "presentation/mongodb-php-and-the-cloud-php-cloud-summit-2011",
-	"Slug": "mongodb-php-and-the-cloud-php-cloud-summit-2011",
-	"Section": "presentation",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- MongoDB
+- php
+- Presentations
+- Cloud computing
+- mongodb
+- PHP
+Section: presentation
+Slug: mongodb-php-and-the-cloud-php-cloud-summit-2011
+Tags:
+- Cloud computing
+- mongodb
+- PHP
+Thumbnail: ""
+Title: MongoDB, PHP and the Cloud - PHP Cloud Summit 2011
+Topics:
+- MongoDB
+- php
+- Presentations
+Url: presentation/mongodb-php-and-the-cloud-php-cloud-summit-2011
+date: 2011-11-30
+disqus_identifier: 1581 http://spf13.com/?p=1581
+disqus_title: MongoDB, PHP and the Cloud &#8211; PHP Cloud Summit 2011
+disqus_url: http://spf13.com/post/mongodb-php-and-the-cloud-php-cloud-summit-2011/
+---
+
 I had the opportunity to present at the [PHP Cloud Summit
 2011](http://www.phparch.com/phparchitect-live-presents-the-cloud-summit/)
 among some great presenters. This was first time speaking at an online

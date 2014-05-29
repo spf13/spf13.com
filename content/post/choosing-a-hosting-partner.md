@@ -1,27 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/choosing-a-hosting-partner/",
-	"disqus_identifier" : "252 http://localhost/~sfrancia/wordpress/?p=252",
-	"disqus_title" : "Choosing a Hosting Partner",
-	"Title": "Choosing a Hosting Partner",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Systems",
-		"hosting"
-	],
-	"Tags": [
-		"hosting"
-	],
-	"Pubdate": "2009-08-25",
-	"Topics": [
-		"Leadership",
-		"Systems"
-	],
-	"Url": "post/choosing-a-hosting-partner",
-	"Slug": "choosing-a-hosting-partner",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/08/300px-Server_Linux.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Systems
+- hosting
+Section: post
+Slug: choosing-a-hosting-partner
+Tags:
+- hosting
+Thumbnail: /uploads/2009/08/300px-Server_Linux.jpg
+Title: Choosing a Hosting Partner
+Topics:
+- Leadership
+- Systems
+Url: post/choosing-a-hosting-partner
+date: 2009-08-25
+disqus_identifier: 252 http://localhost/~sfrancia/wordpress/?p=252
+disqus_title: Choosing a Hosting Partner
+disqus_url: http://spf13.com/post/choosing-a-hosting-partner/
+---
 
 {{% img src="/media/Server_Linux.jpg" class="half right" caption="Image via Wikipedia" %}}
 

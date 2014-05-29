@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/hire-your-next-consultant-using-twitter/",
-	"disqus_identifier" : "224 http://localhost/~sfrancia/wordpress/?p=224",
-	"disqus_title" : "Hire Your Next Consultant Using Twitter",
-	"Title": "Hire Your Next Consultant Using Twitter",
-	"Description": "How to find great and qualified people to hire using Twitter.",
-	"Keywords": [
-		"Leadership",
-		"Social Media",
-		"cisco",
-		"IT",
-		"twitter"
-	],
-	"Tags": [
-		"cisco",
-		"IT",
-		"twitter"
-	],
-	"Pubdate": "2008-10-21",
-	"Topics": [
-		"Leadership",
-		"Social Media"
-	],
-	"Url": "post/hire-your-next-consultant-using-twitter",
-	"Slug": "hire-your-next-consultant-using-twitter",
-	"Section": "post",
-	"Thumbnail": "/uploads/2008/10/180px-Cisco_logo.svg.png"
-}
+---
+Description: How to find great and qualified people to hire using Twitter.
+Keywords:
+- Leadership
+- Social Media
+- cisco
+- IT
+- twitter
+Section: post
+Slug: hire-your-next-consultant-using-twitter
+Tags:
+- cisco
+- IT
+- twitter
+Thumbnail: /uploads/2008/10/180px-Cisco_logo.svg.png
+Title: Hire Your Next Consultant Using Twitter
+Topics:
+- Leadership
+- Social Media
+Url: post/hire-your-next-consultant-using-twitter
+date: 2008-10-21
+disqus_identifier: 224 http://localhost/~sfrancia/wordpress/?p=224
+disqus_title: Hire Your Next Consultant Using Twitter
+disqus_url: http://spf13.com/post/hire-your-next-consultant-using-twitter/
+---
+
 At Portero we had an issue with our network.
 
 I know enough

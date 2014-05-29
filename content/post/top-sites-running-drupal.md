@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/top-sites-running-drupal/",
-	"disqus_identifier" : "94 http://localhost/~sfrancia/wordpress/?p=94",
-	"disqus_title" : "Top Sites Running Drupal",
-	"Title": "Top Sites Running Drupal",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Tech Industry",
-		"Content Management",
-		"Drupal",
-		"PHP"
-	],
-	"Tags": [
-		"Content Management",
-		"Drupal",
-		"PHP"
-	],
-	"Pubdate": "2009-12-21",
-	"Topics": [
-		"Development",
-		"Tech Industry"
-	],
-	"Url": "post/top-sites-running-drupal",
-	"Slug": "top-sites-running-drupal",
-	"Section": "post",
-	"Thumbnail": "/images/956_300px-Druplicon.vector.svg.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Tech Industry
+- Content Management
+- Drupal
+- PHP
+Section: post
+Slug: top-sites-running-drupal
+Tags:
+- Content Management
+- Drupal
+- PHP
+Thumbnail: /images/956_300px-Druplicon.vector.svg.png-200x200.png
+Title: Top Sites Running Drupal
+Topics:
+- Development
+- Tech Industry
+Url: post/top-sites-running-drupal
+date: 2009-12-21
+disqus_identifier: 94 http://localhost/~sfrancia/wordpress/?p=94
+disqus_title: Top Sites Running Drupal
+disqus_url: http://spf13.com/post/top-sites-running-drupal/
+---
+
 [![Top Sites Running
 Drupal](/images/956_300px-Druplicon.vector.svg.png-200x200.png)](/uploads/2009/10/300px-Druplicon.vector.svg.png "Top Sites Running Drupal")
 

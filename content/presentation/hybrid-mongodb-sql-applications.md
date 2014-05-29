@@ -1,37 +1,34 @@
-{
-	"disqus_url" : "http://spf13.com/post/hybrid-mongodb-sql-applications/",
-	"disqus_identifier" : "1691 http://spf13.com/?p=1691",
-	"disqus_title" : "Hybrid MongoDB \/ SQL Applications",
-	"Title": "Hybrid MongoDB / SQL Applications",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"php",
-		"Presentations",
-		"mongodb",
-		"mysql",
-		"postgresql"
-	],
-	"Tags": [
-		"mongodb",
-		"mysql",
-		"postgresql"
-	],
-	"Pubdate": "2012-01-06",
-	"Topics": [
-		"Development",
-		"Ecommerce",
-		"MongoDB",
-		"php",
-		"Presentations"
-	],
-	"Url": "presentation/hybrid-mongodb-sql-applications",
-	"Slug": "hybrid-mongodb-sql-applications",
-	"Section": "presentation",
-	"Thumbnail": "/images/1692_hybrid-TN.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Ecommerce
+- MongoDB
+- php
+- Presentations
+- mongodb
+- mysql
+- postgresql
+Section: presentation
+Slug: hybrid-mongodb-sql-applications
+Tags:
+- mongodb
+- mysql
+- postgresql
+Thumbnail: /images/1692_hybrid-TN.png-200x200.png
+Title: Hybrid MongoDB / SQL Applications
+Topics:
+- Development
+- Ecommerce
+- MongoDB
+- php
+- Presentations
+Url: presentation/hybrid-mongodb-sql-applications
+date: 2012-01-06
+disqus_identifier: 1691 http://spf13.com/?p=1691
+disqus_title: Hybrid MongoDB / SQL Applications
+disqus_url: http://spf13.com/post/hybrid-mongodb-sql-applications/
+---
 
 MongoDB is often used alongside a relational database such as Oracle or
 MySQL. It is often unclear when one should use one or the other, or if a

@@ -1,32 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/16-lessons-from-16-years/",
-	"disqus_identifier" : "805 http://spf13.com/?p=805",
-	"disqus_title" : "16 lessons from 16 years",
-	"Title": "16 lessons from 16 years",
-	"Description": "16 lessons learned I learned from my first 16 years working in the technology industry.",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"Personal",
-		"Learning",
-		"lessons"
-	],
-	"Tags": [
-		"Learning",
-		"lessons"
-	],
-	"Pubdate": "2010-09-10",
-	"Topics": [
-		"Development",
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/16-lessons-from-16-years",
-	"Slug": "16-lessons-from-16-years",
-	"Section": "post",
-	"Thumbnail": "/images/818_hilltop-mountain-skys-wallpapers_7227_1280x800.jpg-200x200.jpg"
-}
-
+---
+Description: 16 lessons learned I learned from my first 16 years working in the technology
+  industry.
+Keywords:
+- Development
+- Leadership
+- Personal
+- Learning
+- lessons
+Section: post
+Slug: 16-lessons-from-16-years
+Tags:
+- Learning
+- lessons
+Thumbnail: /images/818_hilltop-mountain-skys-wallpapers_7227_1280x800.jpg-200x200.jpg
+Title: 16 lessons from 16 years
+Topics:
+- Development
+- Leadership
+- Personal
+Url: post/16-lessons-from-16-years
+date: 2010-09-10
+disqus_identifier: 805 http://spf13.com/?p=805
+disqus_title: 16 lessons from 16 years
+disqus_url: http://spf13.com/post/16-lessons-from-16-years/
+---
 
 {{% img src="/media/hilltop-mountain-sky.jpg" class="" alt="sky" %}}
 

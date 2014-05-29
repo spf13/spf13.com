@@ -1,33 +1,31 @@
-{
-	"disqus_url" : "http://spf13.com/post/competition-for-the-cloud-heats-up/",
-	"disqus_identifier" : "1462 http://spf13.com/?p=1462",
-	"disqus_title" : "Competition for the Cloud Heats Up",
-	"Title": "Competition for the Cloud Heats Up",
-	"Description": "",
-	"Keywords": [
-		"Architecture",
-		"Tech Industry",
-		"Amazon Web Services",
-		"Cloud computing",
-		"HP",
-		"rackspace"
-	],
-	"Tags": [
-		"Amazon Web Services",
-		"Cloud computing",
-		"HP",
-		"rackspace"
-	],
-	"Pubdate": "2011-06-30",
-	"Topics": [
-		"Architecture",
-		"Tech Industry"
-	],
-	"Url": "post/competition-for-the-cloud-heats-up",
-	"Slug": "competition-for-the-cloud-heats-up",
-	"Section": "post",
-	"Thumbnail": "http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- Architecture
+- Tech Industry
+- Amazon Web Services
+- Cloud computing
+- HP
+- rackspace
+Section: post
+Slug: competition-for-the-cloud-heats-up
+Tags:
+- Amazon Web Services
+- Cloud computing
+- HP
+- rackspace
+Thumbnail: http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg
+Title: Competition for the Cloud Heats Up
+Topics:
+- Architecture
+- Tech Industry
+Url: post/competition-for-the-cloud-heats-up
+date: 2011-06-30
+disqus_identifier: 1462 http://spf13.com/?p=1462
+disqus_title: Competition for the Cloud Heats Up
+disqus_url: http://spf13.com/post/competition-for-the-cloud-heats-up/
+---
+
 {{% img src="/media/clouds.jpg" class="hid" alt="cloud" attr="karindalziel" attrlink="http://www.flickr.com/photos/52859023@N00/644335254" %}}
 
 Cloud no longer a single vendor game. For years cloud computing has been

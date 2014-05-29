@@ -1,33 +1,30 @@
-{
-	"disqus_url" : "http://spf13.com/post/wp-github-code-viewer/",
-	"disqus_identifier" : "1162 http://spf13.com/?p=1162",
-	"disqus_title" : "WP GitHub Code Viewer",
-	"Title": "WP GitHub Code Viewer",
-	"Description": "",
-	"Keywords": [
-		"Blogging",
-		"php",
-		"github",
-		"PHP",
-		"plugins",
-		"WordPress"
-	],
-	"Tags": [
-		"github",
-		"PHP",
-		"plugins",
-		"WordPress"
-	],
-	"Pubdate": "2010-12-09",
-	"Topics": [
-		"Blogging",
-		"php"
-	],
-	"Url": "post/wp-github-code-viewer",
-	"Slug": "wp-github-code-viewer",
-	"Section": "post",
-	"Thumbnail": "/images/1167_github-logo.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Blogging
+- php
+- github
+- PHP
+- plugins
+- WordPress
+Section: post
+Slug: wp-github-code-viewer
+Tags:
+- github
+- PHP
+- plugins
+- WordPress
+Thumbnail: /images/1167_github-logo.png-200x200.png
+Title: WP GitHub Code Viewer
+Topics:
+- Blogging
+- php
+Url: post/wp-github-code-viewer
+date: 2010-12-09
+disqus_identifier: 1162 http://spf13.com/?p=1162
+disqus_title: WP GitHub Code Viewer
+disqus_url: http://spf13.com/post/wp-github-code-viewer/
+---
 
 {{% img src="/media/github-logo.png" class="right third" alt="github" %}}
 

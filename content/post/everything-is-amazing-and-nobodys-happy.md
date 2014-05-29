@@ -1,24 +1,22 @@
-{
-	"disqus_url" : "http://spf13.com/post/everything-is-amazing-and-nobodys-happy/",
-	"disqus_identifier" : "424 http://localhost/~sfrancia/wordpress/?p=424",
-	"disqus_title" : "Everything is Amazing and Nobody&#8217;s Happy",
-	"Title": "Everything is Amazing and Nobody's Happy",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Personal"
-	],
-	"Tags": [],
-	"Pubdate": "2009-10-26",
-	"Topics": [
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/everything-is-amazing-and-nobodys-happy",
-	"Slug": "everything-is-amazing-and-nobodys-happy",
-	"Section": "post",
-	"Thumbnail": "/images/959_300px-Louis_CK_Kuwait_crop.jpg-200x200.jpg"
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Personal
+Section: post
+Slug: everything-is-amazing-and-nobodys-happy
+Tags: []
+Thumbnail: /images/959_300px-Louis_CK_Kuwait_crop.jpg-200x200.jpg
+Title: Everything is Amazing and Nobody's Happy
+Topics:
+- Leadership
+- Personal
+Url: post/everything-is-amazing-and-nobodys-happy
+date: 2009-10-26
+disqus_identifier: 424 http://localhost/~sfrancia/wordpress/?p=424
+disqus_title: Everything is Amazing and Nobody&#8217;s Happy
+disqus_url: http://spf13.com/post/everything-is-amazing-and-nobodys-happy/
+---
 
 {{% img src="/media/Louis_CK_Kuwait_crop.jpg" class="third right hid" caption="Image via Wikipedia" %}}
 

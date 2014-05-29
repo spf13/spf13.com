@@ -1,26 +1,23 @@
-{
-	"disqus_url" : "http://spf13.com/post/ranking-social-media/",
-	"disqus_identifier" : "640 http://spf13.com/?p=640",
-	"disqus_title" : "Ranking Social Media",
-	"Title": "Ranking Social Media",
-	"Description": "",
-	"Keywords": [
-		"social media",
-		"twitter"
-	],
-	"Tags": [
-		"social media",
-		"twitter"
-	],
-	"Pubdate": "2009-09-30",
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/ranking-social-media",
-	"Slug": "ranking-social-media",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/09/2668516894_1ca5eb1eed_m.jpg"
-}
+---
+Description: ""
+Keywords:
+- social media
+- twitter
+Section: post
+Slug: ranking-social-media
+Tags:
+- social media
+- twitter
+Thumbnail: /uploads/2009/09/2668516894_1ca5eb1eed_m.jpg
+Title: Ranking Social Media
+Topics:
+- Social Media
+Url: post/ranking-social-media
+date: 2009-09-30
+disqus_identifier: 640 http://spf13.com/?p=640
+disqus_title: Ranking Social Media
+disqus_url: http://spf13.com/post/ranking-social-media/
+---
 
 {{% img src="/media/twitter-following.jpg" class="third right" %}}
 

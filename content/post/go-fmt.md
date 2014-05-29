@@ -1,18 +1,16 @@
-+++
-title = "Refactoring with go fmt"
-description = "using go fmt to quickly refactor your code"
-tags = [
-    "go",
-    "golang",
-    "development",
-]
-date = "2013-10-07"
-topics = [
-    "Development",
-    "golang",
-]
-draft = false
-+++
+---
+date: 2013-10-07
+description: using go fmt to quickly refactor your code
+draft: false
+tags:
+- go
+- golang
+- development
+title: Refactoring with go fmt
+topics:
+- Development
+- golang
+---
 
 I've recently been getting into go. I've built a [few
 packages](http://hugo.spf13.com) [and](/post/announcing-cobra) [libraries](http://spf13.com/project/nitro).

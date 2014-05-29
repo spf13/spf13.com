@@ -1,30 +1,27 @@
-{
-	"disqus_url" : "http://spf13.com/post/54-us-companies-ban-social-media-and-thats-fine/",
-	"disqus_identifier" : "150 http://localhost/~sfrancia/wordpress/?p=150",
-	"disqus_title" : "54% US Companies Ban Social Media&#8230; and That&#039;s Fine",
-	"Title": "54% US Companies Ban Social Media... and That's Fine",
-	"Description": "",
-	"Keywords": [
-		"facebook",
-		"linkedin",
-		"social media",
-		"twitter"
-	],
-	"Pubdate": "2009-10-16",
-	"Tags": [
-		"facebook",
-		"linkedin",
-		"social media",
-		"twitter"
-	],
-	"Topics": [
-		"Social Media"
-	],
-	"Url": "post/54-us-companies-ban-social-media-and-thats-fine",
-	"Slug": "54-us-companies-ban-social-media-and-thats-fine",
-	"Section": "post",
-	"Thumbnail": "/uploads/2009/10/80px-Twitschervogel01_derived_from_twitter-t.svg.png"
-}
+---
+Description: ""
+Keywords:
+- facebook
+- linkedin
+- social media
+- twitter
+Section: post
+Slug: 54-us-companies-ban-social-media-and-thats-fine
+Tags:
+- facebook
+- linkedin
+- social media
+- twitter
+Thumbnail: /uploads/2009/10/80px-Twitschervogel01_derived_from_twitter-t.svg.png
+Title: 54% US Companies Ban Social Media... and That's Fine
+Topics:
+- Social Media
+Url: post/54-us-companies-ban-social-media-and-thats-fine
+date: 2009-10-16
+disqus_identifier: 150 http://localhost/~sfrancia/wordpress/?p=150
+disqus_title: 54% US Companies Ban Social Media&#8230; and That&#039;s Fine
+disqus_url: http://spf13.com/post/54-us-companies-ban-social-media-and-thats-fine/
+---
 
 {{% img src="/media/twitter-logo.png" class="third right" %}}
 

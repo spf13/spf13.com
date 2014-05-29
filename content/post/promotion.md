@@ -1,29 +1,28 @@
-{
-	"disqus_url" : "http://spf13.com/post/promotion/",
-	"disqus_identifier" : "226 http://localhost/~sfrancia/wordpress/?p=226",
-	"disqus_title" : "Promotion",
-	"Title": "Promotion",
-	"Description": "Portero Inc, the worlds leading online luxury destination, announces the promotion of Steve Francia to CIO.",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"announcement",
-		"cio"
-	],
-	"Tags": [
-		"announcement",
-		"cio"
-	],
-	"Pubdate": "2008-09-23",
-	"Topics": [
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/promotion",
-	"Slug": "promotion",
-	"Section": "post",
-	"Thumbnail": "/uploads/2010/10/36525v1-max-250x250.png"
-}
+---
+Description: Portero Inc, the worlds leading online luxury destination, announces
+  the promotion of Steve Francia to CIO.
+Keywords:
+- Leadership
+- Personal
+- announcement
+- cio
+Section: post
+Slug: promotion
+Tags:
+- announcement
+- cio
+Thumbnail: /uploads/2010/10/36525v1-max-250x250.png
+Title: Promotion
+Topics:
+- Leadership
+- Personal
+Url: post/promotion
+date: 2008-09-23
+disqus_identifier: 226 http://localhost/~sfrancia/wordpress/?p=226
+disqus_title: Promotion
+disqus_url: http://spf13.com/post/promotion/
+---
+
 {{% img src="/media/portero.png" class="third right" %}}
 
 Permit me to shamelesly announce my promotion to [Chief Information

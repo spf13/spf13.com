@@ -1,35 +1,32 @@
-{
-	"disqus_url" : "http://spf13.com/post/software-developments-magic-triangle/",
-	"disqus_identifier" : "1171 http://spf13.com/?p=1171",
-	"disqus_title" : "Software Development&#8217;s Magic Triangle",
-	"Title": "Software Development's Magic Triangle",
-	"Description": "",
-	"Keywords": [
-		"Development",
-		"Leadership",
-		"amazon",
-		"apple",
-		"development",
-		"microsoft",
-		"nintendo"
-	],
-	"Tags": [
-		"amazon",
-		"apple",
-		"development",
-		"microsoft",
-		"nintendo"
-	],
-	"Pubdate": "2010-12-18",
-	"Topics": [
-		"Development",
-		"Leadership"
-	],
-	"Url": "post/software-developments-magic-triangle",
-	"Slug": "software-developments-magic-triangle",
-	"Section": "post",
-	"Thumbnail": "/images/1174_Magic-Triangle-Development.png-200x200.png"
-}
+---
+Description: ""
+Keywords:
+- Development
+- Leadership
+- amazon
+- apple
+- development
+- microsoft
+- nintendo
+Section: post
+Slug: software-developments-magic-triangle
+Tags:
+- amazon
+- apple
+- development
+- microsoft
+- nintendo
+Thumbnail: /images/1174_Magic-Triangle-Development.png-200x200.png
+Title: Software Development's Magic Triangle
+Topics:
+- Development
+- Leadership
+Url: post/software-developments-magic-triangle
+date: 2010-12-18
+disqus_identifier: 1171 http://spf13.com/?p=1171
+disqus_title: Software Development&#8217;s Magic Triangle
+disqus_url: http://spf13.com/post/software-developments-magic-triangle/
+---
 
 {{% img src="/media/Magic-Triangle-Development.png" class="right third" alt="Magic Triangle" %}}
 

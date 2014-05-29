@@ -1,26 +1,24 @@
-{
-	"disqus_url" : "http://spf13.com/post/growing-in-the-down-economy/",
-	"disqus_identifier" : "291 http://localhost/~sfrancia/wordpress/?p=291",
-	"disqus_title" : "Growing in a Down Economy",
-	"Title": "Growing in a Down Economy",
-	"Description": "Strategies for growing while your competition shrinks in a down economy.",
-	"Keywords": [
-		"Economy",
-		"Employment"
-	],
-	"Tags": [
-		"Economy",
-		"Employment"
-	],
-	"Pubdate": "2009-01-29",
-	"Topics": [
-		"Leadership"
-	],
-	"Url": "post/growing-in-the-down-economy",
-	"Slug": "growing-in-the-down-economy",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: Strategies for growing while your competition shrinks in a down economy.
+Keywords:
+- Economy
+- Employment
+Section: post
+Slug: growing-in-the-down-economy
+Tags:
+- Economy
+- Employment
+Thumbnail: ""
+Title: Growing in a Down Economy
+Topics:
+- Leadership
+Url: post/growing-in-the-down-economy
+date: 2009-01-29
+disqus_identifier: 291 http://localhost/~sfrancia/wordpress/?p=291
+disqus_title: Growing in a Down Economy
+disqus_url: http://spf13.com/post/growing-in-the-down-economy/
+---
+
 Trimming the Fat
 ================
 

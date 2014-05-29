@@ -1,31 +1,29 @@
-{
-	"disqus_url" : "http://spf13.com/post/take-time-to-help-others/",
-	"disqus_identifier" : "179 http://localhost/~sfrancia/wordpress/?p=179",
-	"disqus_title" : "Take Time to Help Others",
-	"Title": "Take Time to Help Others",
-	"Description": "",
-	"Keywords": [
-		"Leadership",
-		"Personal",
-		"help",
-		"karma",
-		"leadership"
-	],
-	"Tags": [
-		"help",
-		"karma",
-		"leadership"
-	],
-	"Pubdate": "2009-10-22",
-	"Topics": [
-		"Leadership",
-		"Personal"
-	],
-	"Url": "post/take-time-to-help-others",
-	"Slug": "take-time-to-help-others",
-	"Section": "post",
-	"Thumbnail": ""
-}
+---
+Description: ""
+Keywords:
+- Leadership
+- Personal
+- help
+- karma
+- leadership
+Section: post
+Slug: take-time-to-help-others
+Tags:
+- help
+- karma
+- leadership
+Thumbnail: ""
+Title: Take Time to Help Others
+Topics:
+- Leadership
+- Personal
+Url: post/take-time-to-help-others
+date: 2009-10-22
+disqus_identifier: 179 http://localhost/~sfrancia/wordpress/?p=179
+disqus_title: Take Time to Help Others
+disqus_url: http://spf13.com/post/take-time-to-help-others/
+---
+
 While it may not seem intuitive taking time out to selflessly help
 others will help you more than them. This week I haven’t had much time
 to blog largely because this week many opportunities arose to help

@@ -1,69 +1,68 @@
-{
-	"disqus_url" : "http://spf13.com/post/backups-replication-and-disaster-recovery/",
-	"disqus_identifier" : "1699 http://spf13.com/?p=1699",
-	"disqus_title" : "Backup, Replication, and Disaster Recovery",
-	"Title": "Backup, Replication and Disaster Recovery",
-	"Description": "How to go about creating better backups through replication and snapshots and how to ensure that your infrastructure has a solid disaster recovery plan.",
-	"Keywords": [
-		"Architecture",
-		"Development",
-		"MongoDB",
-		"Systems",
-		"backup",
-		"backups",
-		"better backups",
-		"computer data",
-		"computer storage",
-		"computing",
-		"data",
-		"data loss",
-		"data management",
-		"Database",
-		"database management systems",
-		"disaster recovery",
-		"disaster recovery plan",
-		"infrastructure",
-		"mongodb",
-		"raid",
-		"recovery",
-		"recovery plan",
-		"replication",
-		"snapshot"
-	],
-	"Tags": [
-		"backup",
-		"backups",
-		"better backups",
-		"computer data",
-		"computer storage",
-		"computing",
-		"data",
-		"data loss",
-		"data management",
-		"Database",
-		"database management systems",
-		"disaster recovery",
-		"disaster recovery plan",
-		"infrastructure",
-		"mongodb",
-		"raid",
-		"recovery",
-		"recovery plan",
-		"replication",
-		"snapshot"
-	],
-	"Pubdate": "2012-01-11",
-	"Topics": [
-		"Architecture",
-		"Development",
-		"MongoDB",
-		"Systems"
-	],
-	"Url": "post/backups-replication-and-disaster-recovery",
-	"Slug": "backups-replication-and-disaster-recovery",
-	"Section": "post",
-	"Thumbnail": "/images/1702_header_412_disaster_day_of_crisis1.jpg-200x200.jpg"
-}
+---
+Description: How to go about creating better backups through replication and snapshots
+  and how to ensure that your infrastructure has a solid disaster recovery plan.
+Keywords:
+- Architecture
+- Development
+- MongoDB
+- Systems
+- backup
+- backups
+- better backups
+- computer data
+- computer storage
+- computing
+- data
+- data loss
+- data management
+- Database
+- database management systems
+- disaster recovery
+- disaster recovery plan
+- infrastructure
+- mongodb
+- raid
+- recovery
+- recovery plan
+- replication
+- snapshot
+Section: post
+Slug: backups-replication-and-disaster-recovery
+Tags:
+- backup
+- backups
+- better backups
+- computer data
+- computer storage
+- computing
+- data
+- data loss
+- data management
+- Database
+- database management systems
+- disaster recovery
+- disaster recovery plan
+- infrastructure
+- mongodb
+- raid
+- recovery
+- recovery plan
+- replication
+- snapshot
+Thumbnail: /images/1702_header_412_disaster_day_of_crisis1.jpg-200x200.jpg
+Title: Backup, Replication and Disaster Recovery
+Topics:
+- Architecture
+- Development
+- MongoDB
+- Systems
+Url: post/backups-replication-and-disaster-recovery
+date: 2012-01-11
+disqus_identifier: 1699 http://spf13.com/?p=1699
+disqus_title: Backup, Replication, and Disaster Recovery
+disqus_url: http://spf13.com/post/backups-replication-and-disaster-recovery/
+---
+
 {{% img src="/media/disaster_day_of_crisis.jpg" alt="crisis" %}}
 
 One of the most common concerns people have is how to ensure that their
