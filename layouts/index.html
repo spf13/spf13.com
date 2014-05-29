@@ -18,7 +18,7 @@
 
 <section id="main">
   <div>
-   <h1 id="title">Steve Francia is spf13</h1>
+      <h1 id="title">{{.Site.Title}}</h1>
     {{ range first 10 .Data.Pages }}
         {{ .Render "summary"}}
     {{ end }}

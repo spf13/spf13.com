@@ -14,16 +14,16 @@
 
 <aside id="meta">
     <div itemscope itemtype="http://schema.org/SoftwareApplication" id="projectmeta">
-        {{if isset .Params "project_name" }}
-            <h2 itemprop="name"> {{ index .Params "project_name" }} </h2>
+        {{ with .Params.project_name }}
+            <h2 itemprop="name"> {{ . }} </h2>
         {{ end }}
 
-        {{if isset .Params "project_description" }}
-            <em itemprop="name"> {{ index .Params "project_description" }} </em>
+        {{ with .Params.project_description }}
+        <em itemprop="name"> {{.}} </em><br>
         {{ end }}
         <span class="smaller" itemprop="author" itemscope itemtype="http://schema.org/Person">
             by <span itemprop="name">Steve Francia.</span></span><br>
-        {{if isset .Params "official_url" }} <a href="{{ index .Params "official_url" }}">{{ index .Params "official_url"}}</a> {{end}}<br>
+        {{ with .Params.official_url }} <a href="{{.}}">{{.}}</a> {{end}}<br>
         {{if isset .Params "download_url" }} <a id="download_link" class="pure-button" href="{{ index .Params "download_url" }}">
             <i class="icon-cloud-download"></i> Download{{if isset .Params "version" }}<span itemprop="softwareVersion"> {{ index .Params "version" }}</span>{{end}}
         {{if isset .Params "release_date" }}<br> <time itemprop="dateModified" datetime="{{ index .Params "release_date" }}" id="software_date"> {{ index .Params "release_date" }} </time> {{end}}
