@@ -3,6 +3,7 @@
         <section id="datecount">
           <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
           <h5 id="wc"> {{ .FuzzyWordCount }} Words </h5>
+          <h5 id="readtime"> Read in about {{ .ReadingTime }} Min </h5>
         </section>
         <ul id="categories">
           {{ range .Params.topics }}

@@ -1,7 +1,7 @@
 <article class="post">
     <header>
       <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a> </h2>
-      <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words </div>
+      <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} -  Read in {{ .ReadingTime }} Min </div>
     </header>
 
     {{ .Summary }}
