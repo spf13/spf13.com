@@ -3,7 +3,7 @@ title = "Hacking Management"
 languageCode = "en-us"
 disqusShortname = "spf13"
 copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
-MetaDataFormat = "toml"
+MetaDataFormat = "yaml"
 
 [author]
     name = "Steve Francia"
