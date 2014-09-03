@@ -27,7 +27,7 @@ version: "0.9"
 
 {{% img src="/media/hugo.png" class="hid" caption="Hugo Website" %}}
 
-Hugo is a static site generator written in GoLang. It is optimized for 
+Hugo is a static site generator written in Go. It is optimized for 
 speed, easy use and configurability. Hugo takes a directory with content and
 templates and renders them into a full html website.
 
