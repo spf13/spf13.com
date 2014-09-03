@@ -18,35 +18,40 @@ release_date: 2013-11-05
 version: "0.8"
 ---
 
-Cobra is a commander providing a simple interface to create powerful modern CLI
+Cobra is a cli commander providing a simple interface to create powerful modern CLI
 interfaces similar to git & go tools. In addition to providing an iterface, Cobra
 simultaneously provides a controller to organize your application code.
 
 Inspired by go, go-Commander, gh and subcommand, Cobra improves on these by
 providing **fully posix compliant flags** (including short & long versions),
-**nesting commands**, and the ability to **define your own help and usage** for any or
-all commands.
+**nesting commands**, and the ability to **define your own help and usage** for
+any or all commands.
 
 Cobra has an exceptionally clean interface and simple design without needless
 constructors or initialization methods.
+
+Cobra works out of the box to provide detailed help commands. Simply add your
+commands and all the help will already be there.
 
 ## Concepts
 
 Cobra is built on a structure of commands & flags.
 
-**Commands** represent actions and **Flags** are modifiers for those actions.
+**Commands** represent actions.
 
-In the following example 'server' is a command and 'port' is a flag.
+**Flags** are modifiers for those actions.
+
+In the following example '**server**' is a command and '**port**' is a flag.
 
     hugo server --port=1313
 
 ### Commands
 
-Command is the central point of the application. Each interaction that
+A Command is the central point of the application. Each interaction that
 the application supports will be contained in a Command. A command can
-have children commands and optionally run an action.
+have children commands which optionally run an action.
 
-In the example above 'server' is the command
+In the example above 'server' is the command.
 
 A Command has the following structure:
 
@@ -92,7 +97,8 @@ Next include cobra in your application.
 
 The root command represents your binary itself.
 
-Cobra doesn't require any special constructors. Simply create your commands.
+Cobra doesn't require any special constructors. Simply create your commands any
+way you like. I prefer to use a composite literal as demonstrated below.
 
     var HugoCmd = &cobra.Command{
         Use:   "hugo",
@@ -219,11 +225,12 @@ For a more complete example of a larger application, please checkout [Hugo](http
 
 ## The Help Command
 
-Cobra automatically adds a help command to your application.
-This will be called when a user runs 'app help'. Additionally help will also
-support all other commands as input. Say for instance you have a command called
-'create' without any additional configuration cobra will work when 'app help
-create' is called.
+Cobra automatically adds a help command to your application. This will be
+called when a user runs 'app help'. Additionally help will also support all
+other commands as input. Say for instance you have a command called 'create'
+without any additional configuration Cobra will work when 'app help create' is
+called. For better usability Cobra also adds the `--help` flag which has the
+same effect as calling the help command.
 
 ### Example
 
@@ -310,11 +317,11 @@ embeds the usage as part of it's output.
       hugo [command]
 
     Available Commands:
-      server          :: Hugo runs it's own a webserver to render the files
-      version         :: Print the version number of Hugo
-      check           :: Check content in the source directory
-      benchmark       :: Benchmark hugo by building a site a number of times
-      help [command]  :: Help about any command
+      server            Hugo runs it's own a webserver to render the files
+      version           Print the version number of Hugo
+      check             Check content in the source directory
+      benchmark         Benchmark hugo by building a site a number of times
+      help [command]    Help about any command
 
      Available Flags:
       -b, --base-url="": hostname (and path) to the root eg. http://spf13.com/
