@@ -1,6 +1,6 @@
-{{ template "chrome/header.html" . }}
+{{ partial "header.html" . }}
 <body lang="en" itemscope itemtype="http://schema.org/Article">
-{{ template "chrome/subheader.html" . }}
+{{ partial "subheader.html" . }}
 {{ $baseurl := .Site.BaseUrl }}
 
 <section id="main">
@@ -35,7 +35,7 @@
         <meta itemprop="operatingSystems" content="{{ index .Params "operating_system" | or "Windows 7 and above, OSX 10.7 and above, linux" }}">
     </div>
 
-{{ template "chrome/details.html" . }}
+{{ partial "details.html" . }}
 </aside>
 
 <meta itemprop="wordCount" content="{{ .WordCount }}">
@@ -50,4 +50,4 @@
 </div> </div>
 {{ end }}
 
-{{ template "chrome/footer.html" . }}
+{{ partial "footer.html" . }}

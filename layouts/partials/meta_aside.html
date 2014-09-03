@@ -1,7 +1,7 @@
 {{ $baseurl := .Site.BaseUrl }}
 
 <aside id="meta">
-{{ template "chrome/details.html" . }}
+{{ partial "details.html" . }}
 </aside>
 
 <meta itemprop="wordCount" content="{{ .WordCount }}">

@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    {{ template "chrome/meta.html" . }}
+    {{ partial "meta.html" . }}
 
     <base href="{{ .Site.BaseUrl }}">
     <title> {{ .Title }} - spf13.com </title>
     <link rel="canonical" href="{{ .Permalink }}">
     {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
 
-    {{ template "chrome/head_includes.html" . }}
+    {{ partial "head_includes.html" . }}
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 </head>
