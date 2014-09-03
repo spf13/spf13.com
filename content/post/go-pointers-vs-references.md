@@ -1,7 +1,5 @@
 ---
-date: 2014-04-01
-description: ""
-draft: true
+date: 2014-07-01
 tags:
 - go
 - golang
@@ -21,23 +19,22 @@ topics:
 - python
 ---
 
-Some languages including C, C++ support pointers. Other languages
-including C++, Java, Python, Ruby, Perl and PHP all support references.
-On the surface both references and pointers are very similar, both are
-used to have one variable provide access to another one. With both
-providing a lot of the same capabilities, it’s often unclear what is
-different between these different implementations. In this article I
-will illustrate the difference between pointers and references.
+Some languages including C, C++ support pointers. Other languages including
+C++, Java, Python, Ruby, Perl and PHP all support references. On the surface
+both references and pointers are very similar, both are used to have one
+variable provide access to another. With both providing a lot of the same
+capabilities, it’s often unclear what is different between these different
+mechanisms. In this article I will illustrate the difference between
+pointers and references.
 
 ## Why does this matter
 
-This matters because pointers are at the very core of effective Go. Most
-programmers are learning Go with a foundation in one of the languages
-mentioned above. Consequently understanding the difference between
-pointers and references is critical to understanding Go. Even if you are
-coming from a language that uses pointers, Go’s implementation of
-pointers differs from C and C++ in that it retains some of the nice
-properties of references while retaining the power of pointers.
+Pointers are at the very core of effective Go. Most programmers are learning Go
+with a foundation in one of the languages mentioned above. Consequently
+understanding the difference between pointers and references is critical to
+understanding Go. Even if you are coming from a language that uses pointers,
+Go’s implementation of pointers differs from C and C++ in that it retains some
+of the nice properties of references while retaining the power of pointers.
 
 The remainder of this article is written with the intent of speaking
 broadly about the concept of references rather than about a specific
@@ -84,31 +81,31 @@ Consider the following example in Go:
 
     import "fmt"
 
-    var pointer *int
+    var ap *int
 
     func main() {
         a := 1          // define int
         b := 2          // define int
 
-        pointer = &a
-         // set pointer to address of a (&a)
-         //   pointer address: 0x2101f1018
-         //   pointer value  : 1
+        ap = &a
+         // set ap to address of a (&a)
+         //   ap address: 0x2101f1018
+         //   ap value  : 1
 
-        *pointer = 3
+        *ap = 3
          // change the value at address &a to 3
-         //   pointer address: 0x2101f1018
-         //   pointer value  : 3
+         //   ap address: 0x2101f1018
+         //   ap value  : 3
 
         a = 4
          // change the value of a to 4
-         //   pointer address: 0x2101f1018
-         //   pointer value  : 4
+         //   ap address: 0x2101f1018
+         //   ap value  : 4
 
-        pointer = &b
-         // set pointer to the address of b (&b)
-         //   pointer address: 0x2101f1020
-         //   pointer value  : 2
+        ap = &b
+         // set ap to the address of b (&b)
+         //   ap address: 0x2101f1020
+         //   ap value  : 2
     }
 
 
@@ -122,36 +119,39 @@ Extending the function above:
 
         ...
 
-        pointer2 = pointer
-         // set pointer2 to the address in pointer
-         //   pointer  address: 0x2101f1020
-         //   pointer  value  : 2
-         //   pointer2 address: 0x2101f1020
-         //   pointer2 value  : 2
+        ap2 := ap
+         // set ap2 to the address in ap
+         //   ap  address: 0x2101f1020
+         //   ap  value  : 2
+         //   ap2 address: 0x2101f1020
+         //   ap2 value  : 2
 
-        *pointer = 5
+        *ap = 5
          // change the value at the address &b to 5
-         //   pointer  address: 0x2101f1020
-         //   pointer  value  : 5
-         //   pointer2 address: 0x2101f1020
-         //   pointer2 value  : 5
-        // If this was a reference pointer & pointer2 would now
+         //   ap  address: 0x2101f1020
+         //   ap  value  : 5
+         //   ap2 address: 0x2101f1020
+         //   ap2 value  : 5
+        // If this was a reference ap & ap2 would now
         // have different values
 
-        pointer = &a
-         // change pointer to address of a (&a)
-         //   pointer  address: 0x2101f1018
-         //   pointer  value  : 4
-         //   pointer2 address: 0x2101f1020
-         //   pointer2 value  : 5
-        // Since we've changed the address of pointer, it now
-        // has a different value then pointer2
+        ap = &a
+         // change ap to address of a (&a)
+         //   ap  address: 0x2101f1018
+         //   ap  value  : 4
+         //   ap2 address: 0x2101f1020
+         //   ap2 value  : 5
+        // Since we've changed the address of ap, it now
+        // has a different value then ap2
     }
 
-The key to understanding the difference is in the second example. 
+You can experiment and play yourself at go play:
+http://play.golang.org/p/XJtdLxFoeO
+
+The key to understanding the difference is in the second example.
 
 If we were working with references we would not be able to change the
-value of b through *pointer and have that relected in *pointer2. This is
+value of b through *ap and have that reflected in *ap2. This is
 because once you make a copy of a reference they are now independent.
 While they may be referring to the same variable, when you manipulate
 the reference it will change what it refers to, rather than the
@@ -161,8 +161,8 @@ The final example demonstrates the behavior when you change the
 assignment of one of the pointers to point to a new address. Due to the
 limitations of references this is the only operation available.
 
-Next post will feature another property exclusively available to
-pointers, the [pointer pointer](/post/pointer-pointers-in-go)
+Stay tuned... Next post will feature another property exclusively available to
+pointers, the pointer pointer.
 
 For more information on pointers I’ve found the following resources helpful
 
