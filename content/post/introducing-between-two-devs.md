@@ -9,6 +9,7 @@ tags:
 title: Introducing between two devs
 topics:
 - between2devs
+- Developer Advocacy
 ---
 
 It has been my privilege to be part of a few different open source

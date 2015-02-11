@@ -6,6 +6,8 @@ Keywords:
 - MongoDB
 - OSCON
 - Tutorial
+- advocacy
+- evangelism
 Section: post
 Slug: how-to-deliver-great-conference-tutorials
 Tags:
@@ -17,6 +19,7 @@ Title: How to deliver a great conference tutorial
 Topics:
 - Development
 - MongoDB
+- Developer Advocacy
 Url: post/how-to-deliver-great-conference-tutorials
 date: 2012-09-05
 disqus_identifier: 1831 http://spf13.com/?p=1831

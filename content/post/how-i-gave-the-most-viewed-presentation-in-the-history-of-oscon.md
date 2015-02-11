@@ -44,6 +44,7 @@ Topics:
 - MongoDB
 - Personal
 - Scalability
+- Developer Advocacy
 Url: post/how-i-gave-the-most-viewed-presentation-in-the-history-of-oscon
 date: 2012-09-17
 disqus_identifier: 1841 http://spf13.com/?p=1841

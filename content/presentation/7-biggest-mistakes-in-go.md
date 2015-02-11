@@ -10,7 +10,6 @@ topics:
 - golang
 ---
 
-
 Not a generic list of programming mistakes, these are the lessons I wish I
 learned earlier while developing Go. I've spent the past two years developing
 some of the most popular libraries and applications written in Go. I've also
