@@ -6,7 +6,7 @@
   <div>
    <h1 id="title">{{ .Title }}</h1>
             {{ range .Data.Pages.GroupByDate "2006" }}
-            <h2>{{ .Key }}</h3>
+            <h2>{{ .Key }}</h2>
                 <ul id="list">
                     {{ range .Pages }}
                         {{ .Render "li"}}
