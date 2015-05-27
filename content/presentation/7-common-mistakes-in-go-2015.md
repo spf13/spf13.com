@@ -25,6 +25,12 @@ personally made while developing Hugo, Cobra, Viper, Afero & Docker.
 
 {{% slideshare 48640688 %}}
 
+## GopherFest Livesteam (Recorded)
+
+My talk starts around 1:48:00 into the entire video. All of the presentations were great.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Fx304EfqtMo" frameborder="0" allowfullscreen></iframe>
+
 ## Transcript
 
 1. 7 and when to avoid them Common  Mistakes   In Go
