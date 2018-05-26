@@ -1,6 +1,12 @@
 ---
 title: "State Of The Gopher Nation - Aug 17"
 date: 2017-08-17T10:09:53-04:00
+tags:
+- go
+- development
+topics:
+- Development
+- golang
 ---
 
 
