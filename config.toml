@@ -2,8 +2,9 @@ baseurl = "http://spf13.com/"
 title = "Hacking Management"
 languageCode = "en-us"
 disqusShortname = "spf13"
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
-MetaDataFormat = "yaml"
+copyright = "Copyright (c) 2008 - 2018, Steve Francia; all rights reserved."
+MetaDataFormat = "toml"
+googleAnalytics = "UA-7131036-1"
 
 [author]
     name = "Steve Francia"
@@ -12,3 +13,12 @@ MetaDataFormat = "yaml"
     tag = "tags"
     topic = "topics"
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
