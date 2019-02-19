@@ -64,7 +64,7 @@ The goal has always been to add functionality without changing all the features,
 The easiest way to install spf13-vim is to use our [automatic installer](http://j.mp/spf13-vim3) by simply copying and pasting the following line into a terminal. This will install spf13-vim and backup your existing vim configuration. If you are upgrading from a prior version (before 3.0) this is also the recommended installation.
 
 ```bash
-    
+
     curl http://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
 ```
 
@@ -490,14 +490,14 @@ Here's some tips if you've never used VIM before:
 [Tabularize]:http://github.com/godlygeek/tabular
 [EasyMotion]:https://github.com/Lokaltog/vim-easymotion
 
-[spf13-vim-img]:http://i.imgur.com/UKToY.png
-[spf13-vimrc-img]:http://i.imgur.com/kZWj1.png
-[autocomplete-img]:http://i.imgur.com/90Gg7.png
-[tagbar-img]:http://i.imgur.com/cjbrC.png
-[fugitive-img]:http://i.imgur.com/4NrxV.png
-[nerdtree-img]:http://i.imgur.com/9xIfu.png
-[phpmanual-img]:http://i.imgur.com/c0GGP.png
-[easymotion-img]:http://i.imgur.com/ZsrVL.png
+[spf13-vim-img]:https://i.imgur.com/UKToY.png
+[spf13-vimrc-img]:https://i.imgur.com/kZWj1.png
+[autocomplete-img]:https://i.imgur.com/90Gg7.png
+[tagbar-img]:https://i.imgur.com/cjbrC.png
+[fugitive-img]:https://i.imgur.com/4NrxV.png
+[nerdtree-img]:https://i.imgur.com/9xIfu.png
+[phpmanual-img]:https://i.imgur.com/c0GGP.png
+[easymotion-img]:https://i.imgur.com/ZsrVL.png
 
                     __ _ _____              _
          ___ _ __  / _/ |___ /      __   __(_)_ __ ___
