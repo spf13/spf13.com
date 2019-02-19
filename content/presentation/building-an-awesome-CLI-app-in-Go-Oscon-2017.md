@@ -1,6 +1,7 @@
 ---
 title: "Building an Awesome CLI App in Go Oscon 2017"
 date: 2017-08-19T12:05:21-04:00
+draft: true
 tags:
 - go
 - development
@@ -19,6 +20,7 @@ and remote config systems, and how to work with environment variables and
 Go and your very own functioning CLI app.
 
 This workshop covers:
+
 * CLI application design
 * Introduction to the Go programming language
 * Introduction to the Cobra CLI framework (used by Kubernetes, Docker, Hugo, etc)
