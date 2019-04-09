@@ -4,32 +4,32 @@ description: ""
 tags:
 - go
 - development
-title: 7 common mistakes in Go (2015)
+title: 7 common mistakes in Go – GopherFest 2015
 topics:
 - Development
 - golang
 ---
 
-Given at [GopherFest 2015](http://www.meetup.com/golangsf/events/220935959/). This is an updated version of the talk I gave in NYC
-Nov 14 at GothamGo.
+Given at [GopherFest 2015](http://www.meetup.com/golangsf/events/220935959/). This is an updated version of the [talk I gave in NYC
+Nov 14 at GothamGo](/presentation/7-biggest-mistakes-in-go/).
 
 “We need to think about failure differently. Most people think mistakes are a
 necessary evil. Mistakes aren't a necessary evil, they aren't evil at all. They
 are an inevitable consequence of doing something new and as such should be seen
-as valuable. “ - Ed Catmull 
+as valuable. “ - Ed Catmull
 
 As Go is a "new" programming language we are all experimenting and learning how
 to write better Go. While most presentations focus on the destination, this
 presentation focuses on the journey of learning Go and the mistakes I
-personally made while developing Hugo, Cobra, Viper, Afero & Docker.
+personally made while developing [Hugo](https://gohugo.io), [Cobra](https://cobra.dev), [Viper](https://github.com/spf13/viper), [Afero](https://github.com/spf13/afero) & [Docker](https://docker.com).
 
 {{% slideshare 48640688 %}}
 
-## GopherFest Livesteam (Recorded)
+## Recording
 
-My talk starts around 1:48:00 into the entire video. All of the presentations were great.
+{{% youtube 29LLRKIL_TI %}}
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Fx304EfqtMo" frameborder="0" allowfullscreen></iframe>
+*Edit: A better recording was made, previously the post linked to the livestream*
 
 ## Transcript
 

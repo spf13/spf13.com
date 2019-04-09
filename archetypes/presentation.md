@@ -11,3 +11,14 @@ topics = [
     "golang",
 ]
 +++
+
+
+<!--more-->
+
+## Slides
+
+{{% gslides "" %}}
+
+## Recording
+
+{{% youtube "" %}}

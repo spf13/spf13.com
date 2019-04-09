@@ -4,7 +4,7 @@ description: ""
 tags:
 - go
 - development
-title: 7 Common mistakes in Go and when to avoid them 
+title: 7 Common mistakes in Go and when to avoid them – Gotham Go
 topics:
 - Development
 - golang
@@ -20,7 +20,13 @@ avoid them.
 
 Originally given in NYC Nov 14 at [GothamGo](http://gothamgo.com).
 
+## Slides
+
 {{% slideshare 41716887 %}}
+
+## Recording
+
+{{% vimeo 115776445 %}}
 
 ## Transcript
 

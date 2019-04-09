@@ -1,5 +1,5 @@
 ---
-title: "State Of The Gopher Nation - Aug 17"
+title: "State Of The Gopher Nation - Golang UK 2017"
 date: 2017-08-17T10:09:53-04:00
 tags:
 - go
@@ -20,6 +20,10 @@ This talk is an overview of the entire Go project. It covers "what we've done",
 "why we did it" and "where we are going" as a project. It highlights our accomplishments, challenges and how the Go
 Project is working on our challenges.
 
+## Slides
+
 {{% slideshare 78956154 %}}
 
-This post will be updated in a few weeks with the video once it's published.
+## Recording
+
+{{% youtube 5UG57xQL_RE %}}
