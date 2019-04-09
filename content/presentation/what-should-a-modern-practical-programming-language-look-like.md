@@ -12,7 +12,7 @@ topics = [
     "golang",
 ]
 +++
-Keynote delivered at [The Landing Festival – Berlin](https://landingfestival.com/). This presentation describes the many inspirations and influences of the [Go programming language](http://golang.org) and goes into detail about how we shaped and created the language.alk
+Keynote delivered at [The Landing Festival – Berlin](https://landingfestival.com/). This presentation describes the many inspirations and influences of the [Go programming language](http://golang.org) and goes into detail about how we shaped and created the language.
 
 <!--more-->
 
