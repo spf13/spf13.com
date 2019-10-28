@@ -1,2 +1,3 @@
 <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="/static/css/style.css">
+{{ $style := resources.Get "css/ZGS.scss" | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
