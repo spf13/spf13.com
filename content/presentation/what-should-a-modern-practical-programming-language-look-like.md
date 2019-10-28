@@ -22,8 +22,7 @@ Keynote delivered at [The Landing Festival – Berlin](https://landingfestival.
 
 ## Recording
 
-Coming soon
-
+{{% youtube xF7RrDyUjn4 %}}
 
 ## Transcript
 
