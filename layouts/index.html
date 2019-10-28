@@ -19,7 +19,7 @@
 <section id="main">
   <div>
       <h1 id="title">{{.Site.Title}}</h1>
-    {{ range first 10 .Data.Pages }}
+    {{ range first 10 .Site.RegularPages }}
         {{ .Render "summary"}}
     {{ end }}
   </div>
