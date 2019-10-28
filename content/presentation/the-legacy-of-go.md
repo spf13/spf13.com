@@ -20,6 +20,9 @@ topics = [
 
 {{% gslides "https://docs.google.com/presentation/d/e/2PACX-1vRITJJ3iSVn2KUVoCIVAR5mFGDMm73Pc574y3tXkK6EZi-m1W8cqD5VR5t04oNB1ONeqDFUg2ULQOO5" %}}
 
+## Praise
+People in attendance called this presentation [beautiful](https://twitter.com/croloris/status/1186672814700544000), [inspirational](https://twitter.com/geototti21/status/1186678981627731969), and [awesome](https://twitter.com/fedepaol/status/1186706415227936768)
+
 ## Recording
 
 Coming Soon
