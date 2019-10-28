@@ -14,6 +14,8 @@ topics = [
 +++
 
 
+This presentation was developed for [GoLab](https://golab.io) in Firenze Italy and delivered as the closing keynote of the conference. The presentation talks about legacy, looking both backwards and forwards. It talks about the legacy of langauage Go inherited and how it is paying respect to that legacy. It concludes talking about the legacy Go hopes to leave behind.
+
 <!--more-->
 
 ## Slides
