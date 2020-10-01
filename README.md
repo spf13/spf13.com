@@ -26,3 +26,4 @@ designated otherwise.
 
 Feel free to use the HTML and CSS as you please.
 If you do use anything here, a link back to http://github.com/spf13/hugo would be appreciated.
+Thank you for visit.
